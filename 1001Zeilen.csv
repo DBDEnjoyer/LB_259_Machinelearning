@@ -1,0 +1,1001 @@
+ID,Distributor Name,Location,Car Name,Manufacturer Name,Car Type,Color,Gearbox,Number of Seats,Number of Doors,Energy,Manufactured Year,Price-$,Mileage-KM,Engine Power-HP,Purchased Date,Car Sale Status,Sold Date,Purchased Price-$,Sold Price-$,Margin-%,Sales Agent Name,Sales Rating,Sales Commission-$,Feedback
+O2KE17,Carmudi,California,Fortuner,Toyota,SUV,Gray,Automatic,8,5,Hybrid,2021,8800,67948,200,2022-10-26,Un Sold,1970-01-01,8296,0,0,Pranav,1,0,Average
+EPMPC8,Carousell,Philadelphia,Creta,Hyundai,Hatchback,Blue,Automatic,5,5,Hybrid,2018,7600,34637,113,2017-08-25,Sold,2021-03-03,5659,4770,-16,Vihaan,5,0,Good
+SQKXAP,Carsome,North Carolina,Scorpio,Mahindra,SUV,Gray,Automatic,5,5,Hybrid,2016,9300,33274,120,2018-06-13,Un Sold,1970-01-01,8430,0,0,Aarush,4,0,Good
+PWP2QK,Trivett,North Carolina,Plato,Prazo,Convertible,Gray,Automatic,2,2,Petrol,2021,8800,46250,250,2023-05-14,Sold,2024-04-02,6919,7942,15,Anushka,1,205,Average
+FNDDKM,Zupps,Portland,Dzire,Maruti,Sedan,Red,Automatic,5,5,Electric,2019,8500,29323,100,2022-08-24,Un Sold,1970-01-01,6864,0,0,Pavan,3,0,Poor
+I5D584,Zupps,Denver,Fortuner,Toyota,SUV,Red,Automatic,8,5,Electric,2021,9300,38716,200,2022-06-05,Sold,2024-11-02,8533,9929,16,Preeti,5,279,Excellent
+KPRE75,Cars24,New York,Thar,Mahindra,SUV,Gray,Automatic,5,3,Hybrid,2015,9400,83208,130,2021-09-28,Un Sold,1970-01-01,8470,0,0,Pavan,1,0,Excellent
+8C1O0B,Ahg,Denver,Etriga,Maruti,Hatchback,Black,Automatic,4,5,Hybrid,2023,7100,21926,103,2020-09-26,Un Sold,1970-01-01,5143,0,0,Shiva,4,0,Poor
+KCVVNQ,Olx,Detroit,Yodha,Tata,Truck,Blue,Automatic,3,2,Hybrid,2020,8400,53179,100,2023-06-01,Un Sold,1970-01-01,7375,0,0,Sai,5,0,Excellent
+HGW6RK,Nufor,Tennessee,Creta,Hyundai,Hatchback,Blue,Manual,5,5,Petrol,2018,6600,90765,113,2018-05-24,Un Sold,1970-01-01,5324,0,0,Shailaja,5,0,Good
+C9QNYY,Carmudi,Texas,Etriga,Maruti,Hatchback,Black,Manual,4,5,Electric,2017,8200,53385,103,2021-03-20,Un Sold,1970-01-01,6730,0,0,Dhruv,5,0,Good
+WGSFJS,Carsome,New York,i20,Hyundai,Hatchback,Red,Automatic,4,5,Electric,2024,7500,2243,120,2018-01-22,Un Sold,1970-01-01,6504,0,0,Bhavani,5,0,Poor
+MLQ5LC,Trust,Tennessee,Kags,Renault,SUV,Red,Automatic,7,5,Electric,2017,9700,43284,175,2015-03-19,Un Sold,1970-01-01,8199,0,0,Supriya,1,0,Average
+SB8EYK,Olx,Oklahoma,Kags,Renault,SUV,Black,Manual,7,5,Petrol,2016,8300,95645,175,2021-12-06,Un Sold,1970-01-01,6347,0,0,Krishna,5,0,Excellent
+IKYB6R,Nufor,Tucson,Scorpio,Mahindra,SUV,Red,Automatic,5,5,Electric,2021,9300,95835,120,2022-12-31,Sold,2022-10-22,8557,8896,4,Swathi,2,68,Excellent
+80TZC6,Zupps,Chicago,Thar,Mahindra,SUV,Blue,Automatic,5,3,Electric,2023,9100,51909,130,2021-01-05,Un Sold,1970-01-01,7211,0,0,Karan,3,0,Good
+TQ9T5W,Olx,New York,Creta,Hyundai,Hatchback,Gray,Automatic,5,5,Petrol,2021,6300,7203,113,2024-02-01,Un Sold,1970-01-01,5741,0,0,Shiva,3,0,Average
+U7L0OA,Carmix,Philadelphia,Creta,Hyundai,Hatchback,Red,Automatic,5,5,Diesel,2016,6900,66534,113,2022-07-15,Sold,2024-05-10,6382,5418,-15,Vishwajeet,1,0,Good
+KFDPP1,Oto,Madison,Kags,Renault,SUV,White,Automatic,7,5,Hybrid,2024,8500,18722,175,2021-09-22,Un Sold,1970-01-01,7127,0,0,Shiva,4,0,Good
+Y5SSOY,Carousell,California,Yodha,Tata,Truck,Blue,Automatic,3,2,Electric,2024,8500,57983,100,2015-03-07,Un Sold,1970-01-01,6835,0,0,Rithvik,2,0,Excellent
+8MGCUX,Knox,New York,Thar,Mahindra,SUV,Red,Automatic,5,3,Electric,2020,9400,70137,130,2019-08-17,Un Sold,1970-01-01,7506,0,0,Krishna,3,0,Excellent
+ABOXIG,Olx,North Carolina,Seltos,Kia,Hatchback,Gray,Manual,5,5,Electric,2023,7600,23346,150,2023-03-23,Un Sold,1970-01-01,6741,0,0,Dhruv,5,0,Excellent
+VZ5MUR,Automart,Portland,Scorpio,Mahindra,SUV,Blue,Manual,5,5,Hybrid,2021,8800,48354,120,2015-09-25,Un Sold,1970-01-01,7139,0,0,Shruthi,5,0,Excellent
+5DJ13V,Motor,Oklahoma,Creta,Hyundai,Hatchback,Black,Manual,5,5,Diesel,2016,6900,95284,113,2016-06-04,Un Sold,1970-01-01,5825,0,0,Anushka,5,0,Good
+DGSNQW,Zupps,Tucson,Scorpio,Mahindra,SUV,Gray,Automatic,5,5,Diesel,2018,8200,48596,120,2019-10-25,Un Sold,1970-01-01,6427,0,0,Shruthi,5,0,Poor
+DOXE81,Marchi,Columbus,Yodha,Tata,Truck,Red,Automatic,3,2,Electric,2024,8500,61262,100,2018-02-17,Sold,2023-08-15,7151,8688,21,Shilpa,3,307,Excellent
+SRVVYP,Motor,Chicago,Hilux,Toyota,Truck,Blue,Automatic,4,2,Diesel,2024,7100,64959,200,2021-10-12,Un Sold,1970-01-01,5969,0,0,Rithvik,3,0,Good
+AMNVDL,Carro,Oklahoma,Yodha,Tata,Truck,White,Manual,3,2,Electric,2022,8700,72044,100,2023-12-13,Un Sold,1970-01-01,7757,0,0,Hariom,5,0,Average
+CTFM5T,Automart,Utah,Scorpio,Mahindra,SUV,Red,Manual,5,5,Diesel,2016,8400,37504,120,2017-09-16,Un Sold,1970-01-01,7704,0,0,Shiva,2,0,Average
+6ZPI5C,Olx,Oklahoma,Hilux,Toyota,Truck,Black,Automatic,4,2,Petrol,2017,7700,21375,200,2016-03-09,Un Sold,1970-01-01,6452,0,0,Piyush,4,0,Good
+VCTDFO,Carousell,Denver,Seltos,Kia,Hatchback,White,Manual,5,5,Diesel,2018,6700,33498,150,2018-12-29,Un Sold,1970-01-01,6154,0,0,Piyush,5,0,Average
+6F9Q0G,Carro,Tennessee,i20,Hyundai,Hatchback,White,Manual,4,5,Electric,2017,8200,32382,120,2023-08-04,Sold,2024-01-12,7082,8063,14,Piyush,5,196,Excellent
+9SB70Z,Trust,North Carolina,Etriga,Maruti,Hatchback,Black,Automatic,4,5,Diesel,2016,6900,81424,103,2023-01-02,Un Sold,1970-01-01,5713,0,0,Pranav,3,0,Excellent
+A4QPZ0,Skipper,Tucson,Hilux,Toyota,Truck,White,Automatic,4,2,Electric,2019,9000,59004,200,2016-02-29,Un Sold,1970-01-01,8330,0,0,Ram,1,0,Poor
+KBTPCZ,Cars24,Columbus,Seltos,Kia,Hatchback,Black,Automatic,5,5,Diesel,2015,7000,46237,150,2016-05-23,Un Sold,1970-01-01,6281,0,0,Supriya,2,0,Good
+HBK2SG,APE,California,Thar,Mahindra,SUV,White,Manual,5,3,Diesel,2024,7600,46573,130,2019-06-10,Un Sold,1970-01-01,6615,0,0,Karan,1,0,Good
+STWK6M,Nufor,California,Etriga,Maruti,Hatchback,Blue,Automatic,4,5,Electric,2017,8200,2775,103,2015-11-04,Un Sold,1970-01-01,6943,0,0,Piyush,2,0,Average
+FODIG1,Trivett,Texas,Yodha,Tata,Truck,White,Manual,3,2,Petrol,2017,7700,40526,100,2023-10-09,Un Sold,1970-01-01,7066,0,0,Krishna,5,0,Excellent
+U0UZ5W,Zupps,Chicago,Dzire,Maruti,Sedan,Black,Manual,5,5,Hybrid,2022,7700,89475,100,2021-12-02,Un Sold,1970-01-01,6067,0,0,Sweta,3,0,Average
+G6ZJA5,Carmudi,Utah,Etriga,Maruti,Hatchback,White,Manual,4,5,Electric,2019,8000,27587,103,2020-07-01,Sold,2020-04-03,7484,8112,8,Vihaan,1,126,Excellent
+7ZI8WJ,Carousell,Denver,Kags,Renault,SUV,Black,Automatic,7,5,Petrol,2024,7500,96936,175,2023-03-22,Un Sold,1970-01-01,6772,0,0,Dhruv,1,0,Average
+0Z4J3X,Trust,Tucson,Yodha,Tata,Truck,Blue,Manual,3,2,Petrol,2018,7600,19557,100,2015-03-05,Un Sold,1970-01-01,6903,0,0,Swapna,5,0,Poor
+QJDNL5,Marchi,Chicago,Yodha,Tata,Truck,Gray,Manual,3,2,Diesel,2024,7100,63187,100,2015-02-12,Un Sold,1970-01-01,6095,0,0,Shilpa,4,0,Average
+94FWV1,Trivett,California,Kags,Renault,SUV,Red,Automatic,7,5,Petrol,2017,8200,62920,175,2023-10-13,Un Sold,1970-01-01,6389,0,0,Sai,5,0,Excellent
+QJ5DOU,Olx,Philadelphia,Fortuner,Toyota,SUV,Black,Manual,8,5,Hybrid,2022,8700,52524,200,2017-08-04,Sold,2022-09-01,8018,8423,5,Rithvik,3,81,Excellent
+RHM7I1,Knox,Tennessee,Fortuner,Toyota,SUV,Blue,Automatic,8,5,Diesel,2024,7600,36148,200,2019-06-03,Un Sold,1970-01-01,6944,0,0,Vishwajeet,1,0,Good
+M1ZIB2,Kamkar,Florida,Fortuner,Toyota,SUV,Gray,Automatic,8,5,Petrol,2020,7900,35124,200,2019-12-07,Un Sold,1970-01-01,5928,0,0,Sai,2,0,Poor
+ORSWJU,Carsome,Columbus,Etriga,Maruti,Hatchback,Gray,Manual,4,5,Diesel,2017,6800,55505,103,2020-09-25,Un Sold,1970-01-01,6090,0,0,Anushka,4,0,Excellent
+4WLWYI,Trust,Utah,Scorpio,Mahindra,SUV,Blue,Manual,5,5,Diesel,2024,7600,18683,120,2021-11-12,Un Sold,1970-01-01,6922,0,0,Anushka,1,0,Good
+2D2S6D,Carro,Denver,Seltos,Kia,Hatchback,Red,Automatic,5,5,Electric,2020,7900,20977,150,2019-05-09,Un Sold,1970-01-01,7400,0,0,Anushka,3,0,Excellent
+9VV9TS,Sobri,Philadelphia,i20,Hyundai,Hatchback,White,Manual,4,5,Petrol,2015,6900,42996,120,2016-10-30,Un Sold,1970-01-01,5696,0,0,Vishwajeet,5,0,Good
+7UZ5JI,Knox,Portland,Creta,Hyundai,Hatchback,Red,Manual,5,5,Petrol,2022,6200,44056,113,2022-10-10,Un Sold,1970-01-01,4858,0,0,Narayan,5,0,Average
+KEZ6OZ,Automart,Detroit,Fortuner,Toyota,SUV,Blue,Manual,8,5,Diesel,2015,8500,1596,200,2019-04-06,Un Sold,1970-01-01,7771,0,0,Karan,5,0,Good
+NEJDTY,Trust,Tennessee,i20,Hyundai,Hatchback,Gray,Manual,4,5,Electric,2022,7700,44489,120,2023-12-17,Un Sold,1970-01-01,6732,0,0,Sai,5,0,Average
+CVEVNH,Trivett,Texas,Scorpio,Mahindra,SUV,Red,Automatic,5,5,Petrol,2018,8100,71853,120,2024-05-06,Un Sold,1970-01-01,7224,0,0,Swathi,5,0,Average
+553HY2,Oto,Tennessee,Thar,Mahindra,SUV,Red,Automatic,5,3,Electric,2023,9100,3528,130,2022-04-21,Un Sold,1970-01-01,8048,0,0,Shilpa,5,0,Good
+8XWHPE,Cars24,Madison,Plato,Prazo,Convertible,Gray,Automatic,2,2,Petrol,2019,9000,51334,250,2015-08-02,Un Sold,1970-01-01,8314,0,0,Hariom,2,0,Average
+8HMZIA,Oto,Detroit,i20,Hyundai,Hatchback,Gray,Manual,4,5,Diesel,2024,6100,49823,120,2019-06-18,Un Sold,1970-01-01,4420,0,0,Shiva,1,0,Good
+E4JC2G,Ahg,San Jose,Yodha,Tata,Truck,Blue,Manual,3,2,Diesel,2017,7800,46138,100,2015-08-26,Sold,2015-07-29,6080,6104,0,Aarush,1,5,Poor
+1JZYN5,Nufor,Utah,Plato,Prazo,Convertible,Black,Automatic,2,2,Electric,2017,10700,18743,250,2016-10-27,Un Sold,1970-01-01,9687,0,0,Arjuna,3,0,Good
+YB6JBZ,Carousell,Detroit,Creta,Hyundai,Hatchback,Red,Automatic,5,5,Petrol,2019,6500,16893,113,2018-12-06,Un Sold,1970-01-01,4702,0,0,Preeti,2,0,Excellent
+MYKWHY,Cars24,Philadelphia,i20,Hyundai,Hatchback,Blue,Automatic,4,5,Diesel,2016,6900,50426,120,2016-01-13,Un Sold,1970-01-01,5432,0,0,Narayan,4,0,Average
+V5RKQP,Kamkar,San Jose,Creta,Hyundai,Hatchback,Gray,Manual,5,5,Electric,2021,7800,54336,113,2017-08-20,Un Sold,1970-01-01,6323,0,0,Ram,3,0,Average
+ZYLZ4L,Carro,Texas,Swift,Maruti,Sedan,Blue,Manual,5,4,Electric,2024,8000,19397,115,2024-05-29,Un Sold,1970-01-01,6938,0,0,Krishna,5,0,Good
+I36MTO,Oto,Florida,Swift,Maruti,Sedan,Gray,Automatic,5,4,Petrol,2018,7100,6390,115,2019-06-27,Un Sold,1970-01-01,6179,0,0,Aarush,3,0,Excellent
+JAUKN9,Carro,Florida,Swift,Maruti,Sedan,Black,Automatic,5,4,Hybrid,2024,7500,12242,115,2021-06-02,Un Sold,1970-01-01,6248,0,0,Aditya,1,0,Average
+KPSTMV,Kamkar,Madison,i20,Hyundai,Hatchback,Red,Manual,4,5,Hybrid,2021,7300,48144,120,2015-06-29,Un Sold,1970-01-01,5496,0,0,Aditya,2,0,Good
+TRL6NS,Oto,North Carolina,Dzire,Maruti,Sedan,White,Manual,5,5,Petrol,2015,7400,63536,100,2020-11-07,Un Sold,1970-01-01,5584,0,0,Preeti,4,0,Excellent
+CQJ5R4,Nufor,Texas,Yodha,Tata,Truck,Blue,Automatic,3,2,Petrol,2024,7000,97765,100,2020-06-25,Sold,2024-08-03,6188,7162,16,Piyush,3,195,Good
+3CGDSS,Trivett,Tucson,Yodha,Tata,Truck,Gray,Manual,3,2,Diesel,2018,7700,1345,100,2016-03-16,Sold,2016-05-04,6548,6339,-3,Pavan,3,0,Excellent
+YMRT5G,Kamkar,Columbus,Fortuner,Toyota,SUV,Gray,Automatic,8,5,Diesel,2020,8000,65392,200,2021-09-29,Sold,2022-08-20,6452,5893,-9,Bhavani,2,0,Excellent
+HXKK7X,Marchi,Florida,Hilux,Toyota,Truck,Blue,Automatic,4,2,Electric,2016,9300,81298,200,2017-06-23,Sold,2023-06-28,7859,9392,20,Supriya,3,307,Excellent
+XTWDXG,Carmix,Detroit,Swift,Maruti,Sedan,Black,Automatic,5,4,Diesel,2023,6700,68346,115,2024-08-08,Un Sold,1970-01-01,6110,0,0,Hariom,4,0,Poor
+8QZ10S,Carmix,Philadelphia,Seltos,Kia,Hatchback,Red,Manual,5,5,Hybrid,2018,7600,86480,150,2018-10-08,Un Sold,1970-01-01,6804,0,0,Anushka,2,0,Good
+7M2O2Y,Carsome,Chicago,Etriga,Maruti,Hatchback,Gray,Manual,4,5,Diesel,2018,6700,96613,103,2020-09-12,Un Sold,1970-01-01,5548,0,0,Dhruv,2,0,Excellent
+R18SJO,APE,Chicago,Seltos,Kia,Hatchback,Red,Manual,5,5,Hybrid,2017,7700,2849,150,2023-03-07,Un Sold,1970-01-01,6593,0,0,Bhavani,2,0,Good
+QRJKHU,Carousell,Columbus,i20,Hyundai,Hatchback,White,Automatic,4,5,Diesel,2017,6800,87877,120,2021-02-15,Sold,2021-03-27,6200,7027,13,Pavan,4,165,Excellent
+1A6156,Motor,Detroit,Fortuner,Toyota,SUV,Red,Manual,8,5,Petrol,2023,7600,40560,200,2018-09-28,Un Sold,1970-01-01,6438,0,0,Hariom,2,0,Average
+5L3LL4,Skipper,Madison,Scorpio,Mahindra,SUV,Red,Automatic,5,5,Petrol,2021,7800,93422,120,2019-06-28,Sold,2021-01-15,6102,4970,-19,Narayan,5,0,Excellent
+EY3OZ1,APE,California,Etriga,Maruti,Hatchback,Gray,Manual,4,5,Petrol,2020,6400,68035,103,2020-05-04,Un Sold,1970-01-01,5801,0,0,Sweta,5,0,Average
+3X9AY1,Marchi,Utah,Dzire,Maruti,Sedan,Black,Manual,5,5,Petrol,2015,7400,83801,100,2024-04-15,Un Sold,1970-01-01,5481,0,0,Shailaja,4,0,Good
+7MXX8J,Trust,Tucson,Seltos,Kia,Hatchback,Black,Manual,5,5,Electric,2015,8400,95261,150,2017-06-26,Un Sold,1970-01-01,7722,0,0,Rithvik,3,0,Average
+SAVS5D,Automart,North Carolina,Yodha,Tata,Truck,Black,Manual,3,2,Electric,2018,9100,25612,100,2023-09-28,Un Sold,1970-01-01,7627,0,0,Shiva,4,0,Average
+IXX9HQ,Carousell,Philadelphia,Thar,Mahindra,SUV,Red,Automatic,5,3,Electric,2021,9300,5109,130,2024-07-14,Un Sold,1970-01-01,7684,0,0,Swathi,1,0,Excellent
+J0G6Q1,Trust,Utah,Kags,Renault,SUV,Blue,Automatic,7,5,Hybrid,2020,8900,20544,175,2020-08-07,Un Sold,1970-01-01,6974,0,0,Rithvik,3,0,Average
+LZIBFK,Cars24,Oklahoma,Seltos,Kia,Hatchback,Black,Manual,5,5,Petrol,2018,6600,48985,150,2020-08-27,Un Sold,1970-01-01,5285,0,0,Preeti,3,0,Average
+IG8AN4,Cars24,Utah,i20,Hyundai,Hatchback,Red,Automatic,4,5,Hybrid,2024,7000,6187,120,2020-04-03,Sold,2020-10-23,6080,6000,-1,Hariom,1,0,Good
+TTWEB3,Sobri,Tennessee,Yodha,Tata,Truck,Black,Manual,3,2,Electric,2016,9300,48796,100,2015-09-03,Un Sold,1970-01-01,7550,0,0,Rithvik,1,0,Good
+NCCM68,Carousell,Portland,Etriga,Maruti,Hatchback,Black,Manual,4,5,Hybrid,2021,7300,71878,103,2023-06-12,Un Sold,1970-01-01,5563,0,0,Hariom,3,0,Excellent
+D2MP5I,Marchi,Philadelphia,Etriga,Maruti,Hatchback,Gray,Manual,4,5,Diesel,2021,6400,65553,103,2020-03-05,Sold,2023-07-10,5081,5795,14,Krishna,5,143,Good
+G61RX0,Carro,Denver,Thar,Mahindra,SUV,Blue,Manual,5,3,Petrol,2016,8300,9295,130,2023-01-05,Un Sold,1970-01-01,6659,0,0,Sweta,3,0,Poor
+B18LAI,Knox,Denver,Fortuner,Toyota,SUV,Black,Automatic,8,5,Diesel,2015,8500,21157,200,2023-03-21,Un Sold,1970-01-01,7396,0,0,Rithvik,4,0,Excellent
+MQDMZX,Ahg,North Carolina,Dzire,Maruti,Sedan,Gray,Manual,5,5,Hybrid,2017,8200,62562,100,2020-08-22,Un Sold,1970-01-01,7522,0,0,Shilpa,5,0,Poor
+W3N6GC,Trivett,California,Yodha,Tata,Truck,Red,Automatic,3,2,Petrol,2024,7000,9023,100,2019-12-23,Sold,2020-06-16,5276,4938,-6,Narayan,1,0,Excellent
+1GJOBW,Motor,California,Plato,Prazo,Convertible,Black,Manual,2,2,Hybrid,2021,9800,11719,250,2023-07-28,Un Sold,1970-01-01,9046,0,0,Pranav,2,0,Average
+JDD9H3,Trivett,Oklahoma,i20,Hyundai,Hatchback,Red,Automatic,4,5,Diesel,2016,6900,34328,120,2020-12-25,Un Sold,1970-01-01,5515,0,0,Shailaja,1,0,Good
+G0UC2X,Carousell,Oklahoma,Fortuner,Toyota,SUV,Red,Manual,8,5,Petrol,2020,7900,18701,200,2017-05-31,Un Sold,1970-01-01,6080,0,0,Bhavani,2,0,Good
+RW7LQY,Marchi,California,Creta,Hyundai,Hatchback,Blue,Manual,5,5,Hybrid,2024,7000,70112,113,2015-11-16,Un Sold,1970-01-01,6023,0,0,Narayan,4,0,Good
+ALXRLJ,Olx,North Carolina,Plato,Prazo,Convertible,White,Manual,2,2,Hybrid,2021,9800,29019,250,2015-01-15,Un Sold,1970-01-01,9296,0,0,Arjuna,1,0,Excellent
+UXGK4K,Sobri,Philadelphia,Scorpio,Mahindra,SUV,Black,Automatic,5,5,Electric,2024,9000,11150,120,2023-12-19,Sold,2024-02-23,8111,8098,0,Sweta,1,0,Excellent
+RCU3VW,Skipper,California,Hilux,Toyota,Truck,Red,Manual,4,2,Petrol,2018,7600,23778,200,2022-03-21,Un Sold,1970-01-01,6814,0,0,Vishwajeet,3,0,Excellent
+EV95OH,Zupps,Texas,Fortuner,Toyota,SUV,Gray,Automatic,8,5,Hybrid,2021,8800,18644,200,2019-05-03,Un Sold,1970-01-01,7379,0,0,Preeti,5,0,Excellent
+QN9SRH,Automart,Portland,Seltos,Kia,Hatchback,Black,Manual,5,5,Hybrid,2015,7900,70595,150,2023-05-31,Un Sold,1970-01-01,7072,0,0,Shilpa,1,0,Excellent
+LALQK8,Trivett,Detroit,i20,Hyundai,Hatchback,Blue,Manual,4,5,Electric,2020,7900,13681,120,2017-08-26,Un Sold,1970-01-01,6020,0,0,Vihaan,2,0,Good
+Q0J603,Oto,Texas,Fortuner,Toyota,SUV,Gray,Manual,8,5,Hybrid,2020,8900,1564,200,2020-07-26,Un Sold,1970-01-01,7767,0,0,Pavan,3,0,Average
+SEP170,Kamkar,Chicago,Yodha,Tata,Truck,Blue,Automatic,3,2,Electric,2016,9300,21834,100,2021-06-06,Sold,2024-12-13,8691,8976,3,Shilpa,4,57,Average
+WHXGXU,APE,Denver,Fortuner,Toyota,SUV,Blue,Automatic,8,5,Petrol,2021,7800,70700,200,2017-06-17,Sold,2022-02-09,5887,6288,7,Vishwajeet,1,80,Poor
+T2OY11,Zupps,Denver,Fortuner,Toyota,SUV,Blue,Manual,8,5,Diesel,2017,8300,50769,200,2021-02-02,Sold,2024-08-04,7119,6857,-4,Shruthi,1,0,Excellent
+9VI17L,Oto,Utah,Dzire,Maruti,Sedan,Red,Automatic,5,5,Hybrid,2017,8200,48126,100,2019-01-26,Un Sold,1970-01-01,6477,0,0,Dhruv,3,0,Average
+G327Y4,Trivett,North Carolina,Scorpio,Mahindra,SUV,Black,Automatic,5,5,Hybrid,2021,8800,13825,120,2016-05-27,Un Sold,1970-01-01,7723,0,0,Aarush,1,0,Average
+EBKKV0,Kamkar,New York,Thar,Mahindra,SUV,Blue,Automatic,5,3,Diesel,2018,8200,11960,130,2020-01-02,Un Sold,1970-01-01,6475,0,0,Vihaan,5,0,Excellent
+OF9OEP,Carmix,Philadelphia,Hilux,Toyota,Truck,Blue,Manual,4,2,Hybrid,2015,8900,91588,200,2018-10-28,Un Sold,1970-01-01,7456,0,0,Anushka,5,0,Excellent
+EGOVGU,Trivett,Texas,Yodha,Tata,Truck,Blue,Automatic,3,2,Diesel,2019,7600,60253,100,2017-03-19,Sold,2020-08-26,6654,6166,-7,Pavan,2,0,Average
+02MD8J,APE,North Carolina,Plato,Prazo,Convertible,Gray,Manual,2,2,Petrol,2018,9100,12551,250,2018-02-13,Sold,2024-08-08,8529,9238,8,Supriya,4,142,Poor
+CGLUWH,Trivett,San Jose,i20,Hyundai,Hatchback,White,Automatic,4,5,Hybrid,2015,7900,40275,120,2020-12-28,Sold,2022-03-01,6068,7394,22,Sai,5,265,Excellent
+AY1GFT,Carro,Madison,Kags,Renault,SUV,Blue,Automatic,7,5,Petrol,2020,7900,3079,175,2020-07-03,Un Sold,1970-01-01,6483,0,0,Anushka,3,0,Good
+DJT6XL,Motor,Utah,i20,Hyundai,Hatchback,Red,Manual,4,5,Electric,2019,8000,55735,120,2015-02-16,Sold,2016-02-25,6116,5731,-6,Bhavani,3,0,Average
+UOVS4U,Sobri,San Jose,Fortuner,Toyota,SUV,Black,Manual,8,5,Electric,2016,9800,11356,200,2021-10-09,Sold,2024-03-15,8416,7408,-12,Anushka,5,0,Excellent
+GC2JBM,Skipper,Texas,i20,Hyundai,Hatchback,Black,Automatic,4,5,Diesel,2015,7000,36117,120,2023-06-07,Un Sold,1970-01-01,5396,0,0,Arjuna,1,0,Excellent
+KMRFUE,Ahg,Florida,Hilux,Toyota,Truck,Red,Manual,4,2,Electric,2021,8800,50698,200,2020-04-08,Un Sold,1970-01-01,7822,0,0,Vihaan,2,0,Good
+CZHNC3,Zupps,New York,Yodha,Tata,Truck,White,Automatic,3,2,Electric,2017,9200,33344,100,2020-06-22,Un Sold,1970-01-01,7940,0,0,Shailaja,3,0,Good
+YTBGCL,Ahg,North Carolina,Dzire,Maruti,Sedan,Black,Manual,5,5,Petrol,2023,6600,60777,100,2019-01-25,Un Sold,1970-01-01,5743,0,0,Vishwajeet,4,0,Good
+KTDD8N,Olx,Utah,Kags,Renault,SUV,Blue,Automatic,7,5,Diesel,2017,8300,88136,175,2019-07-16,Un Sold,1970-01-01,7312,0,0,Piyush,5,0,Excellent
+QHP4I1,Trust,North Carolina,Fortuner,Toyota,SUV,White,Manual,8,5,Diesel,2021,7900,30231,200,2015-03-13,Un Sold,1970-01-01,6370,0,0,Ram,3,0,Good
+YWS2VE,Cars24,Oklahoma,Etriga,Maruti,Hatchback,Gray,Manual,4,5,Hybrid,2021,7300,42472,103,2015-09-18,Un Sold,1970-01-01,5935,0,0,Pranav,5,0,Excellent
+JTCEHR,Trust,New York,Plato,Prazo,Convertible,Red,Automatic,2,2,Petrol,2023,8600,29185,250,2015-04-30,Un Sold,1970-01-01,6876,0,0,Shailaja,4,0,Poor
+NT8FBT,Trivett,San Jose,Fortuner,Toyota,SUV,Gray,Manual,8,5,Diesel,2020,8000,77484,200,2020-05-02,Un Sold,1970-01-01,7432,0,0,Arjuna,1,0,Excellent
+ALYISL,Marchi,Utah,Etriga,Maruti,Hatchback,Black,Manual,4,5,Diesel,2019,6600,28549,103,2019-04-07,Un Sold,1970-01-01,5619,0,0,Dhruv,2,0,Good
+QFB2VP,Automart,North Carolina,i20,Hyundai,Hatchback,Red,Manual,4,5,Petrol,2018,6600,52254,120,2015-03-23,Un Sold,1970-01-01,5559,0,0,Anushka,5,0,Average
+BSAGS8,Trivett,Tennessee,i20,Hyundai,Hatchback,Black,Manual,4,5,Diesel,2019,6600,31453,120,2021-11-21,Un Sold,1970-01-01,5401,0,0,Shruthi,5,0,Excellent
+GZCUC8,Zupps,Oklahoma,Etriga,Maruti,Hatchback,Red,Automatic,4,5,Petrol,2019,6500,17589,103,2015-03-05,Un Sold,1970-01-01,4628,0,0,Sweta,5,0,Excellent
+278JHQ,Marchi,Philadelphia,Plato,Prazo,Convertible,Black,Automatic,2,2,Diesel,2017,9300,1527,250,2021-05-19,Un Sold,1970-01-01,7958,0,0,Supriya,3,0,Excellent
+AMT0PZ,Carsome,Tennessee,Seltos,Kia,Hatchback,Gray,Automatic,5,5,Petrol,2018,6600,70313,150,2017-07-10,Un Sold,1970-01-01,4972,0,0,Krishna,5,0,Good
+SHOLDJ,Marchi,Florida,Hilux,Toyota,Truck,Blue,Automatic,4,2,Diesel,2022,7300,64403,200,2016-04-21,Sold,2024-08-25,6729,7897,17,Swapna,4,234,Average
+U4YU64,APE,Florida,Hilux,Toyota,Truck,Black,Manual,4,2,Diesel,2020,7500,77367,200,2021-10-08,Un Sold,1970-01-01,5897,0,0,Aarush,5,0,Good
+I43SXC,Nufor,North Carolina,i20,Hyundai,Hatchback,Red,Manual,4,5,Electric,2024,7500,55414,120,2016-04-05,Un Sold,1970-01-01,5613,0,0,Narayan,3,0,Good
+XRIB4A,Knox,Madison,i20,Hyundai,Hatchback,Gray,Manual,4,5,Petrol,2022,6200,52758,120,2024-05-01,Un Sold,1970-01-01,4502,0,0,Ram,1,0,Excellent
+X7JBA6,Carsome,North Carolina,Fortuner,Toyota,SUV,Blue,Automatic,8,5,Electric,2020,9400,64966,200,2017-05-13,Un Sold,1970-01-01,8885,0,0,Pranav,4,0,Average
+X6F7Q3,Knox,California,Kags,Renault,SUV,Red,Manual,7,5,Diesel,2016,8400,14031,175,2020-04-17,Un Sold,1970-01-01,7689,0,0,Piyush,4,0,Average
+DDYRT2,Trivett,Philadelphia,Hilux,Toyota,Truck,Blue,Manual,4,2,Electric,2016,9300,67525,200,2015-01-23,Un Sold,1970-01-01,8741,0,0,Vihaan,1,0,Good
+P493VS,Olx,Tennessee,Swift,Maruti,Sedan,Gray,Automatic,5,4,Electric,2018,8600,69855,115,2019-07-23,Un Sold,1970-01-01,7894,0,0,Pranav,4,0,Average
+6H082G,Carro,Tucson,Kags,Renault,SUV,Blue,Manual,7,5,Electric,2018,9600,84754,175,2018-07-13,Sold,2022-09-05,8115,7076,-13,Bhavani,2,0,Average
+YWZNUY,Carsome,Tucson,Hilux,Toyota,Truck,Black,Automatic,4,2,Diesel,2023,7200,61584,200,2021-11-27,Un Sold,1970-01-01,6273,0,0,Sai,1,0,Poor
+DBI1QB,Nufor,North Carolina,Yodha,Tata,Truck,Black,Automatic,3,2,Petrol,2017,7700,40313,100,2016-10-23,Sold,2017-05-17,6563,7385,13,Pavan,5,164,Good
+PS1VYK,Carmix,Tennessee,Swift,Maruti,Sedan,Red,Manual,5,4,Electric,2015,8900,46664,115,2020-02-22,Un Sold,1970-01-01,8377,0,0,Vishwajeet,2,0,Good
+B0UDMV,Ahg,Philadelphia,i20,Hyundai,Hatchback,Blue,Automatic,4,5,Petrol,2020,6400,75319,120,2024-04-05,Un Sold,1970-01-01,4757,0,0,Aarush,3,0,Good
+EPWZ6N,Carro,Denver,Plato,Prazo,Convertible,Black,Automatic,2,2,Petrol,2019,9000,60038,250,2020-07-14,Sold,2022-10-05,7188,8434,17,Shailaja,5,249,Excellent
+BRCRFP,Kamkar,Philadelphia,Etriga,Maruti,Hatchback,Gray,Manual,4,5,Hybrid,2020,7400,49977,103,2018-04-16,Un Sold,1970-01-01,6022,0,0,Narayan,2,0,Good
+SU6EX5,Automart,North Carolina,Dzire,Maruti,Sedan,White,Automatic,5,5,Electric,2022,8200,21934,100,2024-02-26,Un Sold,1970-01-01,6477,0,0,Narayan,3,0,Average
+7B9QBI,Ahg,Utah,Seltos,Kia,Hatchback,Blue,Automatic,5,5,Electric,2020,7900,3219,150,2015-06-19,Un Sold,1970-01-01,6884,0,0,Shailaja,5,0,Excellent
+WFUDTF,Cars24,Utah,Dzire,Maruti,Sedan,Black,Manual,5,5,Electric,2022,8200,69565,100,2023-10-13,Un Sold,1970-01-01,7565,0,0,Sai,1,0,Good
+G98J8R,Marchi,Oklahoma,Yodha,Tata,Truck,Blue,Automatic,3,2,Petrol,2021,7300,63474,100,2017-09-08,Sold,2024-08-08,6560,7205,10,Vishwajeet,5,129,Excellent
+R4UP2K,Carousell,California,Plato,Prazo,Convertible,Red,Manual,2,2,Electric,2023,10100,56074,250,2021-08-09,Un Sold,1970-01-01,8875,0,0,Ram,2,0,Average
+IOFHER,Carsome,Utah,Fortuner,Toyota,SUV,Black,Manual,8,5,Diesel,2019,8100,83433,200,2017-09-14,Un Sold,1970-01-01,6854,0,0,Piyush,5,0,Average
+KL7O5R,Nufor,North Carolina,Seltos,Kia,Hatchback,Black,Automatic,5,5,Hybrid,2021,7300,31088,150,2021-10-09,Un Sold,1970-01-01,5381,0,0,Aarush,4,0,Excellent
+KSU1Z1,Ahg,California,Etriga,Maruti,Hatchback,Black,Automatic,4,5,Diesel,2020,6500,7002,103,2017-02-22,Un Sold,1970-01-01,4573,0,0,Vishwajeet,1,0,Excellent
+M2SOEY,Carsome,Columbus,Creta,Hyundai,Hatchback,Blue,Automatic,5,5,Hybrid,2018,7600,81273,113,2015-08-05,Un Sold,1970-01-01,6128,0,0,Shruthi,3,0,Good
+3C7UV1,Carsome,Chicago,Kags,Renault,SUV,Blue,Manual,7,5,Diesel,2020,8000,98380,175,2023-07-04,Sold,2024-01-17,6189,6606,7,Supriya,4,83,Average
+IBI6OS,Sobri,Portland,Fortuner,Toyota,SUV,Red,Automatic,8,5,Hybrid,2019,9000,96001,200,2021-04-10,Un Sold,1970-01-01,7340,0,0,Shiva,1,0,Excellent
+DSP3SF,Trust,North Carolina,Yodha,Tata,Truck,Blue,Automatic,3,2,Petrol,2022,7200,79086,100,2024-03-23,Un Sold,1970-01-01,5285,0,0,Krishna,3,0,Good
+VO2XL0,Cars24,Columbus,Etriga,Maruti,Hatchback,Gray,Automatic,4,5,Hybrid,2024,7000,76330,103,2015-12-31,Un Sold,1970-01-01,5248,0,0,Dhruv,4,0,Average
+O11PVZ,Skipper,Utah,Seltos,Kia,Hatchback,White,Manual,5,5,Electric,2023,7600,52769,150,2018-05-27,Sold,2023-02-19,5754,7197,25,Bhavani,5,289,Excellent
+Y37LEU,Carmudi,Tucson,Seltos,Kia,Hatchback,Gray,Automatic,5,5,Diesel,2023,6200,17328,150,2019-09-23,Un Sold,1970-01-01,5395,0,0,Aarush,4,0,Excellent
+03NA1Q,Automart,North Carolina,Etriga,Maruti,Hatchback,Black,Automatic,4,5,Petrol,2019,6500,70063,103,2023-02-19,Un Sold,1970-01-01,5884,0,0,Shilpa,5,0,Poor
+2NJK4O,Nufor,Oklahoma,Yodha,Tata,Truck,Gray,Automatic,3,2,Diesel,2024,7100,39022,100,2017-11-15,Un Sold,1970-01-01,5178,0,0,Supriya,2,0,Excellent
+U6IMDE,Carousell,Philadelphia,Dzire,Maruti,Sedan,Gray,Manual,5,5,Diesel,2024,6600,12946,100,2024-09-13,Sold,2024-10-28,5232,4220,-19,Shruthi,4,0,Excellent
+NHQTLF,Olx,Philadelphia,Kags,Renault,SUV,Black,Automatic,7,5,Hybrid,2016,9300,7363,175,2018-04-29,Un Sold,1970-01-01,8099,0,0,Shiva,2,0,Average
+NW0M7L,Trivett,California,i20,Hyundai,Hatchback,Blue,Automatic,4,5,Electric,2024,7500,24214,120,2021-08-05,Un Sold,1970-01-01,6771,0,0,Shilpa,2,0,Average
+IU1GNN,Ahg,California,Plato,Prazo,Convertible,Red,Automatic,2,2,Electric,2018,10600,56714,250,2022-01-16,Un Sold,1970-01-01,8922,0,0,Shilpa,3,0,Average
+P7BHEZ,Nufor,Philadelphia,Creta,Hyundai,Hatchback,Gray,Manual,5,5,Petrol,2015,6900,76042,113,2023-07-01,Un Sold,1970-01-01,5748,0,0,Vihaan,2,0,Excellent
+T52ZC8,Carousell,Philadelphia,Dzire,Maruti,Sedan,Blue,Manual,5,5,Electric,2023,8100,43625,100,2022-08-16,Sold,2022-10-18,6571,7566,15,Bhavani,1,199,Excellent
+239ENE,Kamkar,North Carolina,Plato,Prazo,Convertible,Red,Automatic,2,2,Diesel,2017,9300,70057,250,2017-08-08,Un Sold,1970-01-01,8113,0,0,Narayan,3,0,Good
+OI9J9C,Ahg,Tucson,Etriga,Maruti,Hatchback,Black,Automatic,4,5,Electric,2022,7700,80808,103,2023-01-25,Un Sold,1970-01-01,7035,0,0,Ram,4,0,Excellent
+E9MWXH,Oto,Chicago,Yodha,Tata,Truck,Blue,Manual,3,2,Diesel,2018,7700,24885,100,2022-05-30,Un Sold,1970-01-01,5913,0,0,Narayan,3,0,Excellent
+SEJP3V,Carmudi,Florida,i20,Hyundai,Hatchback,Blue,Automatic,4,5,Hybrid,2020,7400,94477,120,2019-12-22,Un Sold,1970-01-01,6299,0,0,Piyush,3,0,Good
+TELA0D,Automart,Tucson,Swift,Maruti,Sedan,Red,Automatic,5,4,Diesel,2019,7100,63403,115,2019-05-31,Un Sold,1970-01-01,6286,0,0,Aditya,4,0,Good
+R9BNYG,Carmudi,Denver,Fortuner,Toyota,SUV,Red,Manual,8,5,Petrol,2016,8300,79843,200,2020-01-18,Un Sold,1970-01-01,6521,0,0,Aditya,5,0,Good
+U3D7VC,Olx,North Carolina,Scorpio,Mahindra,SUV,Gray,Manual,5,5,Electric,2021,9300,72493,120,2021-10-30,Un Sold,1970-01-01,7448,0,0,Shailaja,2,0,Average
+NCL21H,Sobri,Oklahoma,Scorpio,Mahindra,SUV,Red,Manual,5,5,Hybrid,2020,8900,68267,120,2017-01-15,Un Sold,1970-01-01,7514,0,0,Sweta,4,0,Poor
+8KF3U4,Sobri,California,Hilux,Toyota,Truck,Red,Automatic,4,2,Petrol,2021,7300,91658,200,2015-04-12,Un Sold,1970-01-01,6476,0,0,Swathi,4,0,Good
+2NSSF5,Motor,Tennessee,Plato,Prazo,Convertible,Black,Automatic,2,2,Electric,2018,10600,86830,250,2024-12-04,Sold,2024-03-02,9637,10909,13,Bhavani,3,254,Good
+KV1L4X,Automart,Denver,Seltos,Kia,Hatchback,Red,Manual,5,5,Electric,2024,7500,51912,150,2019-08-19,Sold,2024-06-08,6291,7636,21,Hariom,1,269,Excellent
+X3K2LB,Zupps,New York,i20,Hyundai,Hatchback,Red,Manual,4,5,Electric,2017,8200,42376,120,2020-11-11,Un Sold,1970-01-01,6480,0,0,Karan,1,0,Good
+CZGH0V,Zupps,Tennessee,Creta,Hyundai,Hatchback,White,Manual,5,5,Diesel,2023,6200,99094,113,2019-12-11,Un Sold,1970-01-01,4840,0,0,Dhruv,4,0,Average
+LN5I2V,Carousell,Oklahoma,Hilux,Toyota,Truck,Black,Automatic,4,2,Electric,2017,9200,42366,200,2015-01-31,Un Sold,1970-01-01,8110,0,0,Sai,3,0,Good
+FDMI6R,Carro,Utah,Swift,Maruti,Sedan,Gray,Manual,5,4,Hybrid,2023,7600,27999,115,2020-01-13,Sold,2024-10-31,6187,7482,21,Vishwajeet,5,259,Average
+ELDW85,Sobri,Denver,Yodha,Tata,Truck,Black,Manual,3,2,Petrol,2023,7100,49030,100,2018-10-20,Sold,2022-01-14,6073,5318,-12,Ram,4,0,Excellent
+8C517O,Oto,Denver,Scorpio,Mahindra,SUV,Red,Manual,5,5,Electric,2024,9000,17968,120,2017-08-06,Un Sold,1970-01-01,8183,0,0,Krishna,4,0,Good
+GURYTZ,Cars24,Philadelphia,Thar,Mahindra,SUV,Blue,Manual,5,3,Petrol,2016,8300,48708,130,2021-01-06,Un Sold,1970-01-01,7424,0,0,Sai,2,0,Excellent
+1L1MD4,Motor,North Carolina,i20,Hyundai,Hatchback,Red,Automatic,4,5,Petrol,2019,6500,70414,120,2016-01-14,Sold,2024-05-07,5789,5677,-2,Vihaan,5,0,Excellent
+HQMP6N,Carsome,Denver,Seltos,Kia,Hatchback,Blue,Automatic,5,5,Electric,2017,8200,77041,150,2022-01-19,Un Sold,1970-01-01,7485,0,0,Karan,5,0,Good
+CG1AMW,Carro,Oklahoma,Seltos,Kia,Hatchback,Blue,Manual,5,5,Diesel,2021,6400,88625,150,2017-02-02,Un Sold,1970-01-01,4770,0,0,Pavan,4,0,Good
+JM02WH,Skipper,Chicago,Seltos,Kia,Hatchback,White,Automatic,5,5,Petrol,2019,6500,10204,150,2015-11-27,Un Sold,1970-01-01,5563,0,0,Swapna,1,0,Good
+NI861Y,Carmudi,New York,Creta,Hyundai,Hatchback,White,Manual,5,5,Diesel,2017,6800,7578,113,2024-10-05,Un Sold,1970-01-01,4988,0,0,Sweta,5,0,Average
+9OQKOH,Kamkar,Florida,Swift,Maruti,Sedan,Red,Manual,5,4,Hybrid,2021,7800,36996,115,2019-07-02,Un Sold,1970-01-01,6653,0,0,Shilpa,1,0,Excellent
+6WF0DA,APE,North Carolina,Hilux,Toyota,Truck,White,Automatic,4,2,Hybrid,2018,8600,31095,200,2022-08-07,Un Sold,1970-01-01,7878,0,0,Aditya,2,0,Poor
+L57FRJ,Carousell,Portland,Yodha,Tata,Truck,Black,Manual,3,2,Diesel,2023,7200,45890,100,2017-05-22,Sold,2021-09-06,5246,4277,-18,Vishwajeet,1,0,Good
+YB8JEC,Sobri,Madison,Hilux,Toyota,Truck,Red,Automatic,4,2,Electric,2019,9000,28537,200,2022-04-27,Un Sold,1970-01-01,8297,0,0,Hariom,4,0,Good
+W3GB0X,Carmudi,San Jose,Scorpio,Mahindra,SUV,Blue,Manual,5,5,Electric,2019,9500,88632,120,2015-10-19,Un Sold,1970-01-01,8431,0,0,Shilpa,4,0,Excellent
+RZHX03,Kamkar,Utah,Hilux,Toyota,Truck,Red,Automatic,4,2,Petrol,2022,7200,47713,200,2016-12-04,Un Sold,1970-01-01,6070,0,0,Preeti,5,0,Excellent
+KZEY87,Ahg,Oklahoma,Thar,Mahindra,SUV,White,Manual,5,3,Electric,2022,9200,24643,130,2020-11-23,Sold,2022-08-12,7814,8441,8,Shiva,2,125,Average
+LUYTJ3,Knox,Denver,Fortuner,Toyota,SUV,Blue,Automatic,8,5,Hybrid,2022,8700,48710,200,2022-03-22,Un Sold,1970-01-01,8077,0,0,Karan,3,0,Excellent
+S49ZUJ,Carro,Texas,Swift,Maruti,Sedan,Red,Automatic,5,4,Petrol,2024,6500,36835,115,2018-08-25,Un Sold,1970-01-01,5922,0,0,Krishna,5,0,Good
+6IUOUZ,Cars24,California,Seltos,Kia,Hatchback,Black,Automatic,5,5,Hybrid,2024,7000,26945,150,2020-01-08,Un Sold,1970-01-01,5258,0,0,Dhruv,5,0,Good
+1501IW,Trivett,Denver,Swift,Maruti,Sedan,Red,Automatic,5,4,Hybrid,2016,8300,77026,115,2022-03-16,Un Sold,1970-01-01,7194,0,0,Aditya,1,0,Average
+V2M21T,Skipper,California,Yodha,Tata,Truck,Black,Manual,3,2,Hybrid,2019,8500,15399,100,2016-01-15,Sold,2022-03-12,7457,7650,3,Ram,2,39,Poor
+XPJ7FP,Carsome,North Carolina,Thar,Mahindra,SUV,Red,Automatic,5,3,Hybrid,2022,8700,81099,130,2021-09-02,Sold,2023-11-20,6723,8149,21,Ram,2,285,Good
+TLG3F9,Zupps,Philadelphia,Yodha,Tata,Truck,Red,Automatic,3,2,Hybrid,2022,8200,62594,100,2019-03-12,Un Sold,1970-01-01,6202,0,0,Piyush,2,0,Excellent
+Z516P4,Carsome,North Carolina,Hilux,Toyota,Truck,Red,Manual,4,2,Diesel,2021,7400,54843,200,2017-03-20,Un Sold,1970-01-01,5941,0,0,Pavan,3,0,Excellent
+VWHEX8,Trivett,California,Seltos,Kia,Hatchback,Black,Automatic,5,5,Petrol,2023,6100,95912,150,2015-07-26,Un Sold,1970-01-01,5194,0,0,Sweta,3,0,Excellent
+580DNP,Carmix,Denver,Scorpio,Mahindra,SUV,Red,Automatic,5,5,Hybrid,2018,9100,14655,120,2018-11-06,Un Sold,1970-01-01,8300,0,0,Krishna,5,0,Excellent
+OMCT01,Skipper,Detroit,Dzire,Maruti,Sedan,Red,Manual,5,5,Hybrid,2016,8300,56793,100,2018-10-10,Un Sold,1970-01-01,7197,0,0,Narayan,1,0,Average
+S0VQFX,Carmudi,Columbus,Creta,Hyundai,Hatchback,Black,Automatic,5,5,Petrol,2020,6400,74705,113,2017-02-15,Un Sold,1970-01-01,4955,0,0,Shiva,3,0,Average
+6YH3CL,Knox,Tucson,Seltos,Kia,Hatchback,Red,Automatic,5,5,Diesel,2017,6800,62512,150,2018-12-12,Un Sold,1970-01-01,6237,0,0,Shiva,1,0,Excellent
+HCSXRP,Carsome,Tennessee,Creta,Hyundai,Hatchback,Gray,Manual,5,5,Hybrid,2017,7700,53630,113,2021-01-17,Un Sold,1970-01-01,7057,0,0,Rithvik,2,0,Excellent
+18S08W,Carsome,Portland,Creta,Hyundai,Hatchback,Black,Manual,5,5,Diesel,2015,7000,92712,113,2018-03-07,Un Sold,1970-01-01,6301,0,0,Narayan,3,0,Poor
+5FMUZF,Trivett,Tennessee,Scorpio,Mahindra,SUV,Red,Manual,5,5,Petrol,2021,7800,6492,120,2021-11-15,Un Sold,1970-01-01,6568,0,0,Swathi,2,0,Excellent
+I4J053,Olx,Texas,Yodha,Tata,Truck,Blue,Manual,3,2,Hybrid,2017,8700,31328,100,2020-04-28,Un Sold,1970-01-01,7594,0,0,Sai,2,0,Excellent
+P8LFMM,Marchi,California,Creta,Hyundai,Hatchback,Red,Automatic,5,5,Petrol,2022,6200,29907,113,2022-02-19,Un Sold,1970-01-01,5125,0,0,Bhavani,4,0,Good
+CC3GH7,Zupps,Portland,Hilux,Toyota,Truck,Red,Manual,4,2,Petrol,2019,7500,13550,200,2023-04-15,Sold,2023-07-03,6724,7564,12,Sweta,3,168,Good
+Q6QBKY,Ahg,Florida,Seltos,Kia,Hatchback,Red,Manual,5,5,Petrol,2018,6600,45369,150,2019-09-23,Un Sold,1970-01-01,5813,0,0,Ram,4,0,Good
+XRD3LE,Zupps,California,Scorpio,Mahindra,SUV,Black,Automatic,5,5,Petrol,2024,7500,43781,120,2018-04-24,Un Sold,1970-01-01,6726,0,0,Shailaja,3,0,Excellent
+D759XB,APE,Tennessee,Yodha,Tata,Truck,Red,Manual,3,2,Petrol,2018,7600,87587,100,2018-01-23,Un Sold,1970-01-01,7038,0,0,Shilpa,3,0,Poor
+8OWYOH,Nufor,Chicago,Thar,Mahindra,SUV,Red,Manual,5,3,Diesel,2024,7600,61397,130,2023-07-27,Sold,2024-05-14,5760,7089,23,Swapna,4,266,Excellent
+P0V28F,Skipper,North Carolina,Etriga,Maruti,Hatchback,Red,Automatic,4,5,Electric,2016,8300,49100,103,2018-09-30,Un Sold,1970-01-01,6888,0,0,Swapna,5,0,Good
+ZWCZHH,Knox,Texas,Plato,Prazo,Convertible,White,Manual,2,2,Diesel,2020,9000,45090,250,2022-04-30,Sold,2023-03-18,7816,7893,1,Piyush,2,15,Average
+Q78VQJ,Marchi,Oklahoma,Scorpio,Mahindra,SUV,Red,Manual,5,5,Diesel,2016,8400,11616,120,2021-03-17,Un Sold,1970-01-01,7571,0,0,Hariom,5,0,Excellent
+0J5FR3,Oto,Columbus,Fortuner,Toyota,SUV,Red,Manual,8,5,Petrol,2017,8200,7860,200,2019-01-01,Un Sold,1970-01-01,6473,0,0,Hariom,4,0,Excellent
+JNY0EF,Sobri,Detroit,Swift,Maruti,Sedan,Blue,Automatic,5,4,Electric,2022,8200,63232,115,2020-06-07,Un Sold,1970-01-01,6372,0,0,Sweta,1,0,Average
+YGSRM2,Ahg,New York,Fortuner,Toyota,SUV,Blue,Automatic,8,5,Petrol,2015,8400,7611,200,2024-06-06,Un Sold,1970-01-01,7895,0,0,Pavan,3,0,Poor
+IAQ0HT,Carmudi,North Carolina,Scorpio,Mahindra,SUV,Gray,Manual,5,5,Diesel,2021,7900,72920,120,2015-08-30,Un Sold,1970-01-01,6706,0,0,Pranav,5,0,Poor
+8BRKV0,Sobri,North Carolina,Scorpio,Mahindra,SUV,Gray,Manual,5,5,Diesel,2020,8000,74395,120,2023-02-08,Un Sold,1970-01-01,6370,0,0,Arjuna,4,0,Excellent
+JERH63,Skipper,Tennessee,Yodha,Tata,Truck,White,Manual,3,2,Petrol,2020,7400,73293,100,2015-10-23,Sold,2015-05-16,5950,4862,-18,Sweta,2,0,Excellent
+O1QOPU,Automart,Philadelphia,Dzire,Maruti,Sedan,White,Automatic,5,5,Petrol,2020,6900,66877,100,2024-05-08,Un Sold,1970-01-01,5116,0,0,Shruthi,3,0,Excellent
+FEHTRL,Marchi,New York,Etriga,Maruti,Hatchback,Blue,Automatic,4,5,Petrol,2015,6900,51298,103,2024-06-10,Sold,2024-08-27,5823,6718,15,Rithvik,3,179,Good
+B5HX8L,Knox,Portland,Etriga,Maruti,Hatchback,Black,Manual,4,5,Petrol,2015,6900,23071,103,2022-06-17,Un Sold,1970-01-01,5342,0,0,Dhruv,5,0,Good
+LYWEQM,Cars24,Madison,i20,Hyundai,Hatchback,Blue,Manual,4,5,Hybrid,2024,7000,5318,120,2015-03-03,Un Sold,1970-01-01,5939,0,0,Bhavani,4,0,Excellent
+FHMQB7,Oto,San Jose,Hilux,Toyota,Truck,Red,Manual,4,2,Diesel,2015,8000,47912,200,2021-06-28,Un Sold,1970-01-01,6895,0,0,Aditya,3,0,Excellent
+1DA2MW,Cars24,San Jose,Yodha,Tata,Truck,Gray,Manual,3,2,Hybrid,2024,8000,23610,100,2022-07-14,Un Sold,1970-01-01,7495,0,0,Vishwajeet,2,0,Excellent
+PQ2SU1,Zupps,Detroit,Yodha,Tata,Truck,Black,Manual,3,2,Diesel,2020,7500,45639,100,2017-09-01,Un Sold,1970-01-01,6620,0,0,Krishna,4,0,Excellent
+WD3S4A,Skipper,Madison,Dzire,Maruti,Sedan,Red,Automatic,5,5,Diesel,2022,6800,88469,100,2022-02-27,Un Sold,1970-01-01,4844,0,0,Dhruv,3,0,Excellent
+NZ22UD,Carmudi,San Jose,Scorpio,Mahindra,SUV,White,Manual,5,5,Diesel,2021,7900,47198,120,2016-08-09,Un Sold,1970-01-01,6401,0,0,Vihaan,4,0,Excellent
+I0PLUX,Knox,Columbus,i20,Hyundai,Hatchback,Blue,Manual,4,5,Petrol,2020,6400,45056,120,2023-05-31,Un Sold,1970-01-01,5313,0,0,Rithvik,1,0,Average
+S2IK3U,Ahg,Madison,Dzire,Maruti,Sedan,Red,Manual,5,5,Electric,2019,8500,96389,100,2023-10-13,Un Sold,1970-01-01,7339,0,0,Sai,1,0,Excellent
+S0DGQ2,Skipper,Tennessee,Yodha,Tata,Truck,Gray,Automatic,3,2,Hybrid,2017,8700,17262,100,2018-09-13,Sold,2022-05-01,7245,6501,-10,Ram,1,0,Good
+11TVGV,Trivett,Oklahoma,Scorpio,Mahindra,SUV,Gray,Manual,5,5,Hybrid,2020,8900,34099,120,2020-07-16,Un Sold,1970-01-01,8094,0,0,Bhavani,2,0,Good
+ZSGZ28,Nufor,Chicago,Thar,Mahindra,SUV,White,Manual,5,3,Diesel,2024,7600,94751,130,2020-10-08,Sold,2022-06-10,7015,6149,-12,Shailaja,1,0,Poor
+ARIS54,Knox,Florida,Creta,Hyundai,Hatchback,Gray,Automatic,5,5,Electric,2016,8300,86919,113,2023-01-24,Un Sold,1970-01-01,6452,0,0,Aarush,4,0,Good
+53QZ1T,Carmudi,California,Thar,Mahindra,SUV,Black,Manual,5,3,Petrol,2018,8100,44275,130,2017-08-18,Sold,2021-09-18,7473,7990,7,Aditya,5,103,Excellent
+WTV5HJ,Ahg,Columbus,Yodha,Tata,Truck,Black,Automatic,3,2,Diesel,2024,7100,23340,100,2019-11-22,Un Sold,1970-01-01,5802,0,0,Shilpa,1,0,Poor
+HLV2NA,Carsome,Columbus,Thar,Mahindra,SUV,Blue,Automatic,5,3,Diesel,2021,7900,2610,130,2022-05-07,Un Sold,1970-01-01,6236,0,0,Vishwajeet,2,0,Excellent
+UYO1HX,Carousell,San Jose,Seltos,Kia,Hatchback,Red,Manual,5,5,Electric,2023,7600,10685,150,2015-11-10,Un Sold,1970-01-01,5670,0,0,Sweta,4,0,Good
+X9KCSU,Ahg,Florida,Fortuner,Toyota,SUV,Blue,Automatic,8,5,Petrol,2023,7600,34247,200,2023-02-09,Sold,2024-10-20,6343,5773,-9,Karan,1,0,Excellent
+7FHONT,Oto,Tennessee,Thar,Mahindra,SUV,White,Manual,5,3,Petrol,2017,8200,62042,130,2024-02-09,Un Sold,1970-01-01,6761,0,0,Piyush,2,0,Average
+KXVHIQ,Automart,North Carolina,Etriga,Maruti,Hatchback,White,Automatic,4,5,Hybrid,2018,7600,32004,103,2022-06-05,Un Sold,1970-01-01,5780,0,0,Ram,4,0,Average
+LBMJAZ,Kamkar,Chicago,Dzire,Maruti,Sedan,Red,Manual,5,5,Hybrid,2017,8200,43105,100,2019-06-02,Un Sold,1970-01-01,6248,0,0,Supriya,2,0,Excellent
+AN31WK,Cars24,Madison,Thar,Mahindra,SUV,White,Manual,5,3,Petrol,2023,7600,30162,130,2024-12-24,Sold,2024-08-24,5877,5277,-10,Krishna,4,0,Average
+WWPT3G,Trust,North Carolina,Swift,Maruti,Sedan,Red,Manual,5,4,Hybrid,2020,7900,66514,115,2018-05-12,Un Sold,1970-01-01,6286,0,0,Pavan,2,0,Good
+GWWR2M,Carmudi,San Jose,Thar,Mahindra,SUV,Black,Automatic,5,3,Electric,2018,9600,21893,130,2020-02-21,Sold,2020-05-13,8009,8255,3,Pranav,2,49,Excellent
+5AGZAR,Olx,North Carolina,Seltos,Kia,Hatchback,Gray,Manual,5,5,Hybrid,2018,7600,27375,150,2023-02-17,Un Sold,1970-01-01,5714,0,0,Bhavani,5,0,Excellent
+61BGNZ,Ahg,Florida,Yodha,Tata,Truck,Blue,Manual,3,2,Hybrid,2022,8200,63106,100,2020-06-02,Un Sold,1970-01-01,7299,0,0,Swapna,1,0,Excellent
+1JAMSH,Carsome,California,Thar,Mahindra,SUV,Gray,Automatic,5,3,Hybrid,2015,9400,59915,130,2022-09-07,Un Sold,1970-01-01,8354,0,0,Rithvik,2,0,Average
+U06132,Motor,Denver,Dzire,Maruti,Sedan,Black,Automatic,5,5,Electric,2023,8100,94539,100,2017-08-27,Un Sold,1970-01-01,6898,0,0,Karan,2,0,Average
+QQSPU1,Nufor,Tucson,Etriga,Maruti,Hatchback,White,Automatic,4,5,Petrol,2015,6900,32486,103,2023-10-25,Sold,2024-04-25,5617,5206,-7,Pavan,3,0,Good
+2S3CR8,Nufor,Detroit,Yodha,Tata,Truck,Red,Automatic,3,2,Petrol,2015,7900,58965,100,2021-04-16,Un Sold,1970-01-01,6973,0,0,Sweta,2,0,Excellent
+AP3RSK,Ahg,Oklahoma,Plato,Prazo,Convertible,Blue,Automatic,2,2,Electric,2019,10500,10740,250,2022-10-19,Sold,2022-03-19,9084,9908,9,Vihaan,1,165,Poor
+HKQUOC,Zupps,Oklahoma,i20,Hyundai,Hatchback,Gray,Manual,4,5,Electric,2015,8400,65362,120,2022-07-24,Sold,2022-04-20,7760,7717,-1,Pranav,2,0,Excellent
+UGW6M5,Nufor,Madison,Yodha,Tata,Truck,Black,Manual,3,2,Hybrid,2018,8600,36457,100,2023-09-30,Un Sold,1970-01-01,7170,0,0,Shruthi,5,0,Excellent
+33DU79,Carro,Florida,Hilux,Toyota,Truck,White,Manual,4,2,Petrol,2023,7100,82652,200,2024-12-06,Un Sold,1970-01-01,5848,0,0,Aditya,4,0,Excellent
+388UG8,Carro,New York,Seltos,Kia,Hatchback,Black,Automatic,5,5,Hybrid,2021,7300,60646,150,2022-06-16,Un Sold,1970-01-01,6586,0,0,Vihaan,3,0,Excellent
+507NBX,Olx,Philadelphia,Creta,Hyundai,Hatchback,Red,Manual,5,5,Petrol,2021,6300,91304,113,2017-03-23,Un Sold,1970-01-01,4837,0,0,Bhavani,3,0,Excellent
+R7FJ1Z,Trivett,Madison,Scorpio,Mahindra,SUV,Blue,Automatic,5,5,Hybrid,2024,8500,64624,120,2015-11-05,Un Sold,1970-01-01,7453,0,0,Narayan,1,0,Excellent
+BH9JSN,Oto,New York,Hilux,Toyota,Truck,Black,Manual,4,2,Hybrid,2023,8100,12322,200,2020-06-21,Un Sold,1970-01-01,7551,0,0,Preeti,2,0,Excellent
+7NZ73H,Sobri,Madison,Kags,Renault,SUV,White,Automatic,7,5,Diesel,2022,7800,38238,175,2019-03-17,Un Sold,1970-01-01,6310,0,0,Shiva,2,0,Poor
+SMLVGA,Carsome,Tennessee,Dzire,Maruti,Sedan,Blue,Automatic,5,5,Electric,2022,8200,14204,100,2016-06-28,Un Sold,1970-01-01,7433,0,0,Vishwajeet,5,0,Excellent
+3F9VFV,Trust,North Carolina,Etriga,Maruti,Hatchback,Red,Manual,4,5,Hybrid,2019,7500,4099,103,2017-02-02,Un Sold,1970-01-01,5625,0,0,Vishwajeet,2,0,Excellent
+8VAFY5,Automart,North Carolina,Dzire,Maruti,Sedan,Blue,Automatic,5,5,Hybrid,2015,8400,47260,100,2023-01-20,Un Sold,1970-01-01,7507,0,0,Hariom,1,0,Good
+J6F9AR,Olx,New York,Yodha,Tata,Truck,Red,Manual,3,2,Electric,2018,9100,93447,100,2018-05-25,Un Sold,1970-01-01,7916,0,0,Dhruv,5,0,Excellent
+YFSQM4,Trivett,Florida,Seltos,Kia,Hatchback,White,Manual,5,5,Petrol,2015,6900,33973,150,2021-09-27,Un Sold,1970-01-01,5508,0,0,Shruthi,3,0,Excellent
+J89NLW,Zupps,Florida,Plato,Prazo,Convertible,Blue,Manual,2,2,Hybrid,2016,10300,58210,250,2020-06-04,Un Sold,1970-01-01,9595,0,0,Sweta,3,0,Good
+PQBGTY,Kamkar,Columbus,Etriga,Maruti,Hatchback,Red,Manual,4,5,Diesel,2017,6800,41800,103,2024-10-06,Un Sold,1970-01-01,5802,0,0,Preeti,1,0,Good
+VX3M0N,Carro,North Carolina,Creta,Hyundai,Hatchback,White,Manual,5,5,Electric,2019,8000,71625,113,2015-07-29,Sold,2015-11-24,6452,6503,1,Anushka,2,10,Excellent
+F5G5P7,Trivett,Utah,Hilux,Toyota,Truck,Blue,Manual,4,2,Diesel,2021,7400,73698,200,2022-04-27,Un Sold,1970-01-01,5776,0,0,Vishwajeet,1,0,Good
+QQA5WB,Motor,Philadelphia,Swift,Maruti,Sedan,Black,Automatic,5,4,Electric,2019,8500,96650,115,2023-07-18,Un Sold,1970-01-01,7693,0,0,Arjuna,5,0,Average
+MXH7Z8,Automart,Detroit,Seltos,Kia,Hatchback,Black,Manual,5,5,Hybrid,2015,7900,30714,150,2019-11-18,Un Sold,1970-01-01,7266,0,0,Shiva,5,0,Good
+FKJU1R,Skipper,Columbus,Yodha,Tata,Truck,Gray,Automatic,3,2,Petrol,2020,7400,49479,100,2020-01-18,Un Sold,1970-01-01,5448,0,0,Karan,2,0,Poor
+DCVRAB,Zupps,Florida,Yodha,Tata,Truck,White,Automatic,3,2,Electric,2019,9000,13009,100,2023-04-24,Un Sold,1970-01-01,8487,0,0,Swathi,3,0,Excellent
+NBHI2O,Carousell,Madison,Seltos,Kia,Hatchback,Red,Manual,5,5,Hybrid,2017,7700,85882,150,2022-02-25,Un Sold,1970-01-01,6101,0,0,Shailaja,2,0,Average
+KF3GBG,Kamkar,Denver,Plato,Prazo,Convertible,Red,Manual,2,2,Petrol,2022,8700,27946,250,2015-03-29,Un Sold,1970-01-01,8106,0,0,Bhavani,4,0,Excellent
+YQ9OEO,Trust,Columbus,Kags,Renault,SUV,Blue,Automatic,7,5,Diesel,2023,7700,39576,175,2020-06-21,Un Sold,1970-01-01,7199,0,0,Swathi,5,0,Excellent
+FDTE06,Automart,Denver,Kags,Renault,SUV,Blue,Manual,7,5,Petrol,2018,8100,68917,175,2020-11-15,Un Sold,1970-01-01,6253,0,0,Sweta,3,0,Average
+3NXSXS,Trivett,Detroit,Thar,Mahindra,SUV,Red,Automatic,5,3,Hybrid,2023,8600,41375,130,2022-05-04,Un Sold,1970-01-01,8065,0,0,Dhruv,5,0,Excellent
+Y5HD5G,Zupps,Columbus,Kags,Renault,SUV,Black,Automatic,7,5,Hybrid,2018,9100,17488,175,2017-09-24,Un Sold,1970-01-01,7852,0,0,Aditya,2,0,Excellent
+XDXYK2,Cars24,Tucson,Kags,Renault,SUV,Blue,Manual,7,5,Diesel,2022,7800,49424,175,2023-06-18,Un Sold,1970-01-01,6713,0,0,Aditya,4,0,Good
+6DC268,Nufor,Columbus,Plato,Prazo,Convertible,Gray,Automatic,2,2,Electric,2015,10900,26264,250,2024-06-03,Un Sold,1970-01-01,9652,0,0,Hariom,2,0,Excellent
+222EEK,Ahg,New York,Thar,Mahindra,SUV,Black,Manual,5,3,Hybrid,2022,8700,76031,130,2023-04-16,Un Sold,1970-01-01,8123,0,0,Ram,2,0,Excellent
+QM451C,Carousell,Denver,Thar,Mahindra,SUV,Blue,Automatic,5,3,Electric,2019,9500,92008,130,2015-03-05,Un Sold,1970-01-01,8998,0,0,Supriya,3,0,Excellent
+ZKBUH8,Zupps,Philadelphia,Yodha,Tata,Truck,Gray,Manual,3,2,Diesel,2018,7700,2361,100,2016-08-03,Un Sold,1970-01-01,5933,0,0,Shiva,4,0,Poor
+AK2XB6,Nufor,Columbus,Fortuner,Toyota,SUV,Gray,Automatic,8,5,Diesel,2019,8100,47751,200,2020-09-12,Un Sold,1970-01-01,7517,0,0,Aditya,2,0,Average
+OFJSL3,Marchi,Philadelphia,Plato,Prazo,Convertible,Red,Manual,2,2,Electric,2018,10600,92901,250,2015-08-14,Un Sold,1970-01-01,9624,0,0,Pavan,1,0,Excellent
+YW1NPE,Sobri,Texas,Creta,Hyundai,Hatchback,White,Automatic,5,5,Electric,2024,7500,23963,113,2023-01-08,Un Sold,1970-01-01,6838,0,0,Karan,3,0,Average
+HWPTAL,Marchi,Denver,Thar,Mahindra,SUV,Red,Automatic,5,3,Electric,2022,9200,15716,130,2022-04-29,Un Sold,1970-01-01,7759,0,0,Piyush,2,0,Good
+K6FF7X,Sobri,Tennessee,i20,Hyundai,Hatchback,Gray,Automatic,4,5,Hybrid,2016,7800,11150,120,2015-05-03,Un Sold,1970-01-01,7020,0,0,Preeti,3,0,Poor
+5VBCM4,Carousell,Detroit,Kags,Renault,SUV,Black,Automatic,7,5,Diesel,2020,8000,3944,175,2022-07-29,Sold,2023-09-08,7217,7118,-1,Swapna,4,0,Excellent
+34KN16,Automart,California,Etriga,Maruti,Hatchback,Black,Manual,4,5,Diesel,2018,6700,96580,103,2023-12-27,Un Sold,1970-01-01,5265,0,0,Anushka,1,0,Excellent
+6OSHTZ,Carro,San Jose,Swift,Maruti,Sedan,White,Automatic,5,4,Diesel,2020,7000,35791,115,2020-05-15,Un Sold,1970-01-01,5073,0,0,Arjuna,3,0,Average
+H04G85,Sobri,Madison,Scorpio,Mahindra,SUV,White,Manual,5,5,Hybrid,2022,8700,25051,120,2024-04-16,Sold,2024-10-08,7125,6496,-9,Rithvik,2,0,Excellent
+IN3QET,Skipper,Philadelphia,Creta,Hyundai,Hatchback,Blue,Manual,5,5,Diesel,2018,6700,22021,113,2022-04-20,Un Sold,1970-01-01,5174,0,0,Aarush,1,0,Poor
+6VXJF8,APE,San Jose,Dzire,Maruti,Sedan,Blue,Manual,5,5,Electric,2023,8100,36439,100,2017-12-26,Un Sold,1970-01-01,6882,0,0,Pranav,3,0,Excellent
+PCDE70,Carousell,Texas,Scorpio,Mahindra,SUV,Blue,Manual,5,5,Diesel,2018,8200,83864,120,2017-07-01,Un Sold,1970-01-01,6976,0,0,Aarush,5,0,Excellent
+HC81LL,Trust,Tennessee,Swift,Maruti,Sedan,Blue,Manual,5,4,Petrol,2020,6900,26884,115,2021-03-28,Un Sold,1970-01-01,5938,0,0,Dhruv,5,0,Excellent
+4KPM8H,Ahg,San Jose,Hilux,Toyota,Truck,Black,Manual,4,2,Electric,2017,9200,32324,200,2018-08-01,Un Sold,1970-01-01,7819,0,0,Preeti,4,0,Average
+SDF9ZB,Oto,California,Etriga,Maruti,Hatchback,Blue,Automatic,4,5,Electric,2018,8100,2519,103,2015-05-05,Un Sold,1970-01-01,6665,0,0,Bhavani,4,0,Good
+J67MGA,Motor,New York,Kags,Renault,SUV,Red,Automatic,7,5,Diesel,2016,8400,2050,175,2023-08-21,Un Sold,1970-01-01,7886,0,0,Bhavani,5,0,Good
+98M7P9,APE,Florida,Hilux,Toyota,Truck,Blue,Manual,4,2,Diesel,2015,8000,26253,200,2020-04-23,Un Sold,1970-01-01,6263,0,0,Shruthi,2,0,Excellent
+JYDA3K,Marchi,North Carolina,Thar,Mahindra,SUV,Red,Automatic,5,3,Petrol,2017,8200,12496,130,2019-07-21,Un Sold,1970-01-01,6786,0,0,Ram,2,0,Excellent
+QC0S60,Marchi,Portland,Swift,Maruti,Sedan,White,Automatic,5,4,Electric,2021,8300,5689,115,2022-08-08,Un Sold,1970-01-01,6843,0,0,Narayan,4,0,Average
+6WQB2N,Carro,Utah,Dzire,Maruti,Sedan,Red,Manual,5,5,Hybrid,2015,8400,33378,100,2017-08-15,Un Sold,1970-01-01,7178,0,0,Vishwajeet,3,0,Good
+CE5ECE,Olx,Philadelphia,Creta,Hyundai,Hatchback,Blue,Automatic,5,5,Hybrid,2024,7000,43046,113,2021-12-19,Sold,2024-01-30,6332,5604,-11,Vishwajeet,5,0,Poor
+5SMSND,Zupps,Chicago,Fortuner,Toyota,SUV,Gray,Automatic,8,5,Electric,2016,9800,77998,200,2015-06-17,Un Sold,1970-01-01,8766,0,0,Aditya,3,0,Average
+E97Y8S,Cars24,North Carolina,Kags,Renault,SUV,Black,Manual,7,5,Electric,2015,9900,1386,175,2023-11-02,Un Sold,1970-01-01,8495,0,0,Arjuna,3,0,Good
+M5T8BD,Carmudi,Tucson,Kags,Renault,SUV,White,Automatic,7,5,Hybrid,2022,8700,52572,175,2019-06-13,Sold,2022-07-27,6837,8037,18,Ram,5,240,Good
+W9G278,Automart,San Jose,Plato,Prazo,Convertible,Red,Automatic,2,2,Petrol,2022,8700,49265,250,2018-11-20,Sold,2023-08-31,7408,8051,9,Aarush,4,129,Poor
+2MX6F5,Knox,Chicago,Hilux,Toyota,Truck,Red,Manual,4,2,Hybrid,2017,8700,22126,200,2016-02-11,Un Sold,1970-01-01,7940,0,0,Preeti,2,0,Excellent
+IM875A,Trivett,Columbus,Plato,Prazo,Convertible,Blue,Automatic,2,2,Diesel,2017,9300,24601,250,2016-04-23,Un Sold,1970-01-01,8610,0,0,Swathi,5,0,Poor
+2YTOML,Carmix,Detroit,Fortuner,Toyota,SUV,Gray,Automatic,8,5,Diesel,2023,7700,52634,200,2024-03-09,Un Sold,1970-01-01,7155,0,0,Arjuna,1,0,Excellent
+T4B83P,Carmudi,Texas,Yodha,Tata,Truck,Red,Manual,3,2,Hybrid,2016,8800,21869,100,2024-05-29,Un Sold,1970-01-01,7171,0,0,Bhavani,4,0,Average
+NBYVS3,Cars24,Philadelphia,Plato,Prazo,Convertible,Black,Automatic,2,2,Petrol,2020,8900,49183,250,2019-03-03,Sold,2020-07-11,8239,9090,10,Pranav,1,170,Excellent
+J472CJ,Zupps,California,Swift,Maruti,Sedan,Red,Manual,5,4,Petrol,2023,6600,69664,115,2022-01-03,Un Sold,1970-01-01,5541,0,0,Dhruv,3,0,Excellent
+5NQ3XM,Trust,New York,Dzire,Maruti,Sedan,Red,Automatic,5,5,Hybrid,2016,8300,43129,100,2023-04-13,Un Sold,1970-01-01,7227,0,0,Pranav,2,0,Poor
+35ZVGN,Skipper,Detroit,Fortuner,Toyota,SUV,Red,Automatic,8,5,Petrol,2024,7500,54319,200,2019-09-08,Un Sold,1970-01-01,5813,0,0,Pavan,4,0,Good
+SV3M6O,Automart,Oklahoma,Thar,Mahindra,SUV,Black,Manual,5,3,Hybrid,2024,8500,48334,130,2019-11-09,Un Sold,1970-01-01,7877,0,0,Preeti,2,0,Excellent
+WCE20H,Skipper,North Carolina,Swift,Maruti,Sedan,White,Manual,5,4,Electric,2019,8500,45150,115,2019-01-19,Un Sold,1970-01-01,6828,0,0,Shilpa,4,0,Good
+1NUTMM,Oto,Tucson,Etriga,Maruti,Hatchback,Black,Manual,4,5,Diesel,2017,6800,80199,103,2022-03-03,Sold,2022-12-06,5970,5357,-10,Swathi,4,0,Good
+0Z6OC3,Motor,North Carolina,Scorpio,Mahindra,SUV,Blue,Manual,5,5,Diesel,2022,7800,32380,120,2021-03-17,Un Sold,1970-01-01,6102,0,0,Dhruv,5,0,Excellent
+BCSX4V,Oto,North Carolina,Yodha,Tata,Truck,Blue,Automatic,3,2,Hybrid,2022,8200,60752,100,2016-03-20,Un Sold,1970-01-01,7505,0,0,Swapna,1,0,Excellent
+ZGOE13,Sobri,Oklahoma,Seltos,Kia,Hatchback,White,Automatic,5,5,Hybrid,2021,7300,95474,150,2021-06-24,Sold,2022-08-11,6323,7760,23,Pavan,4,287,Good
+N6DV70,Carousell,Tucson,i20,Hyundai,Hatchback,White,Manual,4,5,Diesel,2019,6600,59394,120,2017-01-16,Un Sold,1970-01-01,6094,0,0,Sai,4,0,Excellent
+PUHQQ0,Oto,Utah,Yodha,Tata,Truck,Blue,Manual,3,2,Petrol,2023,7100,42498,100,2023-01-17,Un Sold,1970-01-01,6323,0,0,Aditya,5,0,Average
+69LTE0,Skipper,New York,Yodha,Tata,Truck,Red,Automatic,3,2,Diesel,2024,7100,67606,100,2021-05-15,Sold,2022-07-07,6264,7578,21,Karan,5,263,Excellent
+4X7MDV,Sobri,Florida,Fortuner,Toyota,SUV,Black,Manual,8,5,Electric,2020,9400,66876,200,2018-12-06,Un Sold,1970-01-01,8425,0,0,Swathi,5,0,Excellent
+DUNH5V,Nufor,Tucson,Fortuner,Toyota,SUV,Blue,Manual,8,5,Diesel,2019,8100,4330,200,2023-01-02,Un Sold,1970-01-01,6524,0,0,Vishwajeet,3,0,Excellent
+K7DTVM,Carro,Utah,Dzire,Maruti,Sedan,Black,Automatic,5,5,Diesel,2020,7000,44538,100,2024-12-03,Un Sold,1970-01-01,5839,0,0,Sweta,1,0,Average
+BE080W,Knox,Oklahoma,Seltos,Kia,Hatchback,Red,Manual,5,5,Diesel,2024,6100,85263,150,2019-08-14,Sold,2023-10-16,4416,4143,-6,Krishna,3,0,Good
+TI5J17,Sobri,North Carolina,i20,Hyundai,Hatchback,Gray,Automatic,4,5,Diesel,2022,6300,91873,120,2024-09-12,Un Sold,1970-01-01,5097,0,0,Arjuna,5,0,Good
+WGFQ4V,Kamkar,Columbus,Yodha,Tata,Truck,Blue,Automatic,3,2,Diesel,2017,7800,56180,100,2019-04-07,Un Sold,1970-01-01,6920,0,0,Aditya,4,0,Excellent
+CYZ8MA,Marchi,Madison,Scorpio,Mahindra,SUV,Blue,Manual,5,5,Hybrid,2020,8900,34495,120,2021-04-29,Un Sold,1970-01-01,7452,0,0,Shailaja,2,0,Average
+XQMAYK,Cars24,Madison,Fortuner,Toyota,SUV,Gray,Automatic,8,5,Petrol,2021,7800,43220,200,2020-05-21,Un Sold,1970-01-01,6670,0,0,Aditya,4,0,Excellent
+S1PKSR,Olx,Utah,Swift,Maruti,Sedan,Blue,Manual,5,4,Petrol,2016,7300,36533,115,2018-11-11,Sold,2022-10-08,6631,7673,16,Dhruv,3,208,Good
+SEKQZH,Automart,Texas,Kags,Renault,SUV,White,Automatic,7,5,Diesel,2022,7800,78543,175,2015-12-21,Un Sold,1970-01-01,6462,0,0,Shilpa,1,0,Excellent
+8OYDWT,Sobri,Texas,i20,Hyundai,Hatchback,Blue,Manual,4,5,Hybrid,2018,7600,64636,120,2024-01-01,Un Sold,1970-01-01,6428,0,0,Dhruv,2,0,Good
+S7ZCLI,Sobri,North Carolina,Creta,Hyundai,Hatchback,Blue,Automatic,5,5,Petrol,2018,6600,41666,113,2020-03-30,Un Sold,1970-01-01,6085,0,0,Narayan,2,0,Good
+PUXNGE,Ahg,Detroit,Etriga,Maruti,Hatchback,Red,Automatic,4,5,Petrol,2020,6400,15697,103,2023-01-13,Un Sold,1970-01-01,5849,0,0,Preeti,4,0,Excellent
+ZVHVYP,Knox,Oklahoma,Yodha,Tata,Truck,Red,Automatic,3,2,Diesel,2018,7700,35961,100,2020-03-31,Un Sold,1970-01-01,5733,0,0,Piyush,1,0,Excellent
+R18G3Z,Ahg,Utah,Hilux,Toyota,Truck,Red,Automatic,4,2,Petrol,2020,7400,95474,200,2022-12-12,Un Sold,1970-01-01,6558,0,0,Sweta,4,0,Excellent
+MBCW3X,Sobri,Oklahoma,Hilux,Toyota,Truck,Black,Automatic,4,2,Petrol,2015,7900,58739,200,2023-02-15,Un Sold,1970-01-01,7367,0,0,Swapna,3,0,Excellent
+10E5B2,Automart,Florida,Swift,Maruti,Sedan,Red,Manual,5,4,Petrol,2022,6700,87664,115,2023-11-17,Un Sold,1970-01-01,5625,0,0,Dhruv,5,0,Average
+SY1NJG,Cars24,Utah,Swift,Maruti,Sedan,Black,Automatic,5,4,Electric,2024,8000,73988,115,2023-10-03,Un Sold,1970-01-01,6292,0,0,Ram,5,0,Good
+NZOP71,Knox,Texas,Plato,Prazo,Convertible,Red,Automatic,2,2,Petrol,2017,9200,73523,250,2024-11-12,Sold,2024-12-26,7540,7729,3,Dhruv,3,38,Excellent
+SCX5F1,Trust,Philadelphia,i20,Hyundai,Hatchback,Black,Manual,4,5,Electric,2017,8200,2852,120,2016-02-21,Sold,2024-08-24,7558,7253,-4,Shilpa,2,0,Excellent
+4LEUCS,Motor,Columbus,Creta,Hyundai,Hatchback,White,Manual,5,5,Hybrid,2020,7400,41772,113,2016-05-14,Un Sold,1970-01-01,6092,0,0,Anushka,5,0,Excellent
+1CGUCM,Ahg,North Carolina,Fortuner,Toyota,SUV,Black,Manual,8,5,Hybrid,2017,9200,23313,200,2017-06-15,Un Sold,1970-01-01,7939,0,0,Narayan,2,0,Good
+ZXL0KI,Skipper,Tucson,Dzire,Maruti,Sedan,Black,Automatic,5,5,Diesel,2022,6800,23718,100,2024-08-23,Sold,2024-11-30,5449,5182,-5,Narayan,2,0,Good
+P7SR9V,Carmix,New York,Dzire,Maruti,Sedan,Black,Manual,5,5,Hybrid,2015,8400,1863,100,2016-12-07,Un Sold,1970-01-01,7064,0,0,Aditya,2,0,Good
+20E9HO,Marchi,North Carolina,Scorpio,Mahindra,SUV,Black,Manual,5,5,Hybrid,2022,8700,39866,120,2023-07-17,Un Sold,1970-01-01,7009,0,0,Narayan,5,0,Average
+VL1Y4T,Carousell,Philadelphia,Fortuner,Toyota,SUV,Red,Manual,8,5,Electric,2023,9100,60298,200,2016-07-28,Sold,2024-11-15,8343,8365,0,Ram,4,4,Average
+222Z0B,Carmudi,Texas,Etriga,Maruti,Hatchback,Black,Manual,4,5,Hybrid,2015,7900,54376,103,2015-11-14,Un Sold,1970-01-01,7371,0,0,Shiva,1,0,Poor
+IBMZIS,APE,North Carolina,Fortuner,Toyota,SUV,Gray,Automatic,8,5,Electric,2018,9600,68662,200,2020-01-18,Un Sold,1970-01-01,8102,0,0,Krishna,2,0,Excellent
+XJQAYJ,Marchi,California,Dzire,Maruti,Sedan,Red,Automatic,5,5,Petrol,2017,7200,11339,100,2017-04-12,Un Sold,1970-01-01,5851,0,0,Piyush,5,0,Average
+ZSHZ2F,Motor,Tennessee,i20,Hyundai,Hatchback,Red,Manual,4,5,Electric,2023,7600,79879,120,2015-04-23,Un Sold,1970-01-01,7046,0,0,Arjuna,1,0,Excellent
+4PWPMU,Kamkar,Madison,Seltos,Kia,Hatchback,Gray,Manual,5,5,Hybrid,2018,7600,30481,150,2024-03-16,Un Sold,1970-01-01,6339,0,0,Bhavani,4,0,Good
+BP28YJ,Carro,Texas,Scorpio,Mahindra,SUV,Gray,Automatic,5,5,Hybrid,2016,9300,45783,120,2023-09-21,Un Sold,1970-01-01,8305,0,0,Pranav,3,0,Excellent
+7R1HA2,Knox,San Jose,Scorpio,Mahindra,SUV,Black,Automatic,5,5,Hybrid,2023,8600,64998,120,2024-11-11,Un Sold,1970-01-01,6937,0,0,Hariom,4,0,Excellent
+Q9VGAA,APE,Chicago,Seltos,Kia,Hatchback,Blue,Manual,5,5,Diesel,2021,6400,19255,150,2019-12-09,Un Sold,1970-01-01,4786,0,0,Sai,5,0,Excellent
+VBF637,Motor,Oklahoma,Swift,Maruti,Sedan,Blue,Manual,5,4,Hybrid,2022,7700,41639,115,2018-08-09,Sold,2018-09-06,6102,7508,23,Bhavani,2,281,Excellent
+N2913Z,APE,North Carolina,Etriga,Maruti,Hatchback,Blue,Manual,4,5,Electric,2015,8400,65894,103,2015-12-31,Un Sold,1970-01-01,7710,0,0,Anushka,3,0,Poor
+NSPRD7,Sobri,Utah,i20,Hyundai,Hatchback,Red,Manual,4,5,Hybrid,2016,7800,34289,120,2024-09-01,Sold,2024-05-08,6221,6451,4,Sweta,4,46,Average
+V8PUHU,Carousell,North Carolina,Fortuner,Toyota,SUV,Red,Manual,8,5,Diesel,2017,8300,57645,200,2022-04-21,Un Sold,1970-01-01,6799,0,0,Sai,1,0,Average
+VXPG8J,Cars24,California,Yodha,Tata,Truck,Blue,Automatic,3,2,Hybrid,2022,8200,32971,100,2024-03-17,Sold,2024-04-01,7448,8103,9,Shiva,3,131,Good
+WN4SOB,Carsome,Tucson,Plato,Prazo,Convertible,Red,Automatic,2,2,Petrol,2017,9200,84546,250,2023-09-04,Sold,2023-12-08,7451,6233,-16,Swapna,5,0,Excellent
+S67AMS,Zupps,Florida,Dzire,Maruti,Sedan,Blue,Manual,5,5,Petrol,2019,7000,33240,100,2024-08-29,Sold,2024-07-02,6103,5759,-6,Preeti,1,0,Good
+JR6O6O,Carousell,Oklahoma,Fortuner,Toyota,SUV,Red,Manual,8,5,Electric,2016,9800,32701,200,2024-12-02,Un Sold,1970-01-01,8014,0,0,Aditya,3,0,Excellent
+CJLMUP,Automart,Oklahoma,Swift,Maruti,Sedan,Blue,Automatic,5,4,Diesel,2015,7500,80640,115,2023-02-27,Un Sold,1970-01-01,5895,0,0,Sai,3,0,Poor
+QKWJUF,Trivett,Texas,Seltos,Kia,Hatchback,White,Automatic,5,5,Petrol,2018,6600,32090,150,2016-08-07,Un Sold,1970-01-01,5538,0,0,Vihaan,2,0,Excellent
+JBIBDA,Carmix,Tennessee,Yodha,Tata,Truck,White,Manual,3,2,Diesel,2020,7500,11805,100,2023-11-22,Un Sold,1970-01-01,6864,0,0,Rithvik,4,0,Average
+C2WZIA,Carmudi,North Carolina,Dzire,Maruti,Sedan,Gray,Manual,5,5,Hybrid,2023,7600,74083,100,2018-01-13,Sold,2018-03-30,6000,5144,-14,Pavan,1,0,Poor
+L80MP2,Automart,San Jose,Creta,Hyundai,Hatchback,White,Manual,5,5,Diesel,2021,6400,37804,113,2020-09-22,Sold,2024-03-04,5529,5356,-3,Arjuna,1,0,Average
+FH137P,Carmudi,Utah,Yodha,Tata,Truck,Blue,Manual,3,2,Hybrid,2018,8600,7998,100,2020-07-09,Un Sold,1970-01-01,7453,0,0,Piyush,2,0,Excellent
+00FFBL,Cars24,California,Yodha,Tata,Truck,White,Manual,3,2,Electric,2019,9000,60323,100,2017-02-02,Un Sold,1970-01-01,8199,0,0,Anushka,4,0,Average
+8KRW63,Carmudi,Denver,Fortuner,Toyota,SUV,Red,Automatic,8,5,Hybrid,2022,8700,64374,200,2018-11-09,Un Sold,1970-01-01,8104,0,0,Narayan,2,0,Good
+YT81BQ,Carmudi,Tucson,Yodha,Tata,Truck,Black,Automatic,3,2,Diesel,2020,7500,55024,100,2016-07-08,Un Sold,1970-01-01,5881,0,0,Sweta,2,0,Good
+ZAK4KK,Marchi,Texas,Scorpio,Mahindra,SUV,Black,Automatic,5,5,Diesel,2018,8200,83708,120,2016-12-03,Un Sold,1970-01-01,7530,0,0,Aditya,1,0,Good
+PHLLMY,Olx,Portland,Fortuner,Toyota,SUV,Red,Manual,8,5,Electric,2022,9200,8567,200,2019-10-21,Un Sold,1970-01-01,7534,0,0,Rithvik,5,0,Good
+K5AB3R,Carmudi,Detroit,Hilux,Toyota,Truck,Blue,Manual,4,2,Electric,2024,8500,35027,200,2017-10-07,Un Sold,1970-01-01,7561,0,0,Krishna,3,0,Excellent
+PCG2BO,Carmix,Tucson,Scorpio,Mahindra,SUV,Black,Automatic,5,5,Petrol,2024,7500,53443,120,2023-09-13,Un Sold,1970-01-01,6723,0,0,Pavan,1,0,Good
+A0LYR6,Carousell,Detroit,Hilux,Toyota,Truck,Red,Manual,4,2,Petrol,2018,7600,11679,200,2022-03-24,Un Sold,1970-01-01,6510,0,0,Sweta,1,0,Good
+0BPPM0,Carsome,Denver,Hilux,Toyota,Truck,Black,Manual,4,2,Petrol,2022,7200,33263,200,2024-10-15,Un Sold,1970-01-01,5859,0,0,Hariom,1,0,Poor
+C6K2XS,Cars24,Columbus,Etriga,Maruti,Hatchback,White,Manual,4,5,Electric,2022,7700,2003,103,2018-12-20,Un Sold,1970-01-01,6386,0,0,Swapna,1,0,Good
+7NJ4ZC,Olx,North Carolina,Etriga,Maruti,Hatchback,Blue,Manual,4,5,Hybrid,2017,7700,63950,103,2019-11-17,Un Sold,1970-01-01,6153,0,0,Shilpa,2,0,Good
+U6NMMT,Skipper,Philadelphia,Swift,Maruti,Sedan,White,Automatic,5,4,Diesel,2017,7300,23696,115,2022-12-22,Sold,2022-08-14,5503,6376,16,Hariom,3,175,Excellent
+YA3S0D,Knox,North Carolina,Fortuner,Toyota,SUV,Red,Manual,8,5,Hybrid,2024,8500,52073,200,2017-02-26,Un Sold,1970-01-01,7931,0,0,Swathi,5,0,Good
+DMS17H,Motor,Florida,Kags,Renault,SUV,Blue,Manual,7,5,Hybrid,2015,9400,45668,175,2018-08-18,Un Sold,1970-01-01,7963,0,0,Sweta,4,0,Excellent
+ZMATXJ,Nufor,Florida,Hilux,Toyota,Truck,Blue,Manual,4,2,Electric,2016,9300,40173,200,2015-08-04,Un Sold,1970-01-01,7555,0,0,Anushka,1,0,Excellent
+7EVDTZ,Sobri,Denver,Dzire,Maruti,Sedan,Gray,Automatic,5,5,Electric,2019,8500,32317,100,2017-10-28,Un Sold,1970-01-01,7823,0,0,Shilpa,4,0,Poor
+U90M4C,Carousell,Philadelphia,Scorpio,Mahindra,SUV,Black,Manual,5,5,Electric,2017,9700,45729,120,2024-04-06,Un Sold,1970-01-01,8840,0,0,Sai,1,0,Average
+6HKRWM,Nufor,New York,Etriga,Maruti,Hatchback,White,Manual,4,5,Hybrid,2024,7000,97758,103,2022-02-23,Un Sold,1970-01-01,5593,0,0,Dhruv,4,0,Excellent
+2BPQRQ,Cars24,Texas,Yodha,Tata,Truck,Blue,Automatic,3,2,Electric,2024,8500,65280,100,2020-07-26,Sold,2022-05-20,7950,8003,1,Vishwajeet,3,11,Average
+ND0081,Oto,Florida,Scorpio,Mahindra,SUV,Gray,Automatic,5,5,Hybrid,2022,8700,63825,120,2022-11-26,Un Sold,1970-01-01,7287,0,0,Vihaan,5,0,Excellent
+TK40V2,Cars24,Denver,Kags,Renault,SUV,Blue,Manual,7,5,Electric,2015,9900,25615,175,2020-05-16,Un Sold,1970-01-01,8351,0,0,Arjuna,2,0,Good
+M55C8Z,Cars24,Columbus,Hilux,Toyota,Truck,Blue,Automatic,4,2,Petrol,2015,7900,37523,200,2021-11-28,Un Sold,1970-01-01,6303,0,0,Karan,2,0,Good
+G9ZAF2,Motor,Philadelphia,Kags,Renault,SUV,Red,Automatic,7,5,Diesel,2024,7600,51484,175,2019-08-07,Un Sold,1970-01-01,5893,0,0,Pranav,2,0,Good
+A7KYIA,Sobri,New York,Dzire,Maruti,Sedan,White,Manual,5,5,Hybrid,2022,7700,20555,100,2022-03-09,Un Sold,1970-01-01,6930,0,0,Shiva,1,0,Excellent
+EXWVUM,Carro,Tucson,Scorpio,Mahindra,SUV,White,Manual,5,5,Hybrid,2020,8900,73090,120,2022-05-09,Un Sold,1970-01-01,7918,0,0,Sai,5,0,Good
+QMDF2D,Trust,Utah,Dzire,Maruti,Sedan,Black,Automatic,5,5,Diesel,2019,7100,97664,100,2018-04-21,Sold,2019-07-11,6045,5203,-14,Swathi,2,0,Excellent
+ROL9EU,Carousell,Chicago,Yodha,Tata,Truck,Black,Automatic,3,2,Hybrid,2019,8500,14421,100,2017-09-06,Sold,2022-02-28,7495,7853,5,Sai,2,72,Average
+E3VWA2,Carousell,California,Seltos,Kia,Hatchback,Red,Automatic,5,5,Petrol,2018,6600,17371,150,2015-09-26,Un Sold,1970-01-01,4878,0,0,Shilpa,4,0,Average
+35ARAH,Trust,Denver,Dzire,Maruti,Sedan,Gray,Automatic,5,5,Diesel,2022,6800,75951,100,2021-11-12,Un Sold,1970-01-01,6200,0,0,Supriya,5,0,Excellent
+6XTCW6,Knox,Columbus,Creta,Hyundai,Hatchback,Black,Manual,5,5,Diesel,2016,6900,73493,113,2024-04-29,Un Sold,1970-01-01,5463,0,0,Pavan,1,0,Excellent
+F27SXA,Skipper,Utah,Yodha,Tata,Truck,White,Automatic,3,2,Diesel,2024,7100,45056,100,2017-11-23,Un Sold,1970-01-01,5222,0,0,Shiva,1,0,Excellent
+5647GO,Cars24,North Carolina,Yodha,Tata,Truck,Red,Automatic,3,2,Petrol,2015,7900,37992,100,2024-08-16,Un Sold,1970-01-01,7289,0,0,Arjuna,3,0,Poor
+O66JMV,Automart,Denver,i20,Hyundai,Hatchback,White,Manual,4,5,Diesel,2022,6300,94689,120,2022-03-07,Un Sold,1970-01-01,5512,0,0,Vihaan,5,0,Average
+8GEJ80,Marchi,Texas,Dzire,Maruti,Sedan,Red,Manual,5,5,Electric,2020,8400,3491,100,2021-04-28,Un Sold,1970-01-01,7554,0,0,Dhruv,3,0,Excellent
+QUNB49,Nufor,Tucson,Hilux,Toyota,Truck,Gray,Manual,4,2,Hybrid,2023,8100,6234,200,2024-09-11,Un Sold,1970-01-01,7495,0,0,Arjuna,2,0,Excellent
+WNSYVB,Skipper,California,Thar,Mahindra,SUV,Black,Manual,5,3,Hybrid,2016,9300,4190,130,2016-11-02,Sold,2023-11-03,7301,6452,-12,Swathi,3,0,Excellent
+N8CHQF,Ahg,Madison,Hilux,Toyota,Truck,White,Manual,4,2,Diesel,2020,7500,68792,200,2019-05-22,Un Sold,1970-01-01,6610,0,0,Bhavani,1,0,Good
+EZRY8F,Automart,Portland,Thar,Mahindra,SUV,Gray,Automatic,5,3,Electric,2015,9900,20499,130,2023-12-19,Un Sold,1970-01-01,9041,0,0,Shailaja,1,0,Average
+LV4SDN,Olx,Philadelphia,Creta,Hyundai,Hatchback,Gray,Manual,5,5,Hybrid,2024,7000,67912,113,2020-11-05,Sold,2022-07-04,5722,6662,16,Krishna,1,188,Excellent
+2N0IQW,Oto,Madison,Etriga,Maruti,Hatchback,Black,Manual,4,5,Electric,2019,8000,23798,103,2020-01-27,Un Sold,1970-01-01,7292,0,0,Shruthi,5,0,Excellent
+UMTH3V,Carro,Portland,Swift,Maruti,Sedan,Gray,Manual,5,4,Diesel,2017,7300,4635,115,2022-11-05,Un Sold,1970-01-01,5634,0,0,Bhavani,1,0,Excellent
+89BSAF,Carmix,Texas,Fortuner,Toyota,SUV,Gray,Automatic,8,5,Petrol,2015,8400,45576,200,2023-11-12,Un Sold,1970-01-01,6863,0,0,Pranav,5,0,Good
+BKXJRQ,Ahg,North Carolina,Seltos,Kia,Hatchback,Black,Manual,5,5,Diesel,2024,6100,37800,150,2022-10-28,Sold,2023-02-20,4406,3381,-23,Pranav,1,0,Good
+FGPTFC,Knox,North Carolina,Seltos,Kia,Hatchback,Blue,Automatic,5,5,Petrol,2016,6800,39031,150,2018-08-20,Sold,2020-12-26,5216,6692,28,Supriya,2,295,Excellent
+AM2WG0,Carmudi,Columbus,Fortuner,Toyota,SUV,Red,Automatic,8,5,Petrol,2024,7500,2224,200,2015-01-18,Un Sold,1970-01-01,6618,0,0,Karan,2,0,Average
+X3U6IU,Carmix,Oklahoma,Creta,Hyundai,Hatchback,Blue,Manual,5,5,Petrol,2019,6500,38713,113,2017-04-23,Un Sold,1970-01-01,5542,0,0,Bhavani,1,0,Good
+QP6Z9A,Trust,Texas,Plato,Prazo,Convertible,Black,Automatic,2,2,Petrol,2023,8600,55695,250,2024-05-07,Un Sold,1970-01-01,7289,0,0,Anushka,5,0,Good
+9DFCJ9,Carousell,Utah,Thar,Mahindra,SUV,Blue,Manual,5,3,Hybrid,2019,9000,27569,130,2023-07-30,Un Sold,1970-01-01,7564,0,0,Supriya,2,0,Good
+TLJUK3,Carro,New York,Seltos,Kia,Hatchback,Gray,Manual,5,5,Diesel,2024,6100,30538,150,2023-06-05,Un Sold,1970-01-01,4558,0,0,Swathi,3,0,Excellent
+WE21PP,Automart,Tucson,Seltos,Kia,Hatchback,Black,Automatic,5,5,Petrol,2015,6900,54856,150,2024-10-10,Un Sold,1970-01-01,6312,0,0,Swapna,1,0,Excellent
+ZFSI3R,Nufor,San Jose,Scorpio,Mahindra,SUV,Blue,Automatic,5,5,Diesel,2017,8300,49526,120,2023-04-09,Un Sold,1970-01-01,6835,0,0,Narayan,2,0,Poor
+6Q9X9Z,Skipper,Tennessee,Swift,Maruti,Sedan,Red,Manual,5,4,Electric,2017,8700,32726,115,2023-02-05,Un Sold,1970-01-01,7758,0,0,Swapna,4,0,Good
+4098I4,Sobri,Tennessee,Scorpio,Mahindra,SUV,Blue,Manual,5,5,Hybrid,2022,8700,82025,120,2017-04-13,Un Sold,1970-01-01,7945,0,0,Sai,3,0,Excellent
+783MAM,Carsome,North Carolina,Swift,Maruti,Sedan,Black,Automatic,5,4,Petrol,2018,7100,2185,115,2019-03-01,Un Sold,1970-01-01,5261,0,0,Swapna,2,0,Excellent
+TIO295,Motor,Philadelphia,Etriga,Maruti,Hatchback,Red,Manual,4,5,Diesel,2015,7000,4237,103,2024-06-13,Sold,2024-09-23,6300,5326,-15,Dhruv,2,0,Good
+G2WZI3,Kamkar,Denver,Thar,Mahindra,SUV,Gray,Manual,5,3,Hybrid,2023,8600,74411,130,2016-04-26,Un Sold,1970-01-01,7867,0,0,Swathi,3,0,Excellent
+HXORBE,Carro,Columbus,Swift,Maruti,Sedan,Red,Manual,5,4,Diesel,2022,6800,35405,115,2024-11-13,Un Sold,1970-01-01,5700,0,0,Aditya,1,0,Excellent
+0G2NKI,Carsome,California,Dzire,Maruti,Sedan,White,Manual,5,5,Hybrid,2022,7700,95398,100,2024-08-16,Un Sold,1970-01-01,7130,0,0,Rithvik,2,0,Average
+B9036C,Carousell,Oklahoma,Fortuner,Toyota,SUV,White,Manual,8,5,Petrol,2016,8300,47105,200,2021-01-07,Un Sold,1970-01-01,7455,0,0,Swathi,2,0,Poor
+1YNUSS,Zupps,North Carolina,Seltos,Kia,Hatchback,Gray,Automatic,5,5,Hybrid,2020,7400,59700,150,2019-03-11,Un Sold,1970-01-01,5543,0,0,Anushka,1,0,Good
+47Z82L,Kamkar,Philadelphia,Etriga,Maruti,Hatchback,Blue,Automatic,4,5,Diesel,2015,7000,12488,103,2018-09-04,Sold,2024-12-30,5510,5292,-4,Aarush,5,0,Excellent
+51AZVP,Olx,Chicago,Fortuner,Toyota,SUV,White,Automatic,8,5,Electric,2018,9600,47096,200,2023-12-04,Sold,2023-12-25,8852,7719,-13,Supriya,4,0,Average
+9PPCDV,Ahg,San Jose,Dzire,Maruti,Sedan,Black,Manual,5,5,Hybrid,2019,8000,40447,100,2017-12-12,Un Sold,1970-01-01,6539,0,0,Swathi,4,0,Good
+UU14B3,Sobri,Columbus,Hilux,Toyota,Truck,Blue,Manual,4,2,Diesel,2021,7400,10844,200,2023-06-18,Un Sold,1970-01-01,6858,0,0,Pavan,5,0,Excellent
+LSE0FM,Cars24,Columbus,Creta,Hyundai,Hatchback,Black,Automatic,5,5,Petrol,2023,6100,77055,113,2020-04-19,Sold,2021-06-22,4797,6133,28,Swathi,4,267,Excellent
+GMKZA4,Carsome,California,Swift,Maruti,Sedan,Black,Manual,5,4,Hybrid,2022,7700,35510,115,2017-02-20,Un Sold,1970-01-01,6716,0,0,Swathi,4,0,Excellent
+9SRJ66,Nufor,Oklahoma,Fortuner,Toyota,SUV,Blue,Manual,8,5,Electric,2021,9300,45121,200,2019-10-25,Un Sold,1970-01-01,7451,0,0,Shailaja,2,0,Excellent
+XYTVHI,Carsome,Detroit,Etriga,Maruti,Hatchback,Red,Automatic,4,5,Petrol,2019,6500,24682,103,2015-01-29,Un Sold,1970-01-01,5210,0,0,Dhruv,1,0,Excellent
+28VF8C,Automart,Oklahoma,Scorpio,Mahindra,SUV,Blue,Manual,5,5,Petrol,2017,8200,17817,120,2015-05-04,Sold,2017-01-19,6535,6386,-2,Karan,1,0,Average
+1YM58A,Kamkar,Oklahoma,Dzire,Maruti,Sedan,Black,Manual,5,5,Petrol,2022,6700,52925,100,2019-03-12,Un Sold,1970-01-01,4818,0,0,Swathi,4,0,Excellent
+LE7NPR,Trivett,New York,Dzire,Maruti,Sedan,Black,Automatic,5,5,Hybrid,2018,8100,33402,100,2021-06-03,Un Sold,1970-01-01,7067,0,0,Aditya,5,0,Average
+TBLTV2,Nufor,Florida,Plato,Prazo,Convertible,Black,Automatic,2,2,Electric,2018,10600,73291,250,2017-02-01,Un Sold,1970-01-01,9552,0,0,Aarush,5,0,Excellent
+IC2ZL2,Marchi,Philadelphia,Fortuner,Toyota,SUV,White,Automatic,8,5,Electric,2023,9100,39068,200,2020-03-07,Un Sold,1970-01-01,7352,0,0,Vihaan,5,0,Good
+H8EQPJ,Oto,Portland,i20,Hyundai,Hatchback,White,Automatic,4,5,Electric,2021,7800,2838,120,2018-03-15,Un Sold,1970-01-01,6136,0,0,Aarush,4,0,Excellent
+2JJFM2,Carmix,Philadelphia,Yodha,Tata,Truck,Blue,Automatic,3,2,Petrol,2019,7500,73654,100,2019-12-24,Un Sold,1970-01-01,5958,0,0,Shruthi,2,0,Excellent
+B60BTL,Cars24,Texas,Creta,Hyundai,Hatchback,Gray,Manual,5,5,Petrol,2019,6500,15054,113,2016-03-19,Un Sold,1970-01-01,5161,0,0,Swathi,1,0,Good
+QLRMH6,Carmudi,Florida,Etriga,Maruti,Hatchback,Red,Automatic,4,5,Hybrid,2022,7200,27925,103,2017-02-28,Un Sold,1970-01-01,5494,0,0,Anushka,3,0,Good
+WMBPGY,Carmix,Philadelphia,Plato,Prazo,Convertible,Black,Automatic,2,2,Hybrid,2016,10300,33461,250,2020-12-29,Sold,2021-04-29,8328,7763,-7,Ram,5,0,Average
+80TY98,APE,Oklahoma,Plato,Prazo,Convertible,Red,Automatic,2,2,Petrol,2022,8700,45810,250,2022-11-26,Un Sold,1970-01-01,7264,0,0,Rithvik,3,0,Good
+3DYEMR,Kamkar,Portland,Etriga,Maruti,Hatchback,Blue,Automatic,4,5,Petrol,2018,6600,34516,103,2018-06-06,Un Sold,1970-01-01,4920,0,0,Karan,4,0,Poor
+KW2MCI,APE,New York,Swift,Maruti,Sedan,Black,Automatic,5,4,Petrol,2018,7100,18915,115,2024-06-06,Un Sold,1970-01-01,5820,0,0,Shiva,4,0,Excellent
+LE3H67,Trust,Portland,Etriga,Maruti,Hatchback,Blue,Automatic,4,5,Hybrid,2024,7000,65676,103,2016-12-02,Un Sold,1970-01-01,5571,0,0,Swathi,4,0,Excellent
+35T4XW,Kamkar,Texas,Thar,Mahindra,SUV,Blue,Automatic,5,3,Diesel,2018,8200,74939,130,2022-08-16,Un Sold,1970-01-01,6976,0,0,Vishwajeet,2,0,Excellent
+WSU6RI,Automart,Detroit,Hilux,Toyota,Truck,Blue,Automatic,4,2,Electric,2017,9200,65202,200,2024-04-16,Un Sold,1970-01-01,7757,0,0,Aditya,4,0,Average
+QH3T6I,Automart,California,Thar,Mahindra,SUV,Black,Automatic,5,3,Electric,2023,9100,17905,130,2019-05-27,Un Sold,1970-01-01,7164,0,0,Krishna,1,0,Good
+NKVWPO,Trivett,San Jose,Seltos,Kia,Hatchback,Black,Manual,5,5,Diesel,2022,6300,76518,150,2015-09-16,Un Sold,1970-01-01,5715,0,0,Swathi,3,0,Good
+M058Z1,Carmudi,Utah,Creta,Hyundai,Hatchback,Black,Manual,5,5,Electric,2021,7800,74250,113,2020-01-08,Un Sold,1970-01-01,6838,0,0,Narayan,1,0,Average
+MG4ZMC,Zupps,California,Scorpio,Mahindra,SUV,Black,Automatic,5,5,Petrol,2023,7600,71018,120,2022-07-19,Un Sold,1970-01-01,6513,0,0,Aarush,2,0,Average
+8X61AG,Automart,Tucson,Thar,Mahindra,SUV,Gray,Automatic,5,3,Electric,2022,9200,7900,130,2017-03-29,Sold,2024-07-05,7461,7224,-3,Pranav,4,0,Good
+NW3DZQ,Sobri,San Jose,Seltos,Kia,Hatchback,Blue,Manual,5,5,Petrol,2016,6800,55236,150,2022-10-07,Un Sold,1970-01-01,5481,0,0,Narayan,4,0,Poor
+SU6P5K,Cars24,California,Fortuner,Toyota,SUV,Red,Manual,8,5,Petrol,2023,7600,23474,200,2018-05-01,Un Sold,1970-01-01,6552,0,0,Pranav,5,0,Excellent
+U4ZIPV,Carro,Utah,Thar,Mahindra,SUV,Red,Manual,5,3,Diesel,2020,8000,40896,130,2024-01-10,Sold,2024-04-23,7102,6130,-14,Aarush,2,0,Good
+WRCS36,Olx,Detroit,Scorpio,Mahindra,SUV,White,Automatic,5,5,Diesel,2019,8100,10459,120,2023-04-08,Sold,2023-03-17,7520,8947,19,Pavan,4,285,Excellent
+JV5V84,Cars24,San Jose,Thar,Mahindra,SUV,Blue,Automatic,5,3,Hybrid,2020,8900,35609,130,2023-06-22,Un Sold,1970-01-01,7395,0,0,Krishna,1,0,Average
+DFL6IK,Carsome,North Carolina,Creta,Hyundai,Hatchback,Blue,Manual,5,5,Diesel,2021,6400,57527,113,2024-12-01,Sold,2024-03-18,5134,6449,26,Shailaja,1,263,Good
+551J29,Sobri,Madison,Etriga,Maruti,Hatchback,Gray,Automatic,4,5,Petrol,2020,6400,40584,103,2023-06-13,Un Sold,1970-01-01,4553,0,0,Shruthi,5,0,Good
+0X57O9,Carro,Tucson,Fortuner,Toyota,SUV,White,Manual,8,5,Hybrid,2019,9000,91585,200,2021-05-25,Sold,2022-06-10,8294,9533,15,Pavan,2,248,Excellent
+EOFTZK,Kamkar,New York,Fortuner,Toyota,SUV,Gray,Manual,8,5,Petrol,2023,7600,55371,200,2018-02-04,Sold,2021-05-01,6588,6565,0,Ram,2,0,Excellent
+SKS95K,Marchi,Philadelphia,Plato,Prazo,Convertible,Black,Automatic,2,2,Electric,2015,10900,8687,250,2016-03-22,Un Sold,1970-01-01,9246,0,0,Ram,5,0,Average
+TC81YN,Automart,Tennessee,Swift,Maruti,Sedan,Blue,Automatic,5,4,Petrol,2023,6600,43621,115,2022-12-02,Sold,2023-07-10,5503,4859,-12,Pranav,2,0,Average
+D45NOU,Ahg,California,Plato,Prazo,Convertible,Gray,Manual,2,2,Diesel,2015,9500,25051,250,2023-08-08,Un Sold,1970-01-01,7681,0,0,Shailaja,5,0,Excellent
+P7SEOM,Carmudi,Denver,Yodha,Tata,Truck,Gray,Automatic,3,2,Petrol,2016,7800,9904,100,2019-09-13,Un Sold,1970-01-01,7101,0,0,Pavan,1,0,Good
+Q2ZTQ0,Skipper,Columbus,Creta,Hyundai,Hatchback,White,Manual,5,5,Hybrid,2023,7100,39679,113,2024-06-15,Sold,2024-08-11,6184,5636,-9,Swathi,2,0,Excellent
+XC939Y,Automart,Tennessee,Yodha,Tata,Truck,Blue,Automatic,3,2,Hybrid,2022,8200,52221,100,2015-07-18,Un Sold,1970-01-01,6547,0,0,Shiva,1,0,Good
+4SZLX9,Automart,Detroit,Swift,Maruti,Sedan,White,Automatic,5,4,Petrol,2015,7400,7967,115,2021-01-15,Un Sold,1970-01-01,5996,0,0,Aditya,2,0,Excellent
+JNXIWQ,Oto,Madison,Yodha,Tata,Truck,White,Manual,3,2,Hybrid,2021,8300,59431,100,2024-02-29,Sold,2024-08-25,7293,7269,0,Vihaan,2,0,Excellent
+PW14RX,Carmix,Oklahoma,Dzire,Maruti,Sedan,White,Automatic,5,5,Hybrid,2018,8100,88807,100,2018-12-21,Sold,2019-09-22,7261,7815,8,Shiva,3,111,Excellent
+GIEDGU,Oto,New York,Swift,Maruti,Sedan,Blue,Manual,5,4,Electric,2019,8500,53895,115,2015-02-15,Un Sold,1970-01-01,7973,0,0,Swathi,4,0,Excellent
+4U5UGT,Cars24,Chicago,Dzire,Maruti,Sedan,Red,Automatic,5,5,Hybrid,2017,8200,41360,100,2024-12-04,Un Sold,1970-01-01,6654,0,0,Pranav,3,0,Excellent
+XNJEQW,Carousell,Texas,Fortuner,Toyota,SUV,Blue,Automatic,8,5,Petrol,2018,8100,12293,200,2024-02-22,Un Sold,1970-01-01,6542,0,0,Preeti,2,0,Excellent
+V22XI4,Zupps,Chicago,Hilux,Toyota,Truck,Blue,Automatic,4,2,Hybrid,2017,8700,38942,200,2016-12-04,Un Sold,1970-01-01,7264,0,0,Anushka,4,0,Excellent
+WWOF98,Carousell,Portland,Etriga,Maruti,Hatchback,Gray,Automatic,4,5,Diesel,2018,6700,62736,103,2016-11-26,Un Sold,1970-01-01,4924,0,0,Supriya,2,0,Good
+OL5OYG,Trivett,Oklahoma,Fortuner,Toyota,SUV,Black,Manual,8,5,Hybrid,2018,9100,74632,200,2022-01-28,Un Sold,1970-01-01,7136,0,0,Krishna,3,0,Excellent
+G4LGGP,Trust,Oklahoma,Plato,Prazo,Convertible,White,Automatic,2,2,Diesel,2024,8600,45942,250,2017-10-20,Un Sold,1970-01-01,7582,0,0,Krishna,5,0,Good
+VP09Y3,Kamkar,Detroit,Fortuner,Toyota,SUV,Blue,Manual,8,5,Electric,2016,9800,19254,200,2019-08-31,Sold,2019-07-29,8241,9188,11,Ram,3,189,Excellent
+ZPPK07,Oto,Philadelphia,Etriga,Maruti,Hatchback,White,Manual,4,5,Petrol,2022,6200,25445,103,2016-12-10,Un Sold,1970-01-01,5307,0,0,Dhruv,1,0,Excellent
+7YUDY7,Nufor,Portland,i20,Hyundai,Hatchback,Red,Automatic,4,5,Petrol,2019,6500,33453,120,2020-05-28,Un Sold,1970-01-01,5260,0,0,Sai,2,0,Excellent
+VJ61C8,Cars24,Oklahoma,Kags,Renault,SUV,Black,Manual,7,5,Petrol,2020,7900,55292,175,2019-11-25,Un Sold,1970-01-01,7336,0,0,Karan,1,0,Average
+G5DI59,Ahg,North Carolina,Dzire,Maruti,Sedan,White,Automatic,5,5,Electric,2020,8400,57209,100,2020-11-09,Un Sold,1970-01-01,7808,0,0,Bhavani,3,0,Excellent
+M5X6N9,Oto,New York,Etriga,Maruti,Hatchback,Blue,Automatic,4,5,Electric,2016,8300,83560,103,2020-03-23,Un Sold,1970-01-01,6674,0,0,Rithvik,2,0,Excellent
+PONG1H,Trivett,Chicago,Swift,Maruti,Sedan,Black,Automatic,5,4,Hybrid,2018,8100,68765,115,2016-08-06,Un Sold,1970-01-01,6242,0,0,Aditya,5,0,Good
+OBO6JN,Oto,New York,i20,Hyundai,Hatchback,Black,Automatic,4,5,Electric,2020,7900,5744,120,2021-01-08,Un Sold,1970-01-01,6337,0,0,Shiva,4,0,Excellent
+F9GQ93,Sobri,Tennessee,i20,Hyundai,Hatchback,Black,Automatic,4,5,Diesel,2016,6900,56963,120,2022-02-19,Sold,2024-10-03,5999,5196,-13,Sweta,1,0,Average
+GO6YFN,Skipper,Tucson,Yodha,Tata,Truck,Black,Automatic,3,2,Diesel,2018,7700,7398,100,2022-11-20,Un Sold,1970-01-01,6824,0,0,Sweta,5,0,Good
+YGKN0U,Cars24,Columbus,Creta,Hyundai,Hatchback,Blue,Automatic,5,5,Petrol,2020,6400,87663,113,2017-01-04,Un Sold,1970-01-01,4483,0,0,Narayan,3,0,Excellent
+05P6MN,Motor,Denver,Kags,Renault,SUV,White,Manual,7,5,Electric,2016,9800,90125,175,2019-06-21,Un Sold,1970-01-01,9172,0,0,Anushka,5,0,Good
+BF6KKQ,Carmudi,Utah,i20,Hyundai,Hatchback,Blue,Manual,4,5,Hybrid,2016,7800,52061,120,2015-12-22,Un Sold,1970-01-01,6478,0,0,Shruthi,1,0,Good
+CIWKXC,Oto,Tennessee,Swift,Maruti,Sedan,Black,Automatic,5,4,Hybrid,2017,8200,4668,115,2017-01-31,Sold,2019-03-18,6642,6482,-2,Vishwajeet,2,0,Average
+468U76,Automart,Columbus,Dzire,Maruti,Sedan,Blue,Automatic,5,5,Electric,2020,8400,64781,100,2018-02-26,Un Sold,1970-01-01,6951,0,0,Shailaja,2,0,Poor
+2FVCSH,APE,Chicago,Scorpio,Mahindra,SUV,White,Manual,5,5,Petrol,2021,7800,28826,120,2023-01-20,Sold,2024-11-27,6291,5422,-14,Pranav,2,0,Excellent
+VN1PFD,Nufor,Tucson,Seltos,Kia,Hatchback,Red,Manual,5,5,Electric,2020,7900,25438,150,2020-05-03,Un Sold,1970-01-01,6388,0,0,Aarush,1,0,Poor
+QY0MIE,Carro,California,Plato,Prazo,Convertible,White,Manual,2,2,Electric,2023,10100,80172,250,2021-01-03,Un Sold,1970-01-01,8582,0,0,Preeti,4,0,Excellent
+9ZPQ1J,Carmix,New York,Kags,Renault,SUV,Blue,Manual,7,5,Petrol,2020,7900,39069,175,2024-04-10,Sold,2024-07-21,6930,7763,12,Arjuna,4,167,Good
+DJ3GWX,Motor,Portland,Creta,Hyundai,Hatchback,Gray,Manual,5,5,Petrol,2023,6100,39232,113,2023-12-17,Sold,2024-09-07,5439,6292,16,Anushka,2,171,Good
+HKV599,Sobri,Utah,Hilux,Toyota,Truck,Gray,Manual,4,2,Diesel,2024,7100,30842,200,2018-08-02,Un Sold,1970-01-01,5795,0,0,Dhruv,1,0,Excellent
+6K73Q4,Trivett,New York,Etriga,Maruti,Hatchback,Black,Automatic,4,5,Electric,2020,7900,27508,103,2023-11-14,Un Sold,1970-01-01,6277,0,0,Pranav,3,0,Average
+385CQB,Marchi,New York,Swift,Maruti,Sedan,White,Automatic,5,4,Hybrid,2019,8000,79483,115,2015-10-24,Un Sold,1970-01-01,6490,0,0,Aditya,5,0,Excellent
+AUMIS7,Skipper,Denver,Kags,Renault,SUV,Black,Manual,7,5,Petrol,2022,7700,8998,175,2016-11-22,Sold,2024-07-22,7116,7477,5,Preeti,5,72,Good
+CFPHE8,Motor,Columbus,Swift,Maruti,Sedan,Blue,Manual,5,4,Hybrid,2015,8400,48631,115,2024-04-24,Un Sold,1970-01-01,7007,0,0,Piyush,1,0,Excellent
+K8ATBJ,APE,Denver,Dzire,Maruti,Sedan,Red,Manual,5,5,Hybrid,2020,7900,13730,100,2019-08-10,Un Sold,1970-01-01,6588,0,0,Hariom,1,0,Good
+GIVWG3,Carmudi,Tucson,Scorpio,Mahindra,SUV,Blue,Manual,5,5,Hybrid,2024,8500,44755,120,2019-09-11,Un Sold,1970-01-01,6540,0,0,Rithvik,3,0,Good
+50H4SO,Oto,Florida,Kags,Renault,SUV,Gray,Manual,7,5,Electric,2021,9300,4450,175,2016-01-02,Sold,2023-11-05,8166,8764,7,Hariom,1,120,Average
+HJX7GW,Zupps,Detroit,Etriga,Maruti,Hatchback,Gray,Manual,4,5,Electric,2023,7600,2312,103,2017-12-08,Un Sold,1970-01-01,5609,0,0,Arjuna,1,0,Excellent
+38OA99,Skipper,North Carolina,Creta,Hyundai,Hatchback,Blue,Manual,5,5,Electric,2019,8000,7788,113,2017-04-22,Sold,2019-05-12,6556,5855,-11,Supriya,3,0,Good
+GREIU1,Automart,Tucson,Hilux,Toyota,Truck,White,Automatic,4,2,Hybrid,2018,8600,69677,200,2015-09-06,Sold,2016-08-01,7193,7021,-2,Shiva,4,0,Excellent
+E2891U,Automart,San Jose,Etriga,Maruti,Hatchback,Black,Manual,4,5,Diesel,2021,6400,30012,103,2022-04-29,Un Sold,1970-01-01,4847,0,0,Ram,4,0,Excellent
+ZDPK2F,Motor,North Carolina,Yodha,Tata,Truck,Red,Manual,3,2,Electric,2023,8600,53697,100,2017-07-28,Un Sold,1970-01-01,7028,0,0,Swapna,5,0,Excellent
+49BO66,Nufor,Detroit,Seltos,Kia,Hatchback,Black,Manual,5,5,Hybrid,2016,7800,67008,150,2020-09-11,Un Sold,1970-01-01,5848,0,0,Sweta,2,0,Excellent
+WOIAH5,Trivett,Madison,Plato,Prazo,Convertible,Red,Automatic,2,2,Diesel,2022,8800,25780,250,2018-10-26,Un Sold,1970-01-01,7858,0,0,Krishna,3,0,Average
+ZB7ACE,Skipper,Portland,Scorpio,Mahindra,SUV,White,Automatic,5,5,Diesel,2019,8100,17069,120,2016-06-02,Un Sold,1970-01-01,7348,0,0,Ram,1,0,Good
+OMHN76,Nufor,Chicago,i20,Hyundai,Hatchback,Blue,Automatic,4,5,Electric,2021,7800,29820,120,2015-08-15,Un Sold,1970-01-01,6727,0,0,Pranav,1,0,Average
+4JKCGF,Trivett,Texas,i20,Hyundai,Hatchback,Gray,Manual,4,5,Petrol,2024,6000,74315,120,2020-09-15,Un Sold,1970-01-01,5044,0,0,Ram,3,0,Excellent
+DT3YB2,Knox,New York,Scorpio,Mahindra,SUV,Gray,Automatic,5,5,Electric,2022,9200,3568,120,2023-06-03,Un Sold,1970-01-01,7506,0,0,Supriya,5,0,Good
+F3KR6L,Cars24,San Jose,Swift,Maruti,Sedan,Black,Manual,5,4,Hybrid,2022,7700,23835,115,2018-11-09,Un Sold,1970-01-01,7078,0,0,Piyush,5,0,Excellent
+ROCX12,APE,Chicago,i20,Hyundai,Hatchback,Blue,Manual,4,5,Electric,2015,8400,3156,120,2023-12-04,Sold,2024-11-04,7748,6521,-16,Arjuna,2,0,Good
+29L41X,Motor,Portland,i20,Hyundai,Hatchback,Black,Manual,4,5,Petrol,2023,6100,54770,120,2020-07-21,Un Sold,1970-01-01,4696,0,0,Pavan,1,0,Good
+6R63L7,Kamkar,San Jose,Etriga,Maruti,Hatchback,White,Automatic,4,5,Hybrid,2016,7800,15541,103,2017-10-19,Un Sold,1970-01-01,6780,0,0,Dhruv,2,0,Excellent
+6KT4HP,APE,California,Swift,Maruti,Sedan,Red,Automatic,5,4,Diesel,2020,7000,70252,115,2024-02-02,Un Sold,1970-01-01,6064,0,0,Karan,3,0,Good
+47PYWL,Knox,Philadelphia,Yodha,Tata,Truck,Red,Manual,3,2,Petrol,2023,7100,28934,100,2015-10-13,Un Sold,1970-01-01,6365,0,0,Krishna,4,0,Average
+8CUVLE,Cars24,California,Scorpio,Mahindra,SUV,Red,Manual,5,5,Hybrid,2020,8900,81400,120,2022-12-14,Un Sold,1970-01-01,7278,0,0,Hariom,5,0,Good
+CYMFT1,Nufor,Portland,Yodha,Tata,Truck,Blue,Manual,3,2,Electric,2024,8500,32887,100,2017-11-20,Sold,2019-04-25,6772,7039,4,Vishwajeet,2,53,Good
+2HSC53,Kamkar,Columbus,Hilux,Toyota,Truck,White,Automatic,4,2,Electric,2024,8500,79200,200,2024-02-15,Un Sold,1970-01-01,6690,0,0,Hariom,5,0,Excellent
+E2QSFD,Carousell,Columbus,Kags,Renault,SUV,Gray,Manual,7,5,Electric,2023,9100,13524,175,2017-12-29,Un Sold,1970-01-01,7376,0,0,Shilpa,3,0,Good
+YXRMF9,Marchi,Columbus,Fortuner,Toyota,SUV,Red,Manual,8,5,Electric,2023,9100,2780,200,2018-12-02,Un Sold,1970-01-01,8537,0,0,Shiva,5,0,Excellent
+FQQCW4,Marchi,Texas,Thar,Mahindra,SUV,Black,Automatic,5,3,Petrol,2022,7700,36118,130,2019-12-22,Un Sold,1970-01-01,6211,0,0,Shilpa,4,0,Poor
+GH7YAD,Ahg,Portland,Etriga,Maruti,Hatchback,Red,Manual,4,5,Hybrid,2024,7000,81387,103,2020-07-23,Un Sold,1970-01-01,5305,0,0,Pranav,5,0,Excellent
+WC01E5,Skipper,Florida,Scorpio,Mahindra,SUV,Black,Automatic,5,5,Petrol,2020,7900,33807,120,2015-09-23,Un Sold,1970-01-01,6896,0,0,Dhruv,4,0,Average
+G36NCT,Trivett,Tucson,Hilux,Toyota,Truck,Blue,Manual,4,2,Diesel,2023,7200,88183,200,2021-09-14,Un Sold,1970-01-01,5501,0,0,Anushka,3,0,Excellent
+VS2QY5,Carmudi,Columbus,Thar,Mahindra,SUV,Blue,Automatic,5,3,Petrol,2019,8000,2936,130,2018-01-21,Sold,2023-07-30,7009,8312,19,Pavan,1,261,Excellent
+SBV5KD,Motor,Madison,Creta,Hyundai,Hatchback,Blue,Automatic,5,5,Electric,2024,7500,69069,113,2015-10-07,Un Sold,1970-01-01,6248,0,0,Vishwajeet,1,0,Poor
+6BCU5F,Kamkar,Oklahoma,Thar,Mahindra,SUV,Black,Automatic,5,3,Electric,2022,9200,55830,130,2017-02-06,Un Sold,1970-01-01,8247,0,0,Shailaja,4,0,Excellent
+Y7NXVW,Zupps,Texas,Scorpio,Mahindra,SUV,Blue,Manual,5,5,Petrol,2019,8000,87328,120,2022-02-21,Un Sold,1970-01-01,6375,0,0,Swapna,4,0,Good
+0TZ0FC,Automart,Utah,Creta,Hyundai,Hatchback,Black,Automatic,5,5,Petrol,2018,6600,79683,113,2016-09-05,Un Sold,1970-01-01,5886,0,0,Vishwajeet,2,0,Average
+PJTA3C,Nufor,Oklahoma,Yodha,Tata,Truck,Gray,Automatic,3,2,Hybrid,2021,8300,21153,100,2015-05-19,Un Sold,1970-01-01,6783,0,0,Krishna,4,0,Excellent
+ITT92O,Carousell,Portland,Etriga,Maruti,Hatchback,Gray,Manual,4,5,Petrol,2017,6700,58863,103,2021-06-12,Sold,2024-11-05,4939,4602,-7,Arjuna,1,0,Average
+VNB0SJ,Carousell,North Carolina,Hilux,Toyota,Truck,Red,Manual,4,2,Petrol,2015,7900,45978,200,2023-07-20,Sold,2024-02-02,6046,5768,-5,Aditya,3,0,Poor
+QADI6A,Marchi,Philadelphia,Kags,Renault,SUV,Black,Automatic,7,5,Hybrid,2023,8600,24808,175,2015-12-08,Un Sold,1970-01-01,7127,0,0,Shailaja,4,0,Excellent
+I0P1ZB,Ahg,Oklahoma,Plato,Prazo,Convertible,Black,Automatic,2,2,Electric,2018,10600,18967,250,2018-11-30,Sold,2024-10-07,8841,8442,-5,Aditya,5,0,Average
+DKWNU2,Marchi,California,Thar,Mahindra,SUV,Blue,Automatic,5,3,Electric,2021,9300,13120,130,2015-08-23,Un Sold,1970-01-01,7695,0,0,Preeti,3,0,Excellent
+KAXK0U,Nufor,Tennessee,Etriga,Maruti,Hatchback,Red,Automatic,4,5,Diesel,2021,6400,61030,103,2018-11-01,Un Sold,1970-01-01,5691,0,0,Swathi,1,0,Average
+XJ59U7,Trivett,Utah,Fortuner,Toyota,SUV,Black,Automatic,8,5,Hybrid,2015,9400,53140,200,2018-04-30,Sold,2024-11-15,8055,6861,-15,Karan,2,0,Good
+8PFE8V,Carsome,Utah,Yodha,Tata,Truck,Blue,Manual,3,2,Electric,2021,8800,16315,100,2016-06-22,Un Sold,1970-01-01,6803,0,0,Dhruv,5,0,Good
+KM6LIZ,Marchi,San Jose,Hilux,Toyota,Truck,Black,Manual,4,2,Diesel,2023,7200,22976,200,2023-03-18,Sold,2024-12-17,5202,6252,20,Preeti,1,210,Excellent
+QJ7HDM,Marchi,San Jose,Yodha,Tata,Truck,Blue,Manual,3,2,Petrol,2017,7700,3539,100,2023-06-16,Un Sold,1970-01-01,6656,0,0,Swapna,4,0,Excellent
+ZWLBYT,Trivett,Chicago,Kags,Renault,SUV,Red,Automatic,7,5,Electric,2024,9000,98259,175,2015-04-20,Sold,2020-01-04,7262,6899,-5,Vishwajeet,3,0,Good
+W0ONVA,Ahg,San Jose,Yodha,Tata,Truck,White,Automatic,3,2,Petrol,2021,7300,50909,100,2015-04-18,Sold,2023-08-30,6317,6684,6,Arjuna,3,73,Average
+52DP03,Knox,Texas,Yodha,Tata,Truck,Red,Manual,3,2,Electric,2018,9100,77108,100,2015-03-10,Un Sold,1970-01-01,8561,0,0,Swapna,1,0,Excellent
+7BKRVC,Motor,North Carolina,i20,Hyundai,Hatchback,Gray,Automatic,4,5,Electric,2016,8300,43045,120,2023-12-03,Un Sold,1970-01-01,7454,0,0,Arjuna,1,0,Excellent
+SW9KZR,Motor,San Jose,Creta,Hyundai,Hatchback,Black,Automatic,5,5,Diesel,2021,6400,28344,113,2018-10-05,Un Sold,1970-01-01,5770,0,0,Supriya,5,0,Good
+9INK1U,Nufor,Chicago,Swift,Maruti,Sedan,Black,Manual,5,4,Diesel,2020,7000,31293,115,2022-06-17,Un Sold,1970-01-01,5443,0,0,Sweta,4,0,Excellent
+ULBTVA,Cars24,Philadelphia,Kags,Renault,SUV,Blue,Automatic,7,5,Electric,2016,9800,57747,175,2022-10-27,Un Sold,1970-01-01,8425,0,0,Piyush,1,0,Excellent
+4105FS,Carsome,Portland,Hilux,Toyota,Truck,Black,Automatic,4,2,Diesel,2016,7900,52078,200,2019-04-03,Un Sold,1970-01-01,6242,0,0,Aditya,4,0,Average
+4VK9QO,Cars24,North Carolina,Yodha,Tata,Truck,Gray,Automatic,3,2,Petrol,2015,7900,59323,100,2015-12-13,Un Sold,1970-01-01,6043,0,0,Aditya,3,0,Good
+SLX8WT,Carro,California,Fortuner,Toyota,SUV,White,Manual,8,5,Electric,2015,9900,49356,200,2015-10-15,Sold,2015-10-05,8534,9028,6,Supriya,1,99,Excellent
+QXRKI4,Carro,New York,Thar,Mahindra,SUV,Red,Manual,5,3,Hybrid,2016,9300,15326,130,2021-05-08,Un Sold,1970-01-01,7880,0,0,Shilpa,1,0,Excellent
+Z0K4Z2,Trust,Tucson,i20,Hyundai,Hatchback,Blue,Automatic,4,5,Petrol,2024,6000,17284,120,2018-02-18,Un Sold,1970-01-01,4878,0,0,Piyush,5,0,Good
+0NZ5AX,Marchi,Tucson,Plato,Prazo,Convertible,Black,Manual,2,2,Electric,2017,10700,55782,250,2021-06-24,Un Sold,1970-01-01,9796,0,0,Pavan,3,0,Excellent
+VYCBQA,APE,Texas,Fortuner,Toyota,SUV,White,Manual,8,5,Diesel,2024,7600,66706,200,2020-02-06,Sold,2024-10-16,7012,6644,-5,Shruthi,1,0,Average
+JJH7YH,Olx,Texas,Hilux,Toyota,Truck,Black,Manual,4,2,Petrol,2015,7900,6984,200,2015-06-12,Un Sold,1970-01-01,6278,0,0,Pranav,3,0,Excellent
+CSMIS1,Cars24,North Carolina,Thar,Mahindra,SUV,Black,Manual,5,3,Hybrid,2022,8700,1397,130,2015-03-04,Un Sold,1970-01-01,7859,0,0,Sweta,4,0,Average
+9BHL1D,Oto,California,Scorpio,Mahindra,SUV,Blue,Manual,5,5,Hybrid,2020,8900,31348,120,2017-06-08,Un Sold,1970-01-01,7781,0,0,Preeti,3,0,Good
+9Q82PL,Trust,North Carolina,Seltos,Kia,Hatchback,Blue,Manual,5,5,Petrol,2022,6200,86239,150,2024-02-26,Un Sold,1970-01-01,4828,0,0,Swapna,1,0,Excellent
+PFO6UG,Trust,Madison,Yodha,Tata,Truck,Black,Manual,3,2,Electric,2015,9400,2235,100,2018-04-10,Un Sold,1970-01-01,7784,0,0,Pavan,2,0,Excellent
+4ELBD3,Carsome,Chicago,Fortuner,Toyota,SUV,Red,Manual,8,5,Petrol,2023,7600,60422,200,2020-07-13,Un Sold,1970-01-01,6984,0,0,Aarush,2,0,Good
+3X4WSF,Automart,Texas,Kags,Renault,SUV,Red,Manual,7,5,Diesel,2016,8400,5766,175,2024-01-07,Sold,2024-04-20,7694,8073,5,Pavan,4,76,Excellent
+RGNE0E,APE,Portland,Yodha,Tata,Truck,Blue,Manual,3,2,Diesel,2019,7600,18456,100,2016-07-24,Sold,2024-01-20,6251,6426,3,Sai,5,35,Excellent
+XARGJ3,Oto,Utah,Plato,Prazo,Convertible,Black,Automatic,2,2,Petrol,2022,8700,41013,250,2021-04-30,Un Sold,1970-01-01,8184,0,0,Rithvik,5,0,Poor
+0ZOG4F,Oto,Portland,i20,Hyundai,Hatchback,Blue,Automatic,4,5,Hybrid,2021,7300,5798,120,2017-08-08,Sold,2017-07-01,6420,6658,4,Dhruv,4,48,Good
+TQPSW0,Olx,Tennessee,Dzire,Maruti,Sedan,Red,Automatic,5,5,Hybrid,2021,7800,1281,100,2024-02-12,Un Sold,1970-01-01,6875,0,0,Rithvik,2,0,Good
+9F5YD0,Trust,Chicago,Dzire,Maruti,Sedan,Red,Manual,5,5,Hybrid,2019,8000,61415,100,2017-07-10,Un Sold,1970-01-01,7451,0,0,Anushka,4,0,Excellent
+AECXMO,Kamkar,Utah,Yodha,Tata,Truck,Gray,Manual,3,2,Electric,2022,8700,56591,100,2021-01-18,Sold,2021-08-10,8178,7865,-4,Dhruv,2,0,Good
+4302JY,Motor,California,Swift,Maruti,Sedan,Black,Manual,5,4,Electric,2018,8600,3433,115,2016-09-22,Un Sold,1970-01-01,7788,0,0,Sai,3,0,Excellent
+L45T41,Carmix,Florida,Swift,Maruti,Sedan,Gray,Automatic,5,4,Hybrid,2023,7600,10635,115,2015-12-22,Un Sold,1970-01-01,6059,0,0,Ram,4,0,Good
+KJSECE,Carro,Tucson,Dzire,Maruti,Sedan,Black,Automatic,5,5,Hybrid,2018,8100,30845,100,2020-08-19,Un Sold,1970-01-01,6883,0,0,Krishna,1,0,Average
+4E2FLW,Trivett,Tucson,Seltos,Kia,Hatchback,Blue,Automatic,5,5,Petrol,2021,6300,51868,150,2020-12-04,Un Sold,1970-01-01,4701,0,0,Shilpa,2,0,Poor
+W32B3V,Carro,Tennessee,Etriga,Maruti,Hatchback,Black,Manual,4,5,Diesel,2024,6100,9713,103,2018-06-17,Un Sold,1970-01-01,4537,0,0,Arjuna,3,0,Excellent
+M3GL6O,Trust,Detroit,Yodha,Tata,Truck,Blue,Manual,3,2,Diesel,2018,7700,19922,100,2022-04-09,Un Sold,1970-01-01,6692,0,0,Sweta,2,0,Excellent
+8GUN91,APE,North Carolina,Swift,Maruti,Sedan,White,Manual,5,4,Hybrid,2022,7700,47678,115,2015-04-07,Sold,2018-06-30,6070,4933,-19,Hariom,3,0,Average
+U41CG2,Oto,New York,i20,Hyundai,Hatchback,White,Automatic,4,5,Electric,2018,8100,95727,120,2020-01-17,Un Sold,1970-01-01,6758,0,0,Preeti,2,0,Excellent
+7M4CZ7,Automart,Detroit,Yodha,Tata,Truck,Blue,Automatic,3,2,Hybrid,2024,8000,30240,100,2018-12-14,Sold,2021-02-09,7069,6774,-4,Pavan,2,0,Average
+XHX94B,Trust,Tucson,Seltos,Kia,Hatchback,White,Automatic,5,5,Diesel,2017,6800,46254,150,2021-07-18,Un Sold,1970-01-01,5162,0,0,Aarush,3,0,Excellent
+L3TOMX,Nufor,Chicago,Kags,Renault,SUV,Red,Manual,7,5,Diesel,2018,8200,5661,175,2016-12-05,Un Sold,1970-01-01,7238,0,0,Pranav,5,0,Excellent
+5M9DKK,Motor,Texas,Fortuner,Toyota,SUV,Black,Manual,8,5,Diesel,2024,7600,75307,200,2016-05-16,Un Sold,1970-01-01,5842,0,0,Krishna,1,0,Excellent
+U0CLEU,Trust,Denver,Creta,Hyundai,Hatchback,Red,Automatic,5,5,Petrol,2022,6200,74659,113,2022-04-24,Sold,2024-11-08,5402,6331,17,Arjuna,1,186,Average
+GDMIHT,APE,Tennessee,Etriga,Maruti,Hatchback,White,Manual,4,5,Hybrid,2021,7300,33716,103,2017-08-07,Un Sold,1970-01-01,5722,0,0,Aditya,1,0,Average
+9Q89NS,Trivett,Columbus,Scorpio,Mahindra,SUV,Black,Automatic,5,5,Diesel,2015,8500,52125,120,2023-11-26,Un Sold,1970-01-01,6514,0,0,Aditya,3,0,Excellent
+7KH8HT,Motor,Florida,Hilux,Toyota,Truck,White,Automatic,4,2,Hybrid,2021,8300,39026,200,2022-12-12,Un Sold,1970-01-01,7202,0,0,Pranav,5,0,Good
+LSKIVD,Carousell,San Jose,i20,Hyundai,Hatchback,Gray,Manual,4,5,Hybrid,2023,7100,76957,120,2017-11-10,Un Sold,1970-01-01,6367,0,0,Aarush,5,0,Good
+O3WFR8,Marchi,San Jose,Etriga,Maruti,Hatchback,Gray,Manual,4,5,Hybrid,2022,7200,98653,103,2021-11-15,Un Sold,1970-01-01,6134,0,0,Aditya,5,0,Good
+8L0WBO,Automart,Portland,Fortuner,Toyota,SUV,Red,Manual,8,5,Diesel,2019,8100,43461,200,2023-08-27,Sold,2023-09-30,6182,5873,-5,Preeti,4,0,Poor
+R9PQ5P,Automart,Tennessee,Creta,Hyundai,Hatchback,White,Automatic,5,5,Hybrid,2019,7500,92813,113,2019-05-05,Un Sold,1970-01-01,5599,0,0,Aarush,1,0,Excellent
+TOOYBN,Sobri,Portland,Dzire,Maruti,Sedan,Blue,Manual,5,5,Petrol,2023,6600,28822,100,2016-08-24,Un Sold,1970-01-01,5879,0,0,Piyush,2,0,Good
+T6AWEF,Zupps,New York,Fortuner,Toyota,SUV,Red,Automatic,8,5,Electric,2020,9400,52251,200,2022-02-01,Un Sold,1970-01-01,8069,0,0,Anushka,2,0,Excellent
+7QHA0G,Zupps,Madison,Fortuner,Toyota,SUV,Black,Manual,8,5,Hybrid,2023,8600,40914,200,2016-08-24,Un Sold,1970-01-01,7678,0,0,Aarush,5,0,Excellent
+W9EKYP,Marchi,North Carolina,Scorpio,Mahindra,SUV,Red,Automatic,5,5,Electric,2023,9100,32512,120,2021-02-15,Un Sold,1970-01-01,7901,0,0,Sweta,2,0,Excellent
+1VM21W,Kamkar,San Jose,Etriga,Maruti,Hatchback,Black,Manual,4,5,Hybrid,2022,7200,84647,103,2018-09-16,Un Sold,1970-01-01,5973,0,0,Pranav,4,0,Excellent
+MBPHZR,Nufor,Tennessee,Etriga,Maruti,Hatchback,Black,Manual,4,5,Petrol,2018,6600,86844,103,2019-12-17,Sold,2024-05-12,5098,6398,26,Vishwajeet,5,260,Good
+6MI2ZA,Carmudi,Tucson,Hilux,Toyota,Truck,Red,Automatic,4,2,Petrol,2019,7500,1088,200,2016-10-14,Sold,2023-07-18,5529,5023,-9,Rithvik,5,0,Excellent
+VJMP74,APE,Tennessee,Fortuner,Toyota,SUV,Black,Automatic,8,5,Electric,2020,9400,70853,200,2019-02-19,Un Sold,1970-01-01,8593,0,0,Aditya,2,0,Good
+6RTX9Z,Sobri,Columbus,Seltos,Kia,Hatchback,Black,Manual,5,5,Petrol,2019,6500,41352,150,2018-07-29,Un Sold,1970-01-01,5169,0,0,Sai,1,0,Excellent
+EQUWMB,Carousell,Columbus,i20,Hyundai,Hatchback,Blue,Automatic,4,5,Petrol,2018,6600,68396,120,2015-03-21,Un Sold,1970-01-01,5454,0,0,Shiva,2,0,Good
+W4BS9N,Nufor,Denver,Hilux,Toyota,Truck,Blue,Automatic,4,2,Petrol,2015,7900,17723,200,2023-03-09,Un Sold,1970-01-01,6079,0,0,Pavan,5,0,Good
+MY62NS,Cars24,Denver,Creta,Hyundai,Hatchback,Blue,Automatic,5,5,Electric,2018,8100,33022,113,2021-08-06,Un Sold,1970-01-01,6791,0,0,Shruthi,2,0,Excellent
+A3JXU5,Nufor,Philadelphia,Creta,Hyundai,Hatchback,Black,Automatic,5,5,Hybrid,2018,7600,35834,113,2022-10-21,Un Sold,1970-01-01,6427,0,0,Arjuna,1,0,Average
+6Y2SV0,Trust,Chicago,Scorpio,Mahindra,SUV,Black,Manual,5,5,Hybrid,2021,8800,25503,120,2023-06-21,Un Sold,1970-01-01,7785,0,0,Pavan,3,0,Average
+TGO91Y,Automart,San Jose,Swift,Maruti,Sedan,White,Automatic,5,4,Hybrid,2015,8400,2088,115,2022-08-30,Un Sold,1970-01-01,7338,0,0,Pranav,3,0,Excellent
+ENUVL7,Trust,Madison,Thar,Mahindra,SUV,Black,Automatic,5,3,Petrol,2018,8100,41461,130,2021-09-11,Un Sold,1970-01-01,7236,0,0,Piyush,5,0,Good
+BHZDAI,Olx,Tennessee,Etriga,Maruti,Hatchback,Black,Automatic,4,5,Diesel,2023,6200,34626,103,2023-07-24,Un Sold,1970-01-01,4763,0,0,Shilpa,4,0,Good
+NFT2HX,Carmix,North Carolina,Scorpio,Mahindra,SUV,Red,Manual,5,5,Electric,2020,9400,49104,120,2020-11-24,Un Sold,1970-01-01,7443,0,0,Narayan,1,0,Excellent
+SOWN8K,Trivett,Madison,Dzire,Maruti,Sedan,Gray,Manual,5,5,Petrol,2015,7400,1091,100,2016-11-18,Sold,2021-09-05,5967,4809,-19,Shruthi,5,0,Good
+M3D59O,Marchi,Madison,Etriga,Maruti,Hatchback,Black,Manual,4,5,Hybrid,2022,7200,11175,103,2020-08-26,Sold,2023-07-13,6257,5292,-15,Swapna,5,0,Good
+JUOJA8,Automart,New York,Creta,Hyundai,Hatchback,Blue,Automatic,5,5,Hybrid,2017,7700,20331,113,2018-11-21,Un Sold,1970-01-01,7127,0,0,Krishna,3,0,Good
+6IK2H5,Carousell,Florida,Thar,Mahindra,SUV,White,Automatic,5,3,Hybrid,2020,8900,51860,130,2019-12-02,Un Sold,1970-01-01,7939,0,0,Arjuna,2,0,Excellent
+1DRL1H,Olx,Tucson,i20,Hyundai,Hatchback,Blue,Automatic,4,5,Hybrid,2016,7800,71449,120,2016-09-17,Sold,2017-08-21,6247,6633,6,Vihaan,5,77,Good
+KZ3B0A,Carmix,Florida,i20,Hyundai,Hatchback,Red,Automatic,4,5,Diesel,2024,6100,42115,120,2015-12-10,Un Sold,1970-01-01,5455,0,0,Karan,3,0,Average
+7EOTJY,Zupps,Texas,Kags,Renault,SUV,Red,Automatic,7,5,Hybrid,2022,8700,10959,175,2022-12-25,Un Sold,1970-01-01,7835,0,0,Dhruv,5,0,Excellent
+57LM83,Carmudi,Philadelphia,Kags,Renault,SUV,White,Manual,7,5,Petrol,2022,7700,3673,175,2023-11-06,Sold,2024-05-20,5953,5688,-4,Anushka,1,0,Good
+JC53OY,Ahg,San Jose,Seltos,Kia,Hatchback,Black,Manual,5,5,Hybrid,2017,7700,46695,150,2017-04-19,Un Sold,1970-01-01,7043,0,0,Anushka,1,0,Excellent
+YL8TMW,Skipper,Detroit,i20,Hyundai,Hatchback,Blue,Manual,4,5,Diesel,2018,6700,21564,120,2019-01-03,Un Sold,1970-01-01,4905,0,0,Swapna,2,0,Excellent
+8X5SHD,Ahg,Chicago,Dzire,Maruti,Sedan,Gray,Manual,5,5,Petrol,2023,6600,30409,100,2015-09-28,Un Sold,1970-01-01,4971,0,0,Shilpa,2,0,Average
+UOO2EF,Kamkar,Denver,Thar,Mahindra,SUV,Black,Manual,5,3,Hybrid,2020,8900,32486,130,2021-06-20,Un Sold,1970-01-01,8356,0,0,Krishna,1,0,Good
+80LMGU,Trust,Philadelphia,Etriga,Maruti,Hatchback,Blue,Automatic,4,5,Petrol,2017,6700,82317,103,2020-03-01,Sold,2024-06-02,5940,4930,-17,Anushka,1,0,Good
+MTYLW6,Ahg,Portland,Yodha,Tata,Truck,White,Automatic,3,2,Electric,2016,9300,23196,100,2020-08-30,Un Sold,1970-01-01,8640,0,0,Aarush,4,0,Excellent
+J1XY4X,Trivett,Texas,Scorpio,Mahindra,SUV,Black,Manual,5,5,Diesel,2015,8500,80574,120,2016-08-16,Un Sold,1970-01-01,6731,0,0,Aditya,3,0,Excellent
+E2C64C,Knox,Denver,Swift,Maruti,Sedan,White,Manual,5,4,Petrol,2023,6600,86244,115,2015-03-12,Un Sold,1970-01-01,4669,0,0,Rithvik,5,0,Excellent
+WKBGHX,Motor,Denver,Dzire,Maruti,Sedan,Red,Manual,5,5,Hybrid,2022,7700,40662,100,2015-05-08,Un Sold,1970-01-01,6173,0,0,Karan,5,0,Poor
+XQ7JMO,Carmix,Texas,Thar,Mahindra,SUV,Blue,Automatic,5,3,Diesel,2021,7900,67872,130,2016-04-03,Un Sold,1970-01-01,6362,0,0,Swapna,3,0,Excellent
+S38I6L,Knox,Florida,i20,Hyundai,Hatchback,Red,Manual,4,5,Diesel,2022,6300,71422,120,2018-05-04,Sold,2022-03-22,5062,5096,1,Narayan,3,7,Good
+Y6RCU7,Automart,New York,Scorpio,Mahindra,SUV,Red,Manual,5,5,Diesel,2021,7900,33724,120,2021-04-08,Un Sold,1970-01-01,6361,0,0,Shilpa,4,0,Good
+B0PFQV,Carousell,New York,Yodha,Tata,Truck,Gray,Automatic,3,2,Petrol,2017,7700,93156,100,2016-07-08,Un Sold,1970-01-01,5979,0,0,Hariom,3,0,Excellent
+YQ4QRO,Marchi,California,Kags,Renault,SUV,Black,Manual,7,5,Diesel,2017,8300,11667,175,2019-11-15,Un Sold,1970-01-01,6606,0,0,Preeti,1,0,Poor
+OVCXVD,Kamkar,Columbus,Etriga,Maruti,Hatchback,Gray,Automatic,4,5,Petrol,2024,6000,33374,103,2017-03-02,Un Sold,1970-01-01,4675,0,0,Shailaja,3,0,Excellent
+PURSI8,Oto,San Jose,i20,Hyundai,Hatchback,Blue,Manual,4,5,Diesel,2015,7000,54588,120,2017-03-27,Un Sold,1970-01-01,5921,0,0,Bhavani,1,0,Excellent
+RV9IQT,Carousell,North Carolina,Thar,Mahindra,SUV,White,Manual,5,3,Diesel,2019,8100,28308,130,2015-05-08,Un Sold,1970-01-01,6645,0,0,Shruthi,1,0,Good
+GHUKVS,Skipper,Tucson,Etriga,Maruti,Hatchback,Black,Automatic,4,5,Hybrid,2017,7700,29344,103,2016-08-05,Un Sold,1970-01-01,6738,0,0,Anushka,4,0,Good
+3VCJ0D,Carro,Tucson,Creta,Hyundai,Hatchback,Gray,Manual,5,5,Hybrid,2024,7000,53274,113,2017-05-05,Un Sold,1970-01-01,5255,0,0,Vihaan,3,0,Poor
+G0MN06,Carmix,North Carolina,Hilux,Toyota,Truck,Red,Manual,4,2,Petrol,2020,7400,6201,200,2024-02-07,Un Sold,1970-01-01,5737,0,0,Aditya,2,0,Good
+V03FNH,Carmix,New York,Kags,Renault,SUV,White,Automatic,7,5,Electric,2023,9100,15316,175,2019-02-16,Un Sold,1970-01-01,7743,0,0,Aditya,1,0,Excellent
+9CQAB3,APE,Denver,Creta,Hyundai,Hatchback,Red,Automatic,5,5,Petrol,2018,6600,3998,113,2024-11-06,Un Sold,1970-01-01,5134,0,0,Shailaja,4,0,Good
+FS5QP8,Skipper,New York,Yodha,Tata,Truck,Blue,Automatic,3,2,Diesel,2024,7100,39171,100,2021-08-23,Un Sold,1970-01-01,6283,0,0,Hariom,2,0,Excellent
+OYYWMA,Sobri,Utah,Scorpio,Mahindra,SUV,Black,Automatic,5,5,Diesel,2019,8100,95383,120,2021-03-20,Un Sold,1970-01-01,7477,0,0,Arjuna,2,0,Excellent
+GB80OE,Motor,San Jose,Fortuner,Toyota,SUV,Blue,Automatic,8,5,Electric,2024,9000,10077,200,2017-03-26,Un Sold,1970-01-01,7565,0,0,Karan,4,0,Excellent
+167NZ6,Nufor,Chicago,Hilux,Toyota,Truck,Gray,Manual,4,2,Petrol,2021,7300,80847,200,2019-04-05,Un Sold,1970-01-01,6795,0,0,Pranav,4,0,Excellent
+TCKP73,Olx,Portland,Thar,Mahindra,SUV,Red,Manual,5,3,Diesel,2020,8000,26108,130,2015-07-23,Un Sold,1970-01-01,6748,0,0,Krishna,1,0,Excellent
+86L49S,APE,Madison,Scorpio,Mahindra,SUV,Gray,Automatic,5,5,Petrol,2018,8100,31002,120,2021-11-24,Un Sold,1970-01-01,7314,0,0,Karan,5,0,Good
+2ZOWSF,Marchi,Columbus,Scorpio,Mahindra,SUV,Blue,Manual,5,5,Petrol,2015,8400,71299,120,2017-06-06,Sold,2023-02-07,7787,7111,-9,Shilpa,4,0,Average
+AHJDTF,Nufor,Portland,Kags,Renault,SUV,Black,Automatic,7,5,Diesel,2021,7900,25313,175,2021-04-08,Sold,2024-03-09,6332,7092,12,Pranav,2,152,Good
+JRL78I,Carmix,Detroit,Plato,Prazo,Convertible,Black,Automatic,2,2,Electric,2018,10600,19922,250,2015-09-09,Un Sold,1970-01-01,9661,0,0,Karan,2,0,Good
+ZTB5PR,Sobri,Detroit,Swift,Maruti,Sedan,Gray,Automatic,5,4,Diesel,2022,6800,55544,115,2024-04-09,Un Sold,1970-01-01,6066,0,0,Swapna,2,0,Good
+2178MV,Carmix,Portland,Seltos,Kia,Hatchback,Blue,Automatic,5,5,Hybrid,2017,7700,30836,150,2020-10-05,Un Sold,1970-01-01,6910,0,0,Shilpa,5,0,Excellent
+WUDH03,Cars24,San Jose,Etriga,Maruti,Hatchback,Blue,Manual,4,5,Electric,2019,8000,24777,103,2019-02-14,Un Sold,1970-01-01,6795,0,0,Aditya,5,0,Average
+LMQ2LL,Knox,North Carolina,Creta,Hyundai,Hatchback,Blue,Automatic,5,5,Electric,2020,7900,29712,113,2016-06-05,Un Sold,1970-01-01,7309,0,0,Bhavani,2,0,Excellent
+MDXVYT,Olx,California,Scorpio,Mahindra,SUV,White,Manual,5,5,Petrol,2017,8200,90829,120,2015-11-25,Un Sold,1970-01-01,6939,0,0,Supriya,3,0,Excellent
+SPV1OU,Olx,Tucson,Dzire,Maruti,Sedan,Blue,Automatic,5,5,Hybrid,2021,7800,53090,100,2020-11-16,Un Sold,1970-01-01,6861,0,0,Supriya,5,0,Average
+M6TZ9F,APE,North Carolina,Seltos,Kia,Hatchback,Black,Automatic,5,5,Electric,2017,8200,90650,150,2023-06-16,Un Sold,1970-01-01,6626,0,0,Shruthi,2,0,Excellent
+M4M213,Motor,Tennessee,Yodha,Tata,Truck,Black,Automatic,3,2,Hybrid,2021,8300,72876,100,2017-08-22,Un Sold,1970-01-01,6709,0,0,Rithvik,2,0,Average
+KY13M0,Cars24,North Carolina,Fortuner,Toyota,SUV,Red,Automatic,8,5,Diesel,2016,8400,16196,200,2018-12-31,Sold,2022-08-02,6627,7550,14,Anushka,1,185,Poor
+ZXXQFG,Carousell,Denver,Kags,Renault,SUV,White,Manual,7,5,Petrol,2019,8000,93669,175,2017-08-21,Un Sold,1970-01-01,6358,0,0,Preeti,1,0,Good
+AI7OYJ,Olx,Florida,Plato,Prazo,Convertible,Red,Manual,2,2,Diesel,2021,8900,47037,250,2023-12-07,Un Sold,1970-01-01,7531,0,0,Hariom,5,0,Good
+GDGIGX,Motor,Denver,i20,Hyundai,Hatchback,Red,Automatic,4,5,Petrol,2015,6900,21815,120,2023-08-16,Un Sold,1970-01-01,5162,0,0,Rithvik,2,0,Poor
+00X57Z,APE,North Carolina,Swift,Maruti,Sedan,Gray,Automatic,5,4,Electric,2019,8500,23912,115,2022-10-22,Un Sold,1970-01-01,7657,0,0,Pavan,2,0,Excellent
+8UVDFF,Trivett,Chicago,Yodha,Tata,Truck,Red,Manual,3,2,Electric,2018,9100,5483,100,2018-01-01,Un Sold,1970-01-01,7151,0,0,Shiva,3,0,Good
+ADXBLI,APE,Tennessee,i20,Hyundai,Hatchback,White,Automatic,4,5,Petrol,2018,6600,75666,120,2016-04-13,Sold,2017-08-21,5752,6726,17,Swathi,5,195,Excellent
+BFNI7N,Olx,Utah,Yodha,Tata,Truck,Black,Manual,3,2,Hybrid,2017,8700,9640,100,2015-04-22,Un Sold,1970-01-01,7321,0,0,Bhavani,4,0,Excellent
+J3LZLO,Trust,Portland,Swift,Maruti,Sedan,Gray,Automatic,5,4,Hybrid,2016,8300,29321,115,2018-08-12,Un Sold,1970-01-01,6533,0,0,Aditya,2,0,Excellent
+CXCZSZ,Kamkar,Florida,Kags,Renault,SUV,Red,Manual,7,5,Hybrid,2016,9300,90425,175,2021-10-20,Sold,2022-11-13,8279,9256,12,Rithvik,3,195,Average
+96BRMU,Carsome,North Carolina,Etriga,Maruti,Hatchback,Blue,Automatic,4,5,Petrol,2024,6000,36957,103,2019-09-17,Sold,2019-11-21,4732,5419,15,Anushka,1,137,Average
+WYYHES,Ahg,North Carolina,Hilux,Toyota,Truck,Red,Automatic,4,2,Hybrid,2019,8500,35852,200,2021-09-03,Sold,2021-06-28,6684,6267,-6,Swapna,1,0,Excellent
+A69U2M,APE,Detroit,Kags,Renault,SUV,Gray,Manual,7,5,Diesel,2021,7900,16493,175,2015-07-23,Un Sold,1970-01-01,7340,0,0,Dhruv,3,0,Average
+72LU3L,Trust,Chicago,Swift,Maruti,Sedan,Blue,Automatic,5,4,Diesel,2017,7300,76342,115,2020-01-15,Sold,2020-03-18,6684,5450,-18,Vishwajeet,2,0,Excellent
+E0SZV7,Carousell,Madison,Dzire,Maruti,Sedan,Black,Manual,5,5,Petrol,2020,6900,38253,100,2024-10-21,Un Sold,1970-01-01,4904,0,0,Vishwajeet,4,0,Good
+E8SHGU,Ahg,California,Yodha,Tata,Truck,Black,Manual,3,2,Hybrid,2017,8700,42322,100,2017-02-12,Un Sold,1970-01-01,6887,0,0,Vishwajeet,1,0,Excellent
+UHHQQP,Motor,North Carolina,Yodha,Tata,Truck,White,Manual,3,2,Hybrid,2016,8800,46375,100,2023-11-15,Un Sold,1970-01-01,7410,0,0,Vishwajeet,3,0,Average
+JXXDBV,Oto,North Carolina,Kags,Renault,SUV,Red,Automatic,7,5,Diesel,2016,8400,39776,175,2023-09-23,Sold,2024-05-30,7688,7281,-5,Vihaan,2,0,Average
+P58CFM,Sobri,Detroit,Scorpio,Mahindra,SUV,Black,Manual,5,5,Petrol,2023,7600,59584,120,2021-12-27,Un Sold,1970-01-01,6911,0,0,Shiva,1,0,Poor
+KCV4W1,Trust,Chicago,Creta,Hyundai,Hatchback,Blue,Automatic,5,5,Diesel,2016,6900,45321,113,2019-08-27,Sold,2019-04-18,5929,4745,-20,Sai,4,0,Average
+U0LC23,Ahg,Utah,Creta,Hyundai,Hatchback,Blue,Manual,5,5,Hybrid,2022,7200,5193,113,2022-11-21,Un Sold,1970-01-01,6184,0,0,Piyush,5,0,Excellent
+NQ2PHK,Olx,Denver,Kags,Renault,SUV,Blue,Manual,7,5,Electric,2019,9500,54062,175,2022-05-20,Un Sold,1970-01-01,7500,0,0,Narayan,1,0,Excellent
+Z5IYAC,Zupps,Tucson,Etriga,Maruti,Hatchback,Red,Manual,4,5,Electric,2020,7900,65502,103,2021-06-03,Un Sold,1970-01-01,6246,0,0,Pavan,1,0,Excellent
+RCXRED,Olx,Columbus,Dzire,Maruti,Sedan,Red,Automatic,5,5,Hybrid,2024,7500,64191,100,2016-12-03,Un Sold,1970-01-01,5761,0,0,Anushka,5,0,Good
+3FG3M8,Nufor,Chicago,Fortuner,Toyota,SUV,Gray,Manual,8,5,Hybrid,2023,8600,5832,200,2020-11-12,Un Sold,1970-01-01,7786,0,0,Anushka,5,0,Excellent
+4PPCRP,Carsome,Chicago,i20,Hyundai,Hatchback,Blue,Automatic,4,5,Hybrid,2018,7600,75391,120,2015-02-20,Un Sold,1970-01-01,6761,0,0,Sai,1,0,Good
+WNEPUQ,Trust,Utah,Swift,Maruti,Sedan,Blue,Automatic,5,4,Diesel,2016,7400,53283,115,2015-05-29,Sold,2020-08-13,6715,6740,0,Arjuna,3,5,Poor
+KMCYR8,Carro,New York,Hilux,Toyota,Truck,Red,Automatic,4,2,Diesel,2018,7700,57688,200,2017-10-18,Un Sold,1970-01-01,6260,0,0,Shailaja,5,0,Excellent
+OMFQAX,Nufor,Detroit,Seltos,Kia,Hatchback,Red,Manual,5,5,Hybrid,2020,7400,69864,150,2016-01-06,Sold,2022-10-27,6270,6776,8,Piyush,5,101,Average
+13GF7A,Nufor,Columbus,i20,Hyundai,Hatchback,Blue,Manual,4,5,Petrol,2015,6900,8646,120,2020-02-04,Sold,2020-08-05,5334,4419,-17,Dhruv,1,0,Average
+VHUEU4,Trivett,California,Fortuner,Toyota,SUV,White,Automatic,8,5,Diesel,2019,8100,85340,200,2023-07-14,Un Sold,1970-01-01,7298,0,0,Vihaan,4,0,Excellent
+W78GFU,Marchi,Portland,Swift,Maruti,Sedan,Red,Manual,5,4,Diesel,2021,6900,51412,115,2021-02-15,Un Sold,1970-01-01,6365,0,0,Shailaja,4,0,Good
+U4ZAMS,Carsome,Tucson,Scorpio,Mahindra,SUV,Black,Automatic,5,5,Diesel,2021,7900,39315,120,2016-08-02,Un Sold,1970-01-01,7280,0,0,Shailaja,5,0,Excellent
+T1O0BU,Automart,New York,Scorpio,Mahindra,SUV,Blue,Manual,5,5,Diesel,2020,8000,41567,120,2021-04-05,Un Sold,1970-01-01,6431,0,0,Anushka,2,0,Excellent
+7X00NC,Knox,Chicago,Swift,Maruti,Sedan,Gray,Automatic,5,4,Petrol,2022,6700,44272,115,2019-09-18,Un Sold,1970-01-01,4996,0,0,Narayan,2,0,Excellent
+9T9XBF,Carousell,Tucson,i20,Hyundai,Hatchback,Blue,Automatic,4,5,Diesel,2020,6500,5854,120,2020-12-08,Un Sold,1970-01-01,5836,0,0,Shiva,5,0,Excellent
+MWBF5Q,Trivett,North Carolina,Fortuner,Toyota,SUV,Blue,Automatic,8,5,Diesel,2016,8400,43642,200,2018-01-01,Un Sold,1970-01-01,7535,0,0,Rithvik,2,0,Excellent
+N3WFV6,Olx,North Carolina,Plato,Prazo,Convertible,White,Manual,2,2,Diesel,2018,9200,44515,250,2015-09-15,Sold,2016-01-13,8292,9697,17,Krishna,5,281,Excellent
+GI1MTR,Zupps,Tennessee,Creta,Hyundai,Hatchback,Gray,Automatic,5,5,Hybrid,2017,7700,45551,113,2021-11-14,Un Sold,1970-01-01,6096,0,0,Pranav,2,0,Good
+DLZ25C,Kamkar,North Carolina,Hilux,Toyota,Truck,Blue,Automatic,4,2,Petrol,2015,7900,37621,200,2020-01-24,Un Sold,1970-01-01,6884,0,0,Shilpa,2,0,Excellent
+06ZY2A,Trust,Florida,Etriga,Maruti,Hatchback,Black,Automatic,4,5,Electric,2022,7700,55221,103,2018-07-12,Un Sold,1970-01-01,5918,0,0,Sai,1,0,Excellent
+7DOV5F,Zupps,Philadelphia,Swift,Maruti,Sedan,Blue,Automatic,5,4,Petrol,2022,6700,65336,115,2017-05-20,Un Sold,1970-01-01,5942,0,0,Shilpa,1,0,Good
+KPY7MT,Olx,Columbus,i20,Hyundai,Hatchback,Blue,Manual,4,5,Electric,2016,8300,28915,120,2021-06-02,Un Sold,1970-01-01,7173,0,0,Krishna,4,0,Good
+R2AY8H,Cars24,Columbus,Yodha,Tata,Truck,Black,Automatic,3,2,Diesel,2023,7200,48438,100,2019-07-05,Un Sold,1970-01-01,5878,0,0,Hariom,3,0,Good
+A9L1OX,APE,North Carolina,Hilux,Toyota,Truck,Red,Manual,4,2,Diesel,2022,7300,80158,200,2023-11-18,Sold,2024-10-30,6588,7586,15,Pranav,5,200,Good
+650PQ6,Skipper,Oklahoma,Kags,Renault,SUV,Red,Automatic,7,5,Petrol,2018,8100,39057,175,2016-12-18,Un Sold,1970-01-01,6565,0,0,Vishwajeet,1,0,Average
+20JL6J,Carro,Oklahoma,Etriga,Maruti,Hatchback,Gray,Automatic,4,5,Electric,2017,8200,59251,103,2015-05-01,Un Sold,1970-01-01,7167,0,0,Dhruv,1,0,Excellent
+200N5M,Ahg,San Jose,Etriga,Maruti,Hatchback,Red,Manual,4,5,Petrol,2021,6300,36859,103,2018-07-03,Un Sold,1970-01-01,4960,0,0,Narayan,1,0,Good
+7ODR09,Carmix,North Carolina,Seltos,Kia,Hatchback,Black,Manual,5,5,Electric,2021,7800,64667,150,2018-11-14,Un Sold,1970-01-01,5899,0,0,Pranav,4,0,Excellent
+U3OJ51,Knox,North Carolina,Scorpio,Mahindra,SUV,Gray,Manual,5,5,Electric,2021,9300,24691,120,2020-12-08,Un Sold,1970-01-01,7428,0,0,Aarush,4,0,Excellent
+M9PLPZ,Olx,Denver,i20,Hyundai,Hatchback,Gray,Automatic,4,5,Diesel,2016,6900,30562,120,2024-07-14,Un Sold,1970-01-01,6322,0,0,Ram,1,0,Excellent
+J31YAC,Skipper,Chicago,Kags,Renault,SUV,Black,Manual,7,5,Petrol,2015,8400,66243,175,2021-02-11,Un Sold,1970-01-01,6508,0,0,Dhruv,3,0,Excellent
+1XPLQL,Ahg,Philadelphia,Hilux,Toyota,Truck,Gray,Automatic,4,2,Electric,2024,8500,80290,200,2020-06-02,Un Sold,1970-01-01,7862,0,0,Shilpa,3,0,Good
+6NVFJP,Zupps,Tucson,Thar,Mahindra,SUV,Blue,Automatic,5,3,Petrol,2019,8000,51785,130,2024-04-26,Sold,2024-06-30,6579,6081,-8,Hariom,1,0,Good
+V74L7Q,Zupps,Utah,Yodha,Tata,Truck,Red,Automatic,3,2,Diesel,2022,7300,63571,100,2019-10-23,Un Sold,1970-01-01,5462,0,0,Swathi,5,0,Good
+JPQ7UU,Carousell,San Jose,Fortuner,Toyota,SUV,Blue,Manual,8,5,Petrol,2024,7500,64970,200,2019-12-30,Un Sold,1970-01-01,6777,0,0,Preeti,3,0,Poor
+UFNPA0,Trust,Texas,i20,Hyundai,Hatchback,Blue,Automatic,4,5,Petrol,2024,6000,83826,120,2020-10-02,Un Sold,1970-01-01,4145,0,0,Vihaan,2,0,Average
+KYSTYR,Trivett,San Jose,Fortuner,Toyota,SUV,Black,Automatic,8,5,Diesel,2022,7800,95410,200,2015-10-13,Un Sold,1970-01-01,6457,0,0,Rithvik,4,0,Good
+I6K0RV,Carousell,Philadelphia,Hilux,Toyota,Truck,White,Manual,4,2,Petrol,2018,7600,7694,200,2015-03-24,Un Sold,1970-01-01,6470,0,0,Narayan,2,0,Good
+FC1BEA,Nufor,Texas,Dzire,Maruti,Sedan,White,Manual,5,5,Electric,2021,8300,32602,100,2024-02-07,Un Sold,1970-01-01,7630,0,0,Rithvik,1,0,Excellent
+HV789N,Carsome,Tucson,Creta,Hyundai,Hatchback,Blue,Automatic,5,5,Diesel,2015,7000,65388,113,2019-09-19,Un Sold,1970-01-01,6441,0,0,Shilpa,5,0,Excellent
+P6UXPQ,APE,Texas,Fortuner,Toyota,SUV,Blue,Manual,8,5,Diesel,2024,7600,49932,200,2020-07-29,Un Sold,1970-01-01,5787,0,0,Bhavani,5,0,Average
+Y2WKY1,Zupps,Tennessee,Swift,Maruti,Sedan,Black,Manual,5,4,Hybrid,2024,7500,42169,115,2019-03-03,Un Sold,1970-01-01,6345,0,0,Hariom,4,0,Average
+OLHO8C,Oto,Denver,Swift,Maruti,Sedan,Blue,Manual,5,4,Electric,2016,8800,71833,115,2024-05-31,Un Sold,1970-01-01,7927,0,0,Narayan,4,0,Good
+3Y5TV5,Trust,Tucson,Scorpio,Mahindra,SUV,Black,Automatic,5,5,Hybrid,2024,8500,37721,120,2017-04-09,Sold,2018-04-21,7671,7143,-7,Swathi,2,0,Excellent
+YV6P3R,APE,San Jose,Plato,Prazo,Convertible,Blue,Automatic,2,2,Petrol,2024,8500,54800,250,2016-12-24,Un Sold,1970-01-01,7563,0,0,Krishna,5,0,Poor
+8JOFTN,Carmix,Detroit,Plato,Prazo,Convertible,Red,Manual,2,2,Diesel,2017,9300,68712,250,2018-01-09,Un Sold,1970-01-01,7794,0,0,Karan,3,0,Poor
+Y870G2,Carousell,Denver,Yodha,Tata,Truck,White,Automatic,3,2,Hybrid,2024,8000,2473,100,2020-07-02,Sold,2024-05-21,7005,5878,-16,Supriya,3,0,Excellent
+DUO80J,Skipper,North Carolina,i20,Hyundai,Hatchback,White,Automatic,4,5,Diesel,2016,6900,12878,120,2017-01-10,Sold,2017-11-12,5359,6162,15,Shailaja,2,161,Good
+RMXE8E,Automart,Utah,Swift,Maruti,Sedan,Black,Manual,5,4,Hybrid,2017,8200,98461,115,2017-12-11,Un Sold,1970-01-01,6281,0,0,Piyush,5,0,Excellent
+IETX0V,Zupps,Oklahoma,Thar,Mahindra,SUV,Gray,Manual,5,3,Hybrid,2021,8800,96234,130,2019-06-19,Un Sold,1970-01-01,7888,0,0,Shilpa,4,0,Good
+OFCXKI,Automart,San Jose,Seltos,Kia,Hatchback,Black,Manual,5,5,Petrol,2015,6900,9377,150,2018-07-09,Un Sold,1970-01-01,6019,0,0,Ram,4,0,Average
+O7EX8C,Nufor,Columbus,Kags,Renault,SUV,Red,Manual,7,5,Electric,2018,9600,9958,175,2016-09-14,Un Sold,1970-01-01,7780,0,0,Aditya,5,0,Good
+1IW4YN,Olx,Denver,Yodha,Tata,Truck,Black,Automatic,3,2,Petrol,2022,7200,66671,100,2021-06-26,Sold,2024-01-15,5945,6774,14,Vishwajeet,3,166,Good
+IRWQU2,Nufor,Columbus,Creta,Hyundai,Hatchback,Red,Automatic,5,5,Electric,2024,7500,18875,113,2021-06-03,Sold,2023-01-18,6819,7316,7,Swathi,5,99,Excellent
+G3NTL8,Marchi,Texas,Scorpio,Mahindra,SUV,Red,Automatic,5,5,Hybrid,2017,9200,31793,120,2016-01-26,Un Sold,1970-01-01,7596,0,0,Pavan,1,0,Excellent
+U1YUMD,Trust,Florida,Swift,Maruti,Sedan,Red,Automatic,5,4,Petrol,2019,7000,2805,115,2023-06-04,Un Sold,1970-01-01,5137,0,0,Hariom,1,0,Average
+XBDGK9,Zupps,California,Plato,Prazo,Convertible,Blue,Manual,2,2,Diesel,2018,9200,34774,250,2020-07-03,Un Sold,1970-01-01,7769,0,0,Swapna,5,0,Poor
+C79FGS,Motor,Tennessee,Plato,Prazo,Convertible,Blue,Automatic,2,2,Diesel,2016,9400,14165,250,2018-03-10,Un Sold,1970-01-01,8806,0,0,Krishna,1,0,Good
+XNAW1H,Trivett,San Jose,Thar,Mahindra,SUV,Blue,Automatic,5,3,Petrol,2016,8300,63048,130,2016-01-18,Un Sold,1970-01-01,6729,0,0,Hariom,1,0,Good
+C5RKVL,Kamkar,Portland,Hilux,Toyota,Truck,Black,Automatic,4,2,Hybrid,2015,8900,40758,200,2022-02-14,Un Sold,1970-01-01,7465,0,0,Narayan,3,0,Excellent
+Y7C2ZB,Skipper,Oklahoma,Etriga,Maruti,Hatchback,Red,Manual,4,5,Diesel,2021,6400,8777,103,2016-06-12,Un Sold,1970-01-01,5547,0,0,Shilpa,1,0,Average
+65C0T3,Motor,Tucson,Hilux,Toyota,Truck,Blue,Automatic,4,2,Diesel,2015,8000,14191,200,2021-02-25,Un Sold,1970-01-01,6198,0,0,Karan,2,0,Poor
+2UVXLZ,Marchi,Tennessee,Scorpio,Mahindra,SUV,Gray,Manual,5,5,Electric,2018,9600,23110,120,2019-05-23,Un Sold,1970-01-01,7624,0,0,Swathi,2,0,Poor
+1F9NEF,Nufor,Texas,Creta,Hyundai,Hatchback,Blue,Manual,5,5,Petrol,2023,6100,64584,113,2023-06-19,Un Sold,1970-01-01,5351,0,0,Shilpa,2,0,Good
+VF4DNY,APE,North Carolina,Thar,Mahindra,SUV,Red,Automatic,5,3,Electric,2022,9200,98195,130,2023-01-25,Sold,2024-05-16,8051,9274,15,Supriya,3,245,Poor
+8N196T,Marchi,North Carolina,Swift,Maruti,Sedan,Red,Automatic,5,4,Electric,2024,8000,16787,115,2018-04-01,Un Sold,1970-01-01,7343,0,0,Krishna,3,0,Average
+P3WZOP,Carmudi,Denver,i20,Hyundai,Hatchback,Black,Automatic,4,5,Hybrid,2017,7700,41351,120,2015-07-28,Un Sold,1970-01-01,5786,0,0,Swapna,4,0,Average
+HHJO27,Olx,Madison,Hilux,Toyota,Truck,White,Manual,4,2,Petrol,2024,7000,1397,200,2023-03-04,Sold,2023-05-03,5690,5192,-9,Preeti,2,0,Good
+NFFHR6,Sobri,Philadelphia,Kags,Renault,SUV,Gray,Manual,7,5,Hybrid,2022,8700,58495,175,2020-02-20,Sold,2022-03-23,7204,6580,-9,Anushka,1,0,Excellent
+QLLBJI,Oto,Philadelphia,Hilux,Toyota,Truck,Gray,Automatic,4,2,Electric,2016,9300,18814,200,2023-11-29,Un Sold,1970-01-01,8421,0,0,Aditya,3,0,Average
+2E4IH8,Trust,North Carolina,Seltos,Kia,Hatchback,Red,Automatic,5,5,Hybrid,2021,7300,81117,150,2017-09-20,Un Sold,1970-01-01,5916,0,0,Shiva,1,0,Average
+UNQ4D3,Trust,North Carolina,Plato,Prazo,Convertible,Blue,Automatic,2,2,Diesel,2019,9100,44176,250,2019-01-23,Un Sold,1970-01-01,8353,0,0,Aditya,4,0,Good
+1P3LX3,Carsome,North Carolina,i20,Hyundai,Hatchback,Blue,Automatic,4,5,Electric,2021,7800,37502,120,2023-09-05,Un Sold,1970-01-01,6440,0,0,Piyush,2,0,Good
+YY7NC6,Carmix,Florida,Dzire,Maruti,Sedan,Gray,Manual,5,5,Diesel,2018,7200,29638,100,2019-02-02,Un Sold,1970-01-01,5509,0,0,Shailaja,1,0,Excellent
+RALKRK,Olx,Portland,Kags,Renault,SUV,Gray,Automatic,7,5,Hybrid,2015,9400,71734,175,2019-08-08,Un Sold,1970-01-01,8606,0,0,Vishwajeet,5,0,Average
+E3RWPY,Zupps,California,Seltos,Kia,Hatchback,Blue,Automatic,5,5,Diesel,2019,6600,48090,150,2020-11-03,Un Sold,1970-01-01,4787,0,0,Sai,3,0,Good
+05MSSL,Motor,Texas,Thar,Mahindra,SUV,Black,Automatic,5,3,Diesel,2023,7700,42435,130,2023-12-24,Sold,2023-07-12,6121,5492,-10,Rithvik,1,0,Poor
+TYB832,APE,Oklahoma,Dzire,Maruti,Sedan,Red,Manual,5,5,Hybrid,2023,7600,24366,100,2020-12-24,Un Sold,1970-01-01,5787,0,0,Pranav,1,0,Good
+D33DRO,Zupps,North Carolina,Scorpio,Mahindra,SUV,Red,Automatic,5,5,Petrol,2017,8200,42113,120,2020-07-11,Un Sold,1970-01-01,6445,0,0,Preeti,2,0,Average
+611DHC,APE,Tennessee,Etriga,Maruti,Hatchback,Blue,Automatic,4,5,Hybrid,2017,7700,36435,103,2022-05-11,Sold,2022-12-13,6361,7339,15,Krishna,3,196,Poor
+368LJI,Trivett,Texas,Hilux,Toyota,Truck,Red,Automatic,4,2,Electric,2019,9000,12244,200,2020-09-22,Sold,2020-10-06,7978,8513,7,Bhavani,3,107,Average
+SMBLCO,Trivett,Denver,Thar,Mahindra,SUV,Red,Manual,5,3,Electric,2023,9100,64317,130,2018-03-04,Un Sold,1970-01-01,8327,0,0,Pranav,3,0,Poor
+K8T1EE,Ahg,Tucson,Swift,Maruti,Sedan,Red,Automatic,5,4,Electric,2021,8300,19738,115,2018-07-03,Sold,2020-04-14,7421,7557,2,Preeti,3,27,Good
+P0S3OQ,Olx,Philadelphia,Hilux,Toyota,Truck,Black,Automatic,4,2,Petrol,2021,7300,53756,200,2021-03-01,Un Sold,1970-01-01,6072,0,0,Aditya,3,0,Good
+WEYGO5,Olx,Denver,Fortuner,Toyota,SUV,Blue,Manual,8,5,Electric,2024,9000,22809,200,2023-10-30,Un Sold,1970-01-01,7203,0,0,Supriya,2,0,Excellent
+6658AN,Trust,Utah,Plato,Prazo,Convertible,Black,Manual,2,2,Petrol,2015,9400,66664,250,2018-08-23,Un Sold,1970-01-01,8310,0,0,Narayan,3,0,Excellent
+F7AQN0,Nufor,Denver,Yodha,Tata,Truck,White,Automatic,3,2,Diesel,2024,7100,33994,100,2023-02-17,Un Sold,1970-01-01,6599,0,0,Pranav,5,0,Good
+MO0GA9,Skipper,Detroit,Thar,Mahindra,SUV,Red,Automatic,5,3,Petrol,2023,7600,78621,130,2016-12-12,Un Sold,1970-01-01,5915,0,0,Shruthi,4,0,Average
+3NIUA4,Trivett,Denver,Etriga,Maruti,Hatchback,Red,Manual,4,5,Hybrid,2022,7200,60078,103,2021-06-03,Sold,2021-10-16,5678,6334,12,Pranav,1,131,Good
+XA8X3R,Knox,California,Plato,Prazo,Convertible,Blue,Manual,2,2,Petrol,2019,9000,72336,250,2019-05-07,Un Sold,1970-01-01,7639,0,0,Aditya,4,0,Average
+GKITSY,Marchi,Detroit,Thar,Mahindra,SUV,Black,Automatic,5,3,Diesel,2022,7800,23657,130,2020-12-12,Un Sold,1970-01-01,6572,0,0,Dhruv,5,0,Excellent
+NZEWNX,Ahg,New York,Swift,Maruti,Sedan,Blue,Manual,5,4,Petrol,2023,6600,23328,115,2016-04-03,Un Sold,1970-01-01,5665,0,0,Bhavani,5,0,Average
+VSD7DD,Ahg,Tucson,Swift,Maruti,Sedan,Red,Automatic,5,4,Diesel,2022,6800,61126,115,2024-06-02,Un Sold,1970-01-01,4845,0,0,Sweta,2,0,Excellent
+HV0KZQ,Trust,San Jose,Seltos,Kia,Hatchback,Gray,Automatic,5,5,Hybrid,2022,7200,19631,150,2023-08-17,Un Sold,1970-01-01,5263,0,0,Shilpa,3,0,Average
+J4SW1V,Trust,Tennessee,Swift,Maruti,Sedan,White,Manual,5,4,Diesel,2021,6900,55384,115,2021-11-17,Sold,2024-07-04,5711,5035,-12,Shailaja,4,0,Poor
+EXVPDZ,Olx,Tennessee,Swift,Maruti,Sedan,Red,Automatic,5,4,Diesel,2024,6600,87497,115,2015-11-27,Un Sold,1970-01-01,5334,0,0,Ram,1,0,Excellent
+MQZWN8,APE,North Carolina,Etriga,Maruti,Hatchback,Red,Manual,4,5,Electric,2021,7800,34612,103,2016-08-26,Un Sold,1970-01-01,6182,0,0,Shruthi,2,0,Excellent
+H7YWRR,Carmudi,Detroit,Swift,Maruti,Sedan,White,Manual,5,4,Diesel,2017,7300,1883,115,2021-12-19,Sold,2024-12-02,5750,5888,2,Krishna,2,28,Excellent
+1J79MQ,Carmix,Tennessee,Fortuner,Toyota,SUV,Red,Automatic,8,5,Hybrid,2018,9100,95380,200,2021-07-12,Un Sold,1970-01-01,7764,0,0,Aditya,4,0,Excellent
+H0YT3L,Nufor,Utah,Plato,Prazo,Convertible,Blue,Manual,2,2,Hybrid,2016,10300,69830,250,2016-06-27,Sold,2018-07-16,8348,9603,15,Vishwajeet,4,251,Good
+R4VMMO,Automart,North Carolina,Dzire,Maruti,Sedan,Gray,Automatic,5,5,Hybrid,2015,8400,18976,100,2019-09-26,Sold,2021-03-06,6430,7322,14,Aarush,1,178,Poor
+Z27EM4,Carsome,Tucson,Fortuner,Toyota,SUV,White,Automatic,8,5,Electric,2015,9900,67694,200,2017-07-23,Un Sold,1970-01-01,9129,0,0,Aditya,4,0,Excellent
+BCW29W,Zupps,Tennessee,Seltos,Kia,Hatchback,Black,Automatic,5,5,Electric,2016,8300,20743,150,2021-04-06,Sold,2023-02-11,7649,6837,-11,Piyush,3,0,Excellent
+8X2AAL,Marchi,Chicago,Plato,Prazo,Convertible,Blue,Manual,2,2,Diesel,2019,9100,49460,250,2018-07-30,Un Sold,1970-01-01,8509,0,0,Bhavani,5,0,Good
+XE99UF,APE,Oklahoma,Fortuner,Toyota,SUV,Blue,Automatic,8,5,Electric,2016,9800,27493,200,2023-05-08,Un Sold,1970-01-01,9029,0,0,Krishna,1,0,Poor
+HLS2BR,Sobri,San Jose,Dzire,Maruti,Sedan,Black,Automatic,5,5,Diesel,2015,7500,33478,100,2019-11-03,Sold,2020-03-22,5599,5009,-11,Krishna,4,0,Average
+ACU2L2,Oto,North Carolina,Kags,Renault,SUV,Red,Automatic,7,5,Diesel,2017,8300,20539,175,2020-04-14,Un Sold,1970-01-01,7444,0,0,Krishna,1,0,Good
+HDV4AZ,Carmix,Portland,Thar,Mahindra,SUV,Gray,Automatic,5,3,Electric,2019,9500,53198,130,2016-04-25,Un Sold,1970-01-01,8592,0,0,Supriya,4,0,Poor
+P0W9PF,Zupps,Florida,Creta,Hyundai,Hatchback,Red,Manual,5,5,Diesel,2024,6100,17356,113,2019-12-08,Un Sold,1970-01-01,4789,0,0,Dhruv,2,0,Excellent
+FTYYZ6,Carmudi,North Carolina,Fortuner,Toyota,SUV,Gray,Manual,8,5,Electric,2015,9900,76415,200,2016-11-07,Un Sold,1970-01-01,7954,0,0,Swathi,3,0,Average
+QF54MJ,Marchi,California,Swift,Maruti,Sedan,Red,Automatic,5,4,Petrol,2024,6500,93563,115,2021-03-09,Un Sold,1970-01-01,5385,0,0,Arjuna,2,0,Average
+4E5CFB,Carousell,California,Etriga,Maruti,Hatchback,Black,Automatic,4,5,Diesel,2022,6300,75036,103,2024-07-14,Un Sold,1970-01-01,5348,0,0,Narayan,4,0,Excellent
+VUKJ5N,Nufor,Detroit,Fortuner,Toyota,SUV,Black,Manual,8,5,Diesel,2016,8400,36102,200,2023-06-18,Sold,2024-01-29,7478,8092,8,Preeti,5,123,Average
+WO8QYZ,Carmudi,California,Dzire,Maruti,Sedan,Gray,Automatic,5,5,Diesel,2022,6800,40741,100,2018-06-20,Un Sold,1970-01-01,6051,0,0,Narayan,5,0,Excellent
+DK6KEU,Kamkar,Chicago,Swift,Maruti,Sedan,White,Automatic,5,4,Hybrid,2021,7800,5063,115,2018-04-01,Un Sold,1970-01-01,7260,0,0,Bhavani,3,0,Average
+HQQP0J,Carmudi,San Jose,i20,Hyundai,Hatchback,Gray,Manual,4,5,Electric,2023,7600,48783,120,2015-10-20,Un Sold,1970-01-01,6215,0,0,Rithvik,5,0,Excellent
+QFLPVI,Knox,North Carolina,Dzire,Maruti,Sedan,Red,Automatic,5,5,Petrol,2021,6800,10064,100,2016-01-26,Un Sold,1970-01-01,5599,0,0,Shailaja,1,0,Poor
+VQ0FVS,Carsome,Portland,Hilux,Toyota,Truck,Black,Automatic,4,2,Hybrid,2023,8100,30602,200,2020-12-25,Un Sold,1970-01-01,7225,0,0,Shruthi,2,0,Average
+MP77F6,Carro,Denver,i20,Hyundai,Hatchback,Black,Automatic,4,5,Hybrid,2022,7200,51336,120,2020-05-11,Un Sold,1970-01-01,6214,0,0,Arjuna,1,0,Good
+Y12M9T,Sobri,North Carolina,Plato,Prazo,Convertible,Blue,Automatic,2,2,Hybrid,2018,10100,70962,250,2023-04-12,Un Sold,1970-01-01,8480,0,0,Aditya,4,0,Poor
+C3T7MY,Oto,Columbus,Etriga,Maruti,Hatchback,Black,Manual,4,5,Petrol,2017,6700,22431,103,2020-12-29,Un Sold,1970-01-01,5013,0,0,Sai,4,0,Excellent
+5A7145,Trust,Texas,Kags,Renault,SUV,Blue,Manual,7,5,Petrol,2024,7500,5117,175,2018-05-14,Un Sold,1970-01-01,5656,0,0,Supriya,2,0,Excellent
+XQSH8U,Skipper,Texas,Scorpio,Mahindra,SUV,Black,Automatic,5,5,Hybrid,2021,8800,83856,120,2018-02-24,Un Sold,1970-01-01,7455,0,0,Piyush,2,0,Average
+47CHHJ,Cars24,Florida,Kags,Renault,SUV,Red,Manual,7,5,Electric,2023,9100,22444,175,2019-07-26,Un Sold,1970-01-01,8150,0,0,Shailaja,1,0,Excellent
+OTLK65,Carmix,Texas,Kags,Renault,SUV,White,Manual,7,5,Electric,2022,9200,46731,175,2023-05-10,Un Sold,1970-01-01,8143,0,0,Pranav,4,0,Average
+LA1PZJ,Carsome,Tennessee,Etriga,Maruti,Hatchback,Black,Automatic,4,5,Hybrid,2016,7800,38348,103,2015-07-14,Un Sold,1970-01-01,7300,0,0,Anushka,4,0,Good
+XXDEHK,Knox,North Carolina,Plato,Prazo,Convertible,White,Automatic,2,2,Hybrid,2016,10300,21359,250,2016-05-21,Un Sold,1970-01-01,9217,0,0,Piyush,5,0,Average
+6YSGC1,Cars24,Madison,Creta,Hyundai,Hatchback,Blue,Automatic,5,5,Petrol,2020,6400,41697,113,2022-09-25,Un Sold,1970-01-01,5845,0,0,Hariom,3,0,Good
+PWXOJH,Trust,Florida,Scorpio,Mahindra,SUV,Blue,Automatic,5,5,Hybrid,2022,8700,5844,120,2019-07-09,Sold,2021-05-16,7983,9433,18,Shailaja,5,290,Average
+68EF6T,Olx,North Carolina,Fortuner,Toyota,SUV,Black,Manual,8,5,Electric,2016,9800,66620,200,2016-12-14,Un Sold,1970-01-01,9132,0,0,Rithvik,3,0,Excellent
+CVM3UN,Motor,Columbus,Kags,Renault,SUV,Blue,Manual,7,5,Electric,2019,9500,16504,175,2020-02-20,Un Sold,1970-01-01,8073,0,0,Narayan,4,0,Excellent
+AA5DFU,Automart,Tennessee,i20,Hyundai,Hatchback,Black,Automatic,4,5,Electric,2023,7600,1658,120,2016-03-27,Un Sold,1970-01-01,6099,0,0,Aditya,3,0,Excellent
+7B69GZ,Carmix,North Carolina,Yodha,Tata,Truck,Red,Automatic,3,2,Diesel,2019,7600,47348,100,2022-08-30,Sold,2024-08-24,6350,7753,22,Sweta,5,281,Excellent
+JP1EY6,Motor,Portland,Yodha,Tata,Truck,Red,Manual,3,2,Electric,2018,9100,92481,100,2023-06-30,Un Sold,1970-01-01,8433,0,0,Shailaja,3,0,Good
+29OPET,Carsome,Tennessee,Etriga,Maruti,Hatchback,Gray,Manual,4,5,Diesel,2021,6400,53302,103,2017-10-21,Un Sold,1970-01-01,4515,0,0,Shilpa,2,0,Average
+NLF4SL,APE,Portland,Plato,Prazo,Convertible,Red,Automatic,2,2,Diesel,2016,9400,64002,250,2017-02-10,Un Sold,1970-01-01,7971,0,0,Bhavani,3,0,Good
+X3WPAN,Carro,Utah,Fortuner,Toyota,SUV,Gray,Manual,8,5,Diesel,2017,8300,62091,200,2016-09-06,Un Sold,1970-01-01,7333,0,0,Shiva,4,0,Average
+HRCBGP,Knox,Tennessee,Plato,Prazo,Convertible,Gray,Manual,2,2,Petrol,2015,9400,76460,250,2017-05-04,Un Sold,1970-01-01,7871,0,0,Krishna,4,0,Excellent
+MORDGI,Automart,California,Hilux,Toyota,Truck,Red,Automatic,4,2,Petrol,2017,7700,21601,200,2021-10-21,Un Sold,1970-01-01,6816,0,0,Rithvik,2,0,Average
+B3NX0H,APE,Madison,Kags,Renault,SUV,Black,Manual,7,5,Diesel,2021,7900,45482,175,2019-04-07,Un Sold,1970-01-01,7052,0,0,Arjuna,3,0,Excellent
+FTQEN4,Knox,Detroit,Etriga,Maruti,Hatchback,Red,Manual,4,5,Hybrid,2018,7600,82559,103,2016-05-23,Sold,2016-12-21,6759,7792,15,Krishna,4,207,Excellent
+3UNFZZ,Nufor,Tennessee,Etriga,Maruti,Hatchback,Black,Automatic,4,5,Electric,2018,8100,68967,103,2016-07-03,Un Sold,1970-01-01,6655,0,0,Karan,2,0,Good
+I4EJ4P,Carousell,Philadelphia,Creta,Hyundai,Hatchback,White,Manual,5,5,Hybrid,2015,7900,60683,113,2023-11-10,Un Sold,1970-01-01,7398,0,0,Ram,3,0,Excellent
+3YI4FP,Trivett,North Carolina,Thar,Mahindra,SUV,White,Automatic,5,3,Diesel,2022,7800,27468,130,2024-06-19,Sold,2024-10-05,5838,5741,-2,Hariom,5,0,Excellent
+EN83O1,Motor,Philadelphia,i20,Hyundai,Hatchback,Gray,Automatic,4,5,Petrol,2015,6900,78625,120,2020-06-01,Un Sold,1970-01-01,6190,0,0,Narayan,2,0,Excellent
+EVS7X6,Carousell,Tennessee,Scorpio,Mahindra,SUV,White,Manual,5,5,Electric,2020,9400,10128,120,2020-06-14,Un Sold,1970-01-01,8313,0,0,Narayan,1,0,Average
+XPOSCT,APE,Oklahoma,Scorpio,Mahindra,SUV,Gray,Automatic,5,5,Hybrid,2018,9100,39042,120,2019-11-03,Un Sold,1970-01-01,8118,0,0,Vishwajeet,2,0,Good
+84B7KI,Automart,Tennessee,Yodha,Tata,Truck,Blue,Manual,3,2,Electric,2024,8500,68673,100,2020-03-02,Sold,2023-11-09,7414,8314,12,Aarush,1,180,Good
+RE2BPO,Oto,Columbus,Plato,Prazo,Convertible,Red,Manual,2,2,Diesel,2018,9200,23059,250,2018-08-17,Sold,2022-12-08,7206,8312,15,Rithvik,3,221,Excellent
+7COYSQ,Kamkar,Chicago,Plato,Prazo,Convertible,White,Automatic,2,2,Petrol,2018,9100,68529,250,2022-11-02,Un Sold,1970-01-01,8338,0,0,Swathi,4,0,Good
+WGAF30,Carsome,Oklahoma,Scorpio,Mahindra,SUV,Black,Automatic,5,5,Diesel,2015,8500,2489,120,2019-11-12,Un Sold,1970-01-01,6932,0,0,Shailaja,4,0,Good
+B92PGU,Knox,Detroit,Thar,Mahindra,SUV,Gray,Manual,5,3,Electric,2020,9400,3142,130,2019-11-16,Un Sold,1970-01-01,8406,0,0,Hariom,5,0,Excellent
+ZCQS6E,Kamkar,Utah,i20,Hyundai,Hatchback,Red,Automatic,4,5,Petrol,2019,6500,14483,120,2020-08-07,Un Sold,1970-01-01,5089,0,0,Vihaan,3,0,Excellent
+TP4HOD,Nufor,Chicago,Creta,Hyundai,Hatchback,Black,Manual,5,5,Petrol,2022,6200,45088,113,2023-04-24,Un Sold,1970-01-01,4458,0,0,Krishna,4,0,Average
+B64XAX,Carousell,Detroit,Fortuner,Toyota,SUV,Gray,Automatic,8,5,Petrol,2024,7500,16025,200,2023-04-23,Un Sold,1970-01-01,5678,0,0,Vihaan,1,0,Good
+K30YTO,Sobri,North Carolina,Seltos,Kia,Hatchback,Red,Automatic,5,5,Electric,2021,7800,61605,150,2022-03-23,Sold,2022-08-05,6830,8292,21,Pavan,2,292,Poor
+8JMZR6,APE,North Carolina,Kags,Renault,SUV,Blue,Manual,7,5,Hybrid,2021,8800,30235,175,2019-02-16,Un Sold,1970-01-01,8258,0,0,Supriya,5,0,Excellent
+17FGOZ,Olx,Detroit,Kags,Renault,SUV,Blue,Automatic,7,5,Hybrid,2019,9000,55755,175,2019-08-28,Un Sold,1970-01-01,8170,0,0,Shruthi,2,0,Average
+I2YDU5,Marchi,Madison,Scorpio,Mahindra,SUV,Black,Automatic,5,5,Petrol,2016,8300,48761,120,2015-12-31,Un Sold,1970-01-01,7411,0,0,Swathi,2,0,Excellent
+7LUJQH,Carsome,Madison,Seltos,Kia,Hatchback,Black,Manual,5,5,Hybrid,2023,7100,97875,150,2023-10-01,Sold,2023-05-26,5215,6186,19,Aditya,1,194,Good
+KZ1R5D,Skipper,Chicago,Etriga,Maruti,Hatchback,Blue,Manual,4,5,Hybrid,2023,7100,70578,103,2017-07-11,Un Sold,1970-01-01,5277,0,0,Vishwajeet,5,0,Excellent
+DKXDN0,Skipper,Portland,Creta,Hyundai,Hatchback,Black,Automatic,5,5,Petrol,2020,6400,17179,113,2021-04-08,Un Sold,1970-01-01,4969,0,0,Rithvik,2,0,Excellent
+0EVWX5,Knox,Tennessee,Etriga,Maruti,Hatchback,Red,Manual,4,5,Electric,2023,7600,99943,103,2023-01-26,Sold,2023-04-14,7098,6063,-15,Krishna,5,0,Good
+DOS58L,Carousell,Tennessee,Fortuner,Toyota,SUV,Blue,Manual,8,5,Hybrid,2023,8600,68304,200,2020-06-29,Un Sold,1970-01-01,7048,0,0,Swathi,2,0,Excellent
+TLOV9Y,Carmix,Chicago,Hilux,Toyota,Truck,Black,Manual,4,2,Diesel,2018,7700,49792,200,2021-10-01,Un Sold,1970-01-01,6617,0,0,Aditya,5,0,Good
+IKF7SG,Motor,Utah,Yodha,Tata,Truck,Red,Automatic,3,2,Petrol,2017,7700,3500,100,2019-10-19,Un Sold,1970-01-01,5812,0,0,Swathi,2,0,Excellent
+HPEEQW,Ahg,North Carolina,Plato,Prazo,Convertible,Black,Manual,2,2,Electric,2020,10400,37079,250,2023-04-24,Un Sold,1970-01-01,8720,0,0,Karan,2,0,Good
+2CS9QV,Trivett,Philadelphia,i20,Hyundai,Hatchback,White,Manual,4,5,Electric,2015,8400,54828,120,2016-12-17,Un Sold,1970-01-01,7049,0,0,Pavan,5,0,Excellent
+G4HML1,Sobri,Oklahoma,Seltos,Kia,Hatchback,Black,Automatic,5,5,Petrol,2024,6000,4669,150,2015-10-24,Un Sold,1970-01-01,4466,0,0,Shailaja,5,0,Excellent
+LYZVB2,Oto,Columbus,Yodha,Tata,Truck,Gray,Automatic,3,2,Hybrid,2022,8200,14578,100,2018-09-02,Un Sold,1970-01-01,6540,0,0,Aditya,3,0,Good
+SS4KDY,Zupps,Utah,Creta,Hyundai,Hatchback,Gray,Manual,5,5,Petrol,2019,6500,84932,113,2023-03-29,Sold,2023-09-19,4628,6082,31,Preeti,5,291,Average
+H3L3G6,Zupps,Madison,Creta,Hyundai,Hatchback,Blue,Automatic,5,5,Electric,2018,8100,22710,113,2022-09-02,Un Sold,1970-01-01,6643,0,0,Dhruv,3,0,Good
+JN951E,Carsome,Utah,Fortuner,Toyota,SUV,Red,Manual,8,5,Electric,2024,9000,66951,200,2016-03-18,Sold,2019-06-27,7397,6363,-14,Vihaan,5,0,Poor
+CB08GC,Cars24,Denver,Etriga,Maruti,Hatchback,Red,Manual,4,5,Hybrid,2020,7400,10768,103,2018-07-24,Un Sold,1970-01-01,6374,0,0,Narayan,2,0,Good
+K6RWQ5,Carousell,Tucson,Yodha,Tata,Truck,Blue,Automatic,3,2,Diesel,2017,7800,17466,100,2015-07-18,Un Sold,1970-01-01,6307,0,0,Anushka,2,0,Excellent
+GN2QNZ,Sobri,Detroit,Swift,Maruti,Sedan,Red,Manual,5,4,Petrol,2015,7400,88406,115,2020-09-17,Un Sold,1970-01-01,6300,0,0,Shilpa,3,0,Good
+IRTMEG,Trust,California,Dzire,Maruti,Sedan,Gray,Manual,5,5,Diesel,2016,7400,72397,100,2020-11-08,Un Sold,1970-01-01,6248,0,0,Shilpa,4,0,Good
+8MO6TQ,Trivett,California,Hilux,Toyota,Truck,White,Manual,4,2,Electric,2021,8800,23316,200,2022-09-24,Un Sold,1970-01-01,8151,0,0,Sweta,1,0,Good
+8ZVVRD,Knox,Philadelphia,Yodha,Tata,Truck,Gray,Automatic,3,2,Diesel,2021,7400,74817,100,2022-09-29,Un Sold,1970-01-01,5883,0,0,Piyush,3,0,Good
+AQKVX5,Carmudi,Tucson,Dzire,Maruti,Sedan,Black,Manual,5,5,Electric,2022,8200,76584,100,2024-02-17,Un Sold,1970-01-01,7618,0,0,Bhavani,4,0,Excellent
+U6DBQY,Knox,Tennessee,Yodha,Tata,Truck,Red,Manual,3,2,Hybrid,2018,8600,87545,100,2022-04-25,Un Sold,1970-01-01,6834,0,0,Arjuna,2,0,Poor
+U6ZYZA,Oto,North Carolina,Dzire,Maruti,Sedan,Blue,Automatic,5,5,Petrol,2019,7000,59041,100,2024-12-05,Un Sold,1970-01-01,5680,0,0,Hariom,2,0,Average
+NP2N92,Trivett,New York,Swift,Maruti,Sedan,Black,Manual,5,4,Petrol,2020,6900,66099,115,2016-12-13,Sold,2018-02-05,5539,5713,3,Pavan,3,35,Excellent
+VV75V0,Cars24,Philadelphia,Kags,Renault,SUV,Red,Automatic,7,5,Petrol,2021,7800,21474,175,2015-11-09,Un Sold,1970-01-01,5992,0,0,Aditya,2,0,Good
+PDS7YF,Cars24,Portland,Kags,Renault,SUV,Blue,Automatic,7,5,Electric,2023,9100,86798,175,2021-12-06,Sold,2022-09-30,7655,7770,2,Aditya,3,23,Excellent
+J54TBL,Nufor,Philadelphia,Fortuner,Toyota,SUV,Black,Automatic,8,5,Petrol,2017,8200,28803,200,2018-09-23,Un Sold,1970-01-01,6228,0,0,Swapna,5,0,Good
+P0NZW2,Marchi,California,Thar,Mahindra,SUV,Red,Manual,5,3,Petrol,2021,7800,61497,130,2023-08-28,Sold,2024-08-16,5892,4895,-17,Hariom,4,0,Good
+KTNQ1U,Carmudi,Chicago,Creta,Hyundai,Hatchback,Black,Manual,5,5,Hybrid,2016,7800,62489,113,2016-07-03,Un Sold,1970-01-01,7046,0,0,Supriya,4,0,Good
+EF91L2,Motor,North Carolina,Kags,Renault,SUV,Blue,Manual,7,5,Electric,2022,9200,13640,175,2017-07-26,Un Sold,1970-01-01,7986,0,0,Shilpa,1,0,Excellent
+PQGTV4,Cars24,Detroit,Creta,Hyundai,Hatchback,Black,Automatic,5,5,Petrol,2023,6100,2569,113,2022-03-24,Un Sold,1970-01-01,4113,0,0,Sai,4,0,Excellent
+0MVBV2,Cars24,San Jose,Yodha,Tata,Truck,White,Automatic,3,2,Petrol,2023,7100,21232,100,2017-06-18,Un Sold,1970-01-01,5524,0,0,Arjuna,4,0,Poor
+BKODAP,Trust,Oklahoma,Thar,Mahindra,SUV,Black,Automatic,5,3,Hybrid,2021,8800,50325,130,2019-08-29,Un Sold,1970-01-01,7016,0,0,Piyush,4,0,Average
+ADO2VF,Motor,Florida,i20,Hyundai,Hatchback,Black,Manual,4,5,Petrol,2015,6900,70715,120,2017-07-26,Un Sold,1970-01-01,5619,0,0,Vishwajeet,3,0,Excellent
+LYVUL6,Carmudi,Texas,Swift,Maruti,Sedan,White,Automatic,5,4,Electric,2020,8400,88316,115,2022-07-12,Un Sold,1970-01-01,6830,0,0,Hariom,5,0,Excellent
+PE41ZC,Carro,Tucson,Creta,Hyundai,Hatchback,Red,Automatic,5,5,Electric,2022,7700,50986,113,2024-09-05,Un Sold,1970-01-01,6919,0,0,Karan,1,0,Average
+V4BGJT,Carsome,Chicago,Swift,Maruti,Sedan,Black,Manual,5,4,Hybrid,2015,8400,7466,115,2024-07-20,Un Sold,1970-01-01,7853,0,0,Rithvik,1,0,Good
+94OX7J,Trust,Denver,Hilux,Toyota,Truck,Blue,Automatic,4,2,Electric,2019,9000,18289,200,2023-02-15,Un Sold,1970-01-01,7596,0,0,Shruthi,5,0,Poor
+2FHYQN,Carmudi,Texas,Fortuner,Toyota,SUV,Gray,Manual,8,5,Hybrid,2024,8500,35232,200,2021-05-12,Un Sold,1970-01-01,7538,0,0,Swathi,3,0,Average
+N8XTHI,Olx,New York,i20,Hyundai,Hatchback,Black,Manual,4,5,Petrol,2020,6400,7448,120,2022-09-08,Un Sold,1970-01-01,4624,0,0,Supriya,1,0,Excellent
+F47RZM,Motor,Detroit,Kags,Renault,SUV,Red,Automatic,7,5,Diesel,2020,8000,56927,175,2023-12-30,Un Sold,1970-01-01,7101,0,0,Shilpa,4,0,Average
+XSE0GK,Nufor,Chicago,Kags,Renault,SUV,Black,Manual,7,5,Electric,2015,9900,66580,175,2017-04-17,Un Sold,1970-01-01,9255,0,0,Ram,2,0,Good
+VZN4Y8,Nufor,Portland,Thar,Mahindra,SUV,White,Automatic,5,3,Electric,2020,9400,74259,130,2015-11-12,Un Sold,1970-01-01,8181,0,0,Vishwajeet,2,0,Poor
+DUWKA7,Marchi,Florida,Scorpio,Mahindra,SUV,White,Manual,5,5,Petrol,2015,8400,71774,120,2023-11-20,Un Sold,1970-01-01,7046,0,0,Shilpa,2,0,Average
+9VEJVQ,APE,Texas,Swift,Maruti,Sedan,Blue,Manual,5,4,Petrol,2015,7400,39113,115,2020-05-09,Un Sold,1970-01-01,6833,0,0,Krishna,3,0,Good
+HPY4J3,APE,San Jose,Creta,Hyundai,Hatchback,Gray,Manual,5,5,Hybrid,2018,7600,88947,113,2024-10-06,Un Sold,1970-01-01,6322,0,0,Aditya,3,0,Excellent
+VD5SX8,Oto,North Carolina,Scorpio,Mahindra,SUV,Gray,Automatic,5,5,Electric,2017,9700,27316,120,2024-03-20,Un Sold,1970-01-01,8965,0,0,Piyush,3,0,Average
+VDVQQM,Ahg,San Jose,i20,Hyundai,Hatchback,Blue,Manual,4,5,Petrol,2021,6300,27579,120,2020-07-10,Un Sold,1970-01-01,4943,0,0,Piyush,3,0,Excellent
+HIALZ2,Automart,Texas,Etriga,Maruti,Hatchback,Black,Manual,4,5,Hybrid,2023,7100,85126,103,2023-06-22,Un Sold,1970-01-01,6342,0,0,Ram,4,0,Excellent
+IO5SHA,Carro,Portland,Yodha,Tata,Truck,Red,Manual,3,2,Petrol,2022,7200,91575,100,2024-02-18,Un Sold,1970-01-01,6266,0,0,Swathi,1,0,Excellent
+0IGEP7,Marchi,San Jose,Kags,Renault,SUV,Black,Manual,7,5,Electric,2021,9300,1404,175,2023-07-23,Un Sold,1970-01-01,7764,0,0,Sweta,4,0,Good
+QT2ADY,Ahg,North Carolina,Scorpio,Mahindra,SUV,Blue,Automatic,5,5,Diesel,2018,8200,66727,120,2021-03-07,Un Sold,1970-01-01,6985,0,0,Arjuna,1,0,Poor
+FHR95T,Cars24,Madison,Hilux,Toyota,Truck,Black,Manual,4,2,Petrol,2023,7100,81619,200,2016-02-18,Sold,2020-07-26,5107,5902,16,Shailaja,3,159,Good
+KZAABQ,Skipper,North Carolina,Etriga,Maruti,Hatchback,Blue,Manual,4,5,Electric,2022,7700,71382,103,2023-06-27,Sold,2023-07-31,6501,5920,-9,Anushka,4,0,Poor
+0HRYGG,Trivett,Detroit,Etriga,Maruti,Hatchback,Black,Automatic,4,5,Diesel,2020,6500,34652,103,2017-03-16,Un Sold,1970-01-01,5262,0,0,Sweta,1,0,Good
+VH5Y75,Olx,North Carolina,i20,Hyundai,Hatchback,Blue,Manual,4,5,Petrol,2022,6200,14708,120,2024-02-08,Un Sold,1970-01-01,5547,0,0,Anushka,1,0,Excellent
+PF5L76,Carmix,Tennessee,Fortuner,Toyota,SUV,White,Automatic,8,5,Electric,2023,9100,78996,200,2022-11-24,Un Sold,1970-01-01,7361,0,0,Narayan,1,0,Excellent
+15YA8L,Oto,Denver,Yodha,Tata,Truck,Red,Automatic,3,2,Petrol,2016,7800,11530,100,2023-09-05,Sold,2023-11-24,6996,7643,9,Narayan,2,129,Good
+VLRA96,Motor,Philadelphia,Hilux,Toyota,Truck,Blue,Automatic,4,2,Petrol,2021,7300,12990,200,2016-06-20,Un Sold,1970-01-01,5337,0,0,Shiva,1,0,Excellent
+V9089M,Carmudi,Texas,Swift,Maruti,Sedan,Gray,Manual,5,4,Diesel,2016,7400,41568,115,2020-07-21,Sold,2020-11-11,6102,6043,-1,Aarush,1,0,Good
+AYE4MA,Carmix,Madison,Creta,Hyundai,Hatchback,Red,Automatic,5,5,Petrol,2017,6700,73668,113,2024-07-21,Un Sold,1970-01-01,5019,0,0,Narayan,5,0,Good
+BFEB26,Cars24,Denver,Hilux,Toyota,Truck,Black,Automatic,4,2,Petrol,2023,7100,86668,200,2022-05-28,Un Sold,1970-01-01,5932,0,0,Bhavani,2,0,Average
+CTKIYD,Motor,Tennessee,Creta,Hyundai,Hatchback,Red,Automatic,5,5,Petrol,2024,6000,85488,113,2020-09-23,Sold,2022-02-21,4797,6263,31,Karan,3,293,Excellent
+JFLF0I,Cars24,North Carolina,Yodha,Tata,Truck,Blue,Automatic,3,2,Petrol,2018,7600,21408,100,2016-08-27,Un Sold,1970-01-01,6751,0,0,Hariom,1,0,Excellent
+6DLABK,Knox,New York,Seltos,Kia,Hatchback,Blue,Automatic,5,5,Electric,2017,8200,12525,150,2017-07-13,Un Sold,1970-01-01,7473,0,0,Shiva,2,0,Good
+39ZG4X,Skipper,Texas,Etriga,Maruti,Hatchback,Black,Manual,4,5,Diesel,2021,6400,66294,103,2021-08-05,Un Sold,1970-01-01,5291,0,0,Krishna,3,0,Excellent
+5FMVOS,Skipper,Portland,Hilux,Toyota,Truck,Blue,Automatic,4,2,Hybrid,2017,8700,85826,200,2018-04-25,Un Sold,1970-01-01,7635,0,0,Pavan,1,0,Excellent
+5GZBKH,Trust,Denver,Scorpio,Mahindra,SUV,Gray,Automatic,5,5,Diesel,2024,7600,58302,120,2021-10-26,Un Sold,1970-01-01,6231,0,0,Shailaja,3,0,Good
+3TS1U9,Automart,New York,Dzire,Maruti,Sedan,Red,Manual,5,5,Petrol,2020,6900,37751,100,2021-08-15,Un Sold,1970-01-01,6268,0,0,Sweta,3,0,Excellent
+9VUJ01,Olx,Columbus,Swift,Maruti,Sedan,Blue,Automatic,5,4,Petrol,2024,6500,93997,115,2019-08-23,Un Sold,1970-01-01,5652,0,0,Krishna,2,0,Good
+7LC9UU,Knox,California,Kags,Renault,SUV,Red,Automatic,7,5,Petrol,2023,7600,14704,175,2023-01-15,Sold,2023-06-04,5929,5491,-7,Vishwajeet,5,0,Average
+E5WM69,Olx,Denver,Thar,Mahindra,SUV,Black,Automatic,5,3,Diesel,2020,8000,46821,130,2024-11-29,Sold,2024-11-12,6474,7484,16,Sai,3,202,Good
+DJJ2FA,Trivett,New York,Creta,Hyundai,Hatchback,Red,Automatic,5,5,Electric,2016,8300,95887,113,2024-09-09,Un Sold,1970-01-01,7467,0,0,Aarush,2,0,Good
+NKS82O,Carmudi,San Jose,Swift,Maruti,Sedan,Blue,Manual,5,4,Diesel,2019,7100,61927,115,2018-07-09,Un Sold,1970-01-01,6158,0,0,Sai,3,0,Excellent
+XSKNZT,Oto,New York,Plato,Prazo,Convertible,Blue,Manual,2,2,Diesel,2023,8700,64879,250,2023-07-23,Un Sold,1970-01-01,7671,0,0,Swathi,3,0,Excellent
+FKVPDQ,Skipper,North Carolina,Etriga,Maruti,Hatchback,Blue,Manual,4,5,Diesel,2024,6100,69650,103,2021-03-10,Un Sold,1970-01-01,4374,0,0,Krishna,3,0,Good
+PEOY92,Zupps,Madison,Fortuner,Toyota,SUV,Black,Automatic,8,5,Electric,2021,9300,72031,200,2015-02-17,Un Sold,1970-01-01,7549,0,0,Pavan,4,0,Good
+ZLOE0F,APE,Texas,Kags,Renault,SUV,White,Automatic,7,5,Electric,2016,9800,59875,175,2018-02-12,Un Sold,1970-01-01,8309,0,0,Hariom,5,0,Average
+FIHV9Q,Motor,Portland,Thar,Mahindra,SUV,Red,Manual,5,3,Petrol,2020,7900,84602,130,2022-09-10,Un Sold,1970-01-01,6917,0,0,Shruthi,4,0,Excellent
+WRS20F,Oto,Tennessee,Yodha,Tata,Truck,Blue,Automatic,3,2,Hybrid,2024,8000,7882,100,2023-07-18,Un Sold,1970-01-01,6522,0,0,Swathi,1,0,Excellent
+1RQ2I1,Carsome,Tennessee,Dzire,Maruti,Sedan,Gray,Manual,5,5,Hybrid,2019,8000,78043,100,2015-01-29,Un Sold,1970-01-01,7428,0,0,Rithvik,1,0,Good
+CNLVFD,Carro,Utah,Creta,Hyundai,Hatchback,Black,Automatic,5,5,Electric,2018,8100,51205,113,2017-01-31,Un Sold,1970-01-01,6962,0,0,Karan,4,0,Excellent
+X575S0,Ahg,Chicago,Scorpio,Mahindra,SUV,Red,Manual,5,5,Hybrid,2016,9300,17139,120,2024-11-19,Un Sold,1970-01-01,7824,0,0,Narayan,2,0,Excellent
+5R3A4K,Motor,North Carolina,i20,Hyundai,Hatchback,Blue,Manual,4,5,Diesel,2024,6100,33362,120,2017-06-03,Un Sold,1970-01-01,5267,0,0,Preeti,1,0,Excellent
+AP2CN6,Ahg,California,Etriga,Maruti,Hatchback,Blue,Manual,4,5,Hybrid,2019,7500,61906,103,2018-03-02,Sold,2021-11-12,6581,6041,-8,Piyush,5,0,Excellent
+5S8V12,Nufor,Utah,Dzire,Maruti,Sedan,White,Automatic,5,5,Petrol,2019,7000,86516,100,2019-01-23,Un Sold,1970-01-01,5679,0,0,Hariom,2,0,Excellent
+6O5GFW,Carmudi,Philadelphia,Yodha,Tata,Truck,White,Automatic,3,2,Petrol,2024,7000,25411,100,2020-12-19,Un Sold,1970-01-01,6274,0,0,Dhruv,4,0,Good
+X14OE1,Trust,Denver,Creta,Hyundai,Hatchback,Black,Automatic,5,5,Diesel,2018,6700,61508,113,2015-03-15,Un Sold,1970-01-01,4775,0,0,Supriya,5,0,Excellent
+MAKA98,Carmix,Denver,Hilux,Toyota,Truck,Gray,Manual,4,2,Petrol,2016,7800,65838,200,2024-01-10,Sold,2024-06-02,5978,5202,-13,Supriya,5,0,Good
+YF0UYB,Carmudi,San Jose,Fortuner,Toyota,SUV,Red,Automatic,8,5,Hybrid,2021,8800,48658,200,2022-05-12,Un Sold,1970-01-01,7513,0,0,Pranav,1,0,Good
+8Q042L,Knox,Oklahoma,Swift,Maruti,Sedan,White,Manual,5,4,Electric,2016,8800,43094,115,2022-01-29,Un Sold,1970-01-01,7060,0,0,Sai,1,0,Excellent
+ZR85IS,Skipper,Tennessee,Fortuner,Toyota,SUV,Blue,Manual,8,5,Diesel,2017,8300,9689,200,2016-07-10,Sold,2016-03-18,7248,7821,8,Ram,5,115,Good
+3QTX7M,Ahg,New York,Plato,Prazo,Convertible,Black,Automatic,2,2,Petrol,2018,9100,42448,250,2016-10-01,Un Sold,1970-01-01,7595,0,0,Vishwajeet,5,0,Good
+IGSTMF,Kamkar,Philadelphia,Seltos,Kia,Hatchback,White,Manual,5,5,Petrol,2024,6000,38351,150,2020-10-04,Un Sold,1970-01-01,5330,0,0,Rithvik,5,0,Good
+YLQ6XD,Automart,Detroit,Hilux,Toyota,Truck,Gray,Manual,4,2,Electric,2023,8600,51868,200,2016-03-26,Un Sold,1970-01-01,7078,0,0,Karan,1,0,Average
+UQ4TKR,Carsome,Denver,Creta,Hyundai,Hatchback,Black,Manual,5,5,Petrol,2020,6400,11799,113,2015-12-11,Un Sold,1970-01-01,5360,0,0,Preeti,1,0,Poor
+6BO7QX,Marchi,Madison,Yodha,Tata,Truck,Blue,Automatic,3,2,Hybrid,2022,8200,77309,100,2019-03-18,Un Sold,1970-01-01,6240,0,0,Preeti,1,0,Good
+38O8YF,Carousell,Detroit,Plato,Prazo,Convertible,Blue,Automatic,2,2,Diesel,2021,8900,79070,250,2015-04-13,Un Sold,1970-01-01,7051,0,0,Vihaan,3,0,Good
+JGEKL2,Automart,Utah,Hilux,Toyota,Truck,Gray,Manual,4,2,Hybrid,2018,8600,98180,200,2017-02-14,Sold,2023-11-29,7566,6830,-10,Ram,4,0,Good
+T99WQH,Cars24,Chicago,Creta,Hyundai,Hatchback,Red,Automatic,5,5,Petrol,2020,6400,8764,113,2018-05-18,Un Sold,1970-01-01,5587,0,0,Vishwajeet,1,0,Excellent
+D5XYP6,Carro,Philadelphia,Yodha,Tata,Truck,Gray,Manual,3,2,Diesel,2020,7500,9374,100,2019-04-07,Un Sold,1970-01-01,6694,0,0,Preeti,4,0,Poor
+0RNX3L,Marchi,San Jose,Fortuner,Toyota,SUV,Blue,Manual,8,5,Hybrid,2018,9100,21268,200,2024-08-03,Un Sold,1970-01-01,7893,0,0,Shilpa,1,0,Good
+RJPJ86,Carmudi,Madison,Yodha,Tata,Truck,Black,Manual,3,2,Petrol,2019,7500,39717,100,2018-02-05,Un Sold,1970-01-01,5509,0,0,Shailaja,1,0,Good
+APUBJD,Automart,Philadelphia,Yodha,Tata,Truck,Black,Automatic,3,2,Hybrid,2017,8700,11742,100,2018-08-03,Un Sold,1970-01-01,6830,0,0,Bhavani,3,0,Good
+7OHLML,Marchi,Utah,Thar,Mahindra,SUV,Red,Manual,5,3,Petrol,2023,7600,13557,130,2023-06-24,Un Sold,1970-01-01,6065,0,0,Sai,5,0,Good
+CHOABR,Knox,San Jose,Hilux,Toyota,Truck,Blue,Automatic,4,2,Diesel,2023,7200,90474,200,2018-09-12,Un Sold,1970-01-01,5342,0,0,Bhavani,2,0,Average
+MPXL64,Skipper,Detroit,Kags,Renault,SUV,Blue,Manual,7,5,Electric,2018,9600,7138,175,2016-05-30,Sold,2024-12-23,8714,8589,-1,Pavan,5,0,Excellent
+89L3ZE,APE,Detroit,i20,Hyundai,Hatchback,Red,Manual,4,5,Petrol,2023,6100,79168,120,2017-11-04,Un Sold,1970-01-01,4616,0,0,Arjuna,1,0,Good
+3XW5UX,Carousell,Madison,Plato,Prazo,Convertible,White,Automatic,2,2,Hybrid,2019,10000,15726,250,2021-05-02,Sold,2021-10-23,8095,7540,-7,Dhruv,4,0,Average
+ZCDAKN,Sobri,Denver,Thar,Mahindra,SUV,Blue,Automatic,5,3,Diesel,2021,7900,62069,130,2024-08-19,Un Sold,1970-01-01,6355,0,0,Pavan,3,0,Poor
+00AQJ0,Kamkar,Madison,i20,Hyundai,Hatchback,Gray,Automatic,4,5,Hybrid,2020,7400,53743,120,2018-11-22,Un Sold,1970-01-01,6597,0,0,Aditya,1,0,Poor
+UJ3HWD,Trust,Chicago,Kags,Renault,SUV,Black,Automatic,7,5,Hybrid,2020,8900,54093,175,2016-05-18,Un Sold,1970-01-01,7383,0,0,Shiva,1,0,Good
+5D27GP,Olx,Chicago,Kags,Renault,SUV,Black,Automatic,7,5,Petrol,2016,8300,58458,175,2015-03-23,Sold,2022-03-10,7050,7928,12,Sai,1,176,Good
+NC8956,Skipper,Tucson,Swift,Maruti,Sedan,Gray,Automatic,5,4,Hybrid,2018,8100,30312,115,2020-04-01,Un Sold,1970-01-01,7516,0,0,Dhruv,3,0,Excellent
+CNKL5W,Ahg,Philadelphia,Swift,Maruti,Sedan,Red,Manual,5,4,Petrol,2016,7300,15028,115,2024-12-23,Un Sold,1970-01-01,6511,0,0,Preeti,3,0,Good
+TD8YKN,Motor,Portland,Etriga,Maruti,Hatchback,Blue,Manual,4,5,Petrol,2017,6700,22751,103,2015-05-08,Un Sold,1970-01-01,4894,0,0,Supriya,2,0,Excellent
+465985,Automart,New York,Yodha,Tata,Truck,Black,Manual,3,2,Diesel,2024,7100,62777,100,2016-10-20,Un Sold,1970-01-01,5119,0,0,Swapna,3,0,Average
+M9NPH7,Carmix,Detroit,Swift,Maruti,Sedan,Blue,Manual,5,4,Diesel,2017,7300,53686,115,2016-04-21,Sold,2018-09-01,6268,6567,5,Krishna,2,60,Excellent
+RCXMBQ,Carsome,Florida,Swift,Maruti,Sedan,Black,Automatic,5,4,Petrol,2024,6500,18054,115,2015-03-12,Un Sold,1970-01-01,5945,0,0,Arjuna,4,0,Average
+55I1CS,Automart,Utah,Seltos,Kia,Hatchback,White,Automatic,5,5,Petrol,2023,6100,6550,150,2023-08-24,Un Sold,1970-01-01,5010,0,0,Krishna,2,0,Excellent
+F9ACC7,Olx,Tucson,Etriga,Maruti,Hatchback,Black,Automatic,4,5,Diesel,2016,6900,80568,103,2020-11-16,Sold,2024-03-10,5492,7023,28,Aditya,3,306,Average
+84TWNH,Carmudi,Chicago,Plato,Prazo,Convertible,Blue,Manual,2,2,Petrol,2022,8700,94069,250,2024-01-26,Sold,2024-07-12,7717,9241,20,Sai,1,305,Average
+1FN8I5,Olx,Chicago,Swift,Maruti,Sedan,Black,Manual,5,4,Electric,2019,8500,66558,115,2019-01-23,Un Sold,1970-01-01,7496,0,0,Sai,3,0,Excellent
+RIZHAM,Carro,Oklahoma,i20,Hyundai,Hatchback,Black,Automatic,4,5,Diesel,2015,7000,68140,120,2022-03-15,Un Sold,1970-01-01,5833,0,0,Swathi,4,0,Poor
+BMMAN8,Skipper,Denver,Kags,Renault,SUV,Red,Manual,7,5,Hybrid,2019,9000,69665,175,2017-10-27,Un Sold,1970-01-01,7220,0,0,Karan,1,0,Average
+YSDYZU,Carmudi,California,i20,Hyundai,Hatchback,Red,Manual,4,5,Petrol,2021,6300,19063,120,2016-02-05,Un Sold,1970-01-01,4888,0,0,Aarush,3,0,Average
+NDDP59,Trust,Chicago,Fortuner,Toyota,SUV,Blue,Manual,8,5,Diesel,2018,8200,53458,200,2023-01-29,Un Sold,1970-01-01,6813,0,0,Shiva,3,0,Excellent
+CLF8IF,Nufor,North Carolina,Plato,Prazo,Convertible,Blue,Automatic,2,2,Electric,2015,10900,75019,250,2016-02-25,Un Sold,1970-01-01,10095,0,0,Shilpa,3,0,Average
+TAQ4S7,Sobri,New York,i20,Hyundai,Hatchback,Red,Manual,4,5,Petrol,2016,6800,36630,120,2021-03-08,Un Sold,1970-01-01,5299,0,0,Pavan,1,0,Excellent
+YKU72L,Olx,San Jose,Plato,Prazo,Convertible,Red,Manual,2,2,Hybrid,2020,9900,34358,250,2015-12-06,Un Sold,1970-01-01,8619,0,0,Sweta,1,0,Excellent
+VG1XC2,Carmix,Florida,i20,Hyundai,Hatchback,Black,Automatic,4,5,Hybrid,2015,7900,24302,120,2021-02-02,Un Sold,1970-01-01,6474,0,0,Aarush,3,0,Excellent
+C43MUH,Carsome,North Carolina,Etriga,Maruti,Hatchback,Blue,Automatic,4,5,Petrol,2022,6200,5122,103,2020-02-21,Un Sold,1970-01-01,5218,0,0,Dhruv,2,0,Excellent
+GW8DKK,Automart,North Carolina,Thar,Mahindra,SUV,Red,Manual,5,3,Diesel,2018,8200,75316,130,2022-12-24,Un Sold,1970-01-01,6403,0,0,Swapna,1,0,Excellent
+PS7BLS,Automart,Florida,i20,Hyundai,Hatchback,Gray,Automatic,4,5,Petrol,2022,6200,41339,120,2015-05-24,Sold,2020-07-03,4909,5953,21,Bhavani,5,209,Excellent
+TDXTP8,Knox,Detroit,i20,Hyundai,Hatchback,Blue,Manual,4,5,Hybrid,2019,7500,15903,120,2020-01-09,Un Sold,1970-01-01,5750,0,0,Ram,5,0,Excellent
+UNA667,Skipper,Texas,Dzire,Maruti,Sedan,White,Manual,5,5,Electric,2021,8300,74268,100,2018-03-28,Un Sold,1970-01-01,6989,0,0,Piyush,3,0,Excellent
